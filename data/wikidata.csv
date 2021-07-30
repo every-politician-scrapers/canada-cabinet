@@ -1,5 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q16211070,Ahmed Hussen,Ahmed Hussen,male,1976-01-01T00:00:00Z,9,,Q6866194,"minister of Families, Children and Social Development",Q16211070-24e01f58-4de6-3f9f-651e-e8e2eda8c73b
+Q16211070,Ahmed Hussen,Ahmed Hussen,male,1976-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q6866194,"Minister of Families, Children and Social Development",Q16211070-24e01f58-4de6-3f9f-651e-e8e2eda8c73b
 Q67442310,Anita Anand,Anita Anand,female,1967-01-01T00:00:00Z,9,,Q6866295,Minister of Public Services and Procurement,Q67442310-421ae80d-47b4-bc97-2d39-985327cc18a1
 Q2403422,Carolyn Bennett,Carolyn Bennett,female,1950-12-20T00:00:00Z,11,,Q1195049,Minister of Crown-Indigenous Relations,Q2403422-88D2A575-A252-48A5-A5F8-57AC8C1E4914
 Q21335996,Catherine McKenna,Catherine McKenna,female,1971-08-05T00:00:00Z,11,,Q23890887,Minister of Infrastructure and Communities,Q21335996-491dd7d5-4d12-d0ae-ada0-60e55e20b334
@@ -7,11 +7,11 @@ Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q35
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q3251818,Minister of Finance,Q4492815-330ec44a-4b1b-8a8d-3f78-09a3ca32e44e
 Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06T00:00:00Z,11,,Q3315114,Minister of National Defence,Q21336246-f2ca2836-40f6-18c6-f0d2-f3fe770aeff2
 Q1685302,Jean-Yves Duclos,Jean-Yves Duclos,male,1965-01-01T00:00:00Z,9,,Q3253692,President of the Treasury Board,Q1685302-E090CE7F-A118-4F6F-9592-5816120BF343
-Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,,Q3251775,Minister of the Environment,Q21716310-abd51a27-4690-8d35-3575-4dada6576d5d
+Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251775,Minister of Environment and Climate Change,Q21716310-abd51a27-4690-8d35-3575-4dada6576d5d
 Q3099714,Justin Trudeau,Justin Trudeau,male,1971-12-25T00:00:00Z,11,,Q839078,Prime Minister of Canada,Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q16821953,Associate Minister of National Defence,Q3219913-e1676b3f-41fe-5563-e353-1e5113924189
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q3251807,Minister of Veterans Affairs,Q3219913-eec2f6db-45fc-f826-eab5-272e2bded075
-Q21336208,Marco Mendicino,Marco Mendicino,male,1973-07-28T00:00:00Z,11,,Q3251793,"Minister of Immigration, Refugees and Citizenship",Q21336208-922859f9-4a83-77e7-f891-046bffeed950
-Q29139548,Mary Ng,Mary Ng,female,1969-12-16T00:00:00Z,11,,Q24190727,Minister of Small Business and Tourism,Q29139548-de3944b2-4f43-ac05-4a06-1db112fb72c6
+Q21336208,Marco E. L. Mendicino,Marco Mendicino,male,1973-07-28T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251793,"Minister of Immigration, Refugees and Citizenship",Q21336208-922859f9-4a83-77e7-f891-046bffeed950
+Q29139548,Mary Ng,Mary Ng,female,1969-12-16T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q24190727,"Minister of Small Business, Export Promotion and International Trade",Q29139548-de3944b2-4f43-ac05-4a06-1db112fb72c6
 Q3351821,Omar Alghabra,Omar Alghabra,male,1969-10-24T00:00:00Z,11,,Q3251821,Minister of Transport,Q3351821-0a18cad5-4c17-4d14-3740-69059410af82
 Q21573510,Patty Hajdu,Patty Hajdu,female,1966-11-03T00:00:00Z,11,,Q3251800,Minister of Health,Q21573510-8fad4cac-4521-40dd-718a-d931c0838e95

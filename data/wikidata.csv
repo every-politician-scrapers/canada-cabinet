@@ -1,17 +1,32 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q16211070,Ahmed Hussen,Ahmed Hussen,male,1976-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q6866194,"Minister of Families, Children and Social Development",Q16211070-24e01f58-4de6-3f9f-651e-e8e2eda8c73b
 Q67442310,Anita Anand,Anita Anand,female,1967-01-01T00:00:00Z,9,,Q6866295,Minister of Public Services and Procurement,Q67442310-421ae80d-47b4-bc97-2d39-985327cc18a1
+Q21402871,Bardish Chagger,Bardish Chagger,female,1980-04-06T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q6866255,Minister of Diversity and Inclusion and Youth,Q21402871-14B8C800-80BC-4A4D-BAD7-4C9054DDC160
+Q22278440,Bernadette Jordan,Bernadette Jordan,female,1963-04-07T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251819,"Minister of Fisheries, Oceans and the Canadian Coast Guard",Q22278440-2CF5836D-83D1-4015-9448-8314EE683C00
+Q4908168,Bill Blair,Bill Blair,male,1954-01-01T00:00:00Z,9,,Q16933914,Minister of Public Safety and Emergency Preparedness,Q4908168-20946DFA-AEBA-43F3-BF43-A20B14FE630B
+Q21384927,Carla Qualtrough,Carla Qualtrough,female,1971-10-15T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q16931775,"Minister of Employment, Workforce Development and Disability Inclusion",Q21384927-4E918107-0106-45FA-ACB4-AFF779B13414
 Q2403422,Carolyn Bennett,Carolyn Bennett,female,1950-12-20T00:00:00Z,11,,Q1195049,Minister of Crown-Indigenous Relations,Q2403422-88D2A575-A252-48A5-A5F8-57AC8C1E4914
 Q21335996,Catherine McKenna,Catherine McKenna,female,1971-08-05T00:00:00Z,11,,Q23890887,Minister of Infrastructure and Communities,Q21335996-491dd7d5-4d12-d0ae-ada0-60e55e20b334
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q3556884,Deputy Prime Minister of Canada,Q4492815-11cf2c58-410d-26c5-cd36-8a53945f42b9
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q3251818,Minister of Finance,Q4492815-330ec44a-4b1b-8a8d-3f78-09a3ca32e44e
+Q5214525,Dan Vandal,Dan Vandal,male,1960-04-18T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q6866270,Minister of Northern Affairs,Q5214525-E5E11B8C-EC26-4879-937C-3BA77D8B3A6D
+Q21064615,David Lametti,David Lametti,male,1962-08-10T00:00:00Z,11,,Q3315120,Minister of Justice and Attorney General of Canada,Q21064615-A257E554-2051-415B-B8EA-DA2D216574DB
+Q22280366,Deb Schulte,Deb Schulte,female,1960-01-01T00:00:00Z,9,,Q85785685,Minister of Seniors,Q22280366-BA79BE9A-6655-43B0-86E0-CAB2D4C551C1
+Q21336098,Diane Lebouthillier,Diane Lebouthillier,female,1959-02-05T00:00:00Z,11,,Q6866264,Minister of National Revenue,Q21336098-F36FA5FF-9AA0-44FA-A307-B25F43B8C6BD
+Q22770985,Filomena Tassi,Filomena Tassi,female,1962-01-01T00:00:00Z,9,,Q104842279,Minister of Labour,Q22770985-03745C98-751C-40A8-AE1F-D77296AB5F84
+Q21159815,François-Philippe Champagne,François-Philippe Champagne,male,1970-06-25T00:00:00Z,11,,Q3251779,"Minister of Innovation, Science and Industry",Q21159815-CB56DC63-1305-403E-ADEF-D6E35771506F
 Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06T00:00:00Z,11,,Q3315114,Minister of National Defence,Q21336246-f2ca2836-40f6-18c6-f0d2-f3fe770aeff2
 Q1685302,Jean-Yves Duclos,Jean-Yves Duclos,male,1965-01-01T00:00:00Z,9,,Q3253692,President of the Treasury Board,Q1685302-E090CE7F-A118-4F6F-9592-5816120BF343
 Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251775,Minister of Environment and Climate Change,Q21716310-abd51a27-4690-8d35-3575-4dada6576d5d
 Q3099714,Justin Trudeau,Justin Trudeau,male,1971-12-25T00:00:00Z,11,,Q839078,Prime Minister of Canada,Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf
+Q21716260,Karina Gould,Karina Gould,female,1987-06-28T00:00:00Z,11,,Q16848986,Minister for International Cooperation,Q21716260-E9D27119-5D57-4B84-B33A-A89DB4F98175
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q16821953,Associate Minister of National Defence,Q3219913-e1676b3f-41fe-5563-e353-1e5113924189
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q3251807,Minister of Veterans Affairs,Q3219913-eec2f6db-45fc-f826-eab5-272e2bded075
+Q22279214,Marc Miller,Marc Miller,male,1971-03-12T00:00:00Z,11,,Q39059620,Minister of Indigenous Services,Q22279214-838CB89D-D6C1-425E-9731-2B57DB8194C2
 Q21336208,Marco E. L. Mendicino,Marco Mendicino,male,1973-07-28T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251793,"Minister of Immigration, Refugees and Citizenship",Q21336208-922859f9-4a83-77e7-f891-046bffeed950
 Q29139548,Mary Ng,Mary Ng,female,1969-12-16T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q24190727,"Minister of Small Business, Export Promotion and International Trade",Q29139548-de3944b2-4f43-ac05-4a06-1db112fb72c6
+Q29138522,Mona Fortier,Mona Fortier,female,1972-01-01T00:00:00Z,9,,Q85846650,Minister of Middle Class Prosperity,Q29138522-F7B5166D-333F-4B05-8F6A-95EFA286CAB9
 Q3351821,Omar Alghabra,Omar Alghabra,male,1969-10-24T00:00:00Z,11,,Q3251821,Minister of Transport,Q3351821-0a18cad5-4c17-4d14-3740-69059410af82
+Q3359999,Pablo Rodriguez,Pablo Rodríguez,male,1967-06-21T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q2505890,Leader of the Government in the House of Commons,Q3359999-6DF818EC-2BB1-4EFB-B6C7-112B81B0D8DB
 Q21573510,Patty Hajdu,Patty Hajdu,female,1966-11-03T00:00:00Z,11,,Q3251800,Minister of Health,Q21573510-8fad4cac-4521-40dd-718a-d931c0838e95
+Q3499230,Steven Guilbeault,Steven Guilbeault,male,1970-06-09T00:00:00Z,11,,Q3251837,Minister of Canadian Heritage,Q3499230-EF0C228B-F850-40BF-87D3-06AD150790B6

@@ -1,18 +1,24 @@
 name,position
 Justin Trudeau,Prime Minister of Canada
-Chrystia Freeland,Deputy Prime Minister and Minister of Finance
-Lawrence MacAulay,Minister of Veterans Affairs and Associate Minister of National Defence
+Chrystia Freeland,Deputy Prime Minister
+Chrystia Freeland,Minister of Finance
+Lawrence MacAulay,Minister of Veterans Affairs
+Lawrence MacAulay,Associate Minister of National Defence
 Carolyn Bennett,Minister of Crown-Indigenous Relations
-Dominic LeBlanc,President of the Queen’s Privy Council for Canada and Minister of Intergovernmental Affairs
+Dominic LeBlanc,President of the Queen’s Privy Council for Canada
+Dominic LeBlanc,Minister of Intergovernmental Affairs
 Jean-Yves Duclos,President of the Treasury Board
 Marc Garneau,Minister of Foreign Affairs
 Marie-Claude Bibeau,Minister of Agriculture and Agri-Food
-Jim Carr,Minister and Special Representative for the Prairies
-Mélanie Joly,Minister of Economic Development and Official Languages
+Jim Carr,Minister without Portfolio
+Jim Carr,Special Representative for the Prairies
+Mélanie Joly,Minister of Economic Development
+Mélanie Joly,Minister of Official Languages
 Diane Lebouthillier,Minister of National Revenue
 Catherine McKenna,Minister of Infrastructure and Communities
 Harjit Sajjan,Minister of National Defence
-Maryam Monsef,Minister for Women and Gender Equality and Rural Economic Development
+Maryam Monsef,Minister for Women and Gender Equality
+Maryam Monsef,Minister for Rural Economic Development
 Carla Qualtrough,"Minister of Employment, Workforce Development and Disability Inclusion"
 Patty Hajdu,Minister of Health
 Bardish Chagger,Minister of Diversity and Inclusion and Youth
@@ -29,7 +35,8 @@ David Lametti,Minister of Justice and Attorney General of Canada
 Bernadette Jordan,"Minister of Fisheries, Oceans and the Canadian Coast Guard"
 Joyce Murray,Minister of Digital Government
 Anita Anand,Minister of Public Services and Procurement
-Mona Fortier,Minister of Middle Class Prosperity and Associate Minister of Finance
+Mona Fortier,Minister of Middle Class Prosperity
+Mona Fortier,Associate Minister of Finance
 Steven Guilbeault,Minister of Canadian Heritage
 Marco E. L. Mendicino,"Minister of Immigration, Refugees and Citizenship"
 Marc Miller,Minister of Indigenous Services

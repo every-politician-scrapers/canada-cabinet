@@ -9,10 +9,10 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: ddf5f3324c06ccf20f3a0e8e4ddd09c7582f10e3
+  revision: a0d44399efed215740230d97aa0ca343b30870be
   branch: main
   specs:
-    every-politician-scraper (0.0.22)
+    every-politician-scraper (0.0.23)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -131,7 +131,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  every-politician-scraper (~> 0.0.22)!
+  every-politician-scraper (~> 0.0.23)!
   open-uri-cached
   pry
   rake

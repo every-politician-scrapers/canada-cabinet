@@ -1,38 +1,30 @@
 @@,name,position
 ->,Tony Clement->Bill Blair,Minister of Public Safety and Emergency Preparedness
-->,Peter Van Loan->Steven Guilbeault,Minister of Canadian Heritage
 ->,Mary Ng,"Minister of Small Business and Tourism->Minister of Small Business, Export Promotion and International Trade"
 ->,Marco Mendicino->Marco E. L. Mendicino,"Minister of Immigration, Refugees and Citizenship"
-->,Marc Garneau,Minister of Transport->Minister of Foreign Affairs
-->,Karina Gould,Minister of Democratic Institutions->Minister of International Development
 ->,Jonathan Wilkinson,Minister of the Environment->Minister of Environment and Climate Change
-->,Jim Carr,Minister of Natural Resources->Minister and Special Representative for the Prairies
-->,François-Philippe Champagne,"Minister of Foreign Affairs->Minister of Innovation, Science and Industry"
-->,Dominic LeBlanc,Minister of Fisheries and Oceans->President of the Queen’s Privy Council for Canada and Minister of Intergovernmental Affairs
-->,David Anderson->Marie-Claude Bibeau,Minister of Agriculture and Agri-Food
-->,Bardish Chagger,Leader of the Government in the House of Commons->Minister of Diversity and Inclusion and Youth
+->,Dean Allison->Marc Garneau,Minister of Foreign Affairs
 ->,Ahmed Hussen,"minister of Families, Children and Social Development->Minister of Families, Children and Social Development"
----,Scott Brison,President of the Treasury Board
----,Navdeep Bains,"Minister of Innovation, Science and Industry"
 ---,Lawrence MacAulay,Associate Minister of National Defence
 ---,Lawrence MacAulay,Minister of Veterans Affairs
----,Justin Trudeau,Minister of Intergovernmental Affairs
----,Joe Oliver,Minister of Finance
----,Dean Allison,Minister of Foreign Affairs
 ---,Dean Allison,Minister for International Cooperation
----,David Christopherson,President of the Treasury Board
----,Chrystia Freeland,Minister of Foreign Affairs
----,Chrystia Freeland,Deputy Prime Minister of Canada
 ---,Chrystia Freeland,Minister of Finance
+---,Chrystia Freeland,Deputy Prime Minister of Canada
++++,Steven Guilbeault,Minister of Canadian Heritage
 +++,Seamus O’Regan Jr.,Minister of Natural Resources
 +++,Pablo Rodriguez,Leader of the Government in the House of Commons
 +++,Mélanie Joly,Minister of Economic Development and Official Languages
 +++,Mona Fortier,Minister of Middle Class Prosperity and Associate Minister of Finance
 +++,Maryam Monsef,Minister for Women and Gender Equality and Rural Economic Development
++++,Marie-Claude Bibeau,Minister of Agriculture and Agri-Food
 +++,Marc Miller,Minister of Indigenous Services
 +++,Lawrence MacAulay,Minister of Veterans Affairs and Associate Minister of National Defence
++++,Karina Gould,Minister of International Development
 +++,Joyce Murray,Minister of Digital Government
++++,Jim Carr,Minister and Special Representative for the Prairies
++++,François-Philippe Champagne,"Minister of Innovation, Science and Industry"
 +++,Filomena Tassi,Minister of Labour
++++,Dominic LeBlanc,President of the Queen’s Privy Council for Canada and Minister of Intergovernmental Affairs
 +++,Diane Lebouthillier,Minister of National Revenue
 +++,Deb Schulte,Minister of Seniors
 +++,David Lametti,Minister of Justice and Attorney General of Canada
@@ -40,3 +32,4 @@
 +++,Chrystia Freeland,Deputy Prime Minister and Minister of Finance
 +++,Carla Qualtrough,"Minister of Employment, Workforce Development and Disability Inclusion"
 +++,Bernadette Jordan,"Minister of Fisheries, Oceans and the Canadian Coast Guard"
++++,Bardish Chagger,Minister of Diversity and Inclusion and Youth

@@ -1,34 +1,20 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q16211070,Ahmed Hussen,Ahmed Hussen,male,1976-01-01T00:00:00Z,9,,Q6866194,"minister of Families, Children and Social Development",Q16211070-24e01f58-4de6-3f9f-651e-e8e2eda8c73b
 Q67442310,Anita Anand,Anita Anand,female,1967-01-01T00:00:00Z,9,,Q6866295,Minister of Public Services and Procurement,Q67442310-421ae80d-47b4-bc97-2d39-985327cc18a1
-Q21402871,Bardish Chagger,Bardish Chagger,female,1980-04-06T00:00:00Z,11,,Q2505890,Leader of the Government in the House of Commons,Q21402871-22baeb1e-4473-b284-4b2a-8b842ee4bd8b
 Q2403422,Carolyn Bennett,Carolyn Bennett,female,1950-12-20T00:00:00Z,11,,Q1195049,Minister of Crown-Indigenous Relations,Q2403422-88D2A575-A252-48A5-A5F8-57AC8C1E4914
 Q21335996,Catherine McKenna,Catherine McKenna,female,1971-08-05T00:00:00Z,11,,Q23890887,Minister of Infrastructure and Communities,Q21335996-491dd7d5-4d12-d0ae-ada0-60e55e20b334
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q3556884,Deputy Prime Minister of Canada,Q4492815-11cf2c58-410d-26c5-cd36-8a53945f42b9
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q3251818,Minister of Finance,Q4492815-330ec44a-4b1b-8a8d-3f78-09a3ca32e44e
-Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02T00:00:00Z,11,,Q541355,Minister of Foreign Affairs,Q4492815-63f350c7-493d-e807-69c5-b39f5dbe82ad
-Q3017380,David Anderson,David Anderson,male,1957-08-15T00:00:00Z,11,,Q4294939,Minister of Agriculture and Agri-Food,Q3017380-11FA839A-9FBE-4CA0-B64D-C508B8BB5F94
-Q3017669,David Christopherson,David Christopherson,male,1954-10-05T00:00:00Z,11,,Q3253692,President of the Treasury Board,Q3017669-B885F0C4-9A6B-43BD-B0C2-9B1E748DEB9E
 Q3020613,Dean Allison,Dean Allison,male,1965-02-18T00:00:00Z,11,,Q16848986,Minister for International Cooperation,Q3020613-157111F5-C59E-4A74-90FA-9A60EC0C1B0F
 Q3020613,Dean Allison,Dean Allison,male,1965-02-18T00:00:00Z,11,,Q541355,Minister of Foreign Affairs,Q3020613-A23F5452-7684-4D87-896E-67E890C699F5
-Q3034854,Dominic LeBlanc,Dominic LeBlanc,male,1967-12-14T00:00:00Z,11,,Q3251819,Minister of Fisheries and Oceans,Q3034854-7B89A834-1E54-47D1-AF25-2323B521600C
-Q21159815,François-Philippe Champagne,François-Philippe Champagne,male,1970-06-25T00:00:00Z,11,,Q541355,Minister of Foreign Affairs,Q21159815-10fe0acf-490c-166a-ba79-29501f3b2adb
 Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06T00:00:00Z,11,,Q3315114,Minister of National Defence,Q21336246-f2ca2836-40f6-18c6-f0d2-f3fe770aeff2
 Q1685302,Jean-Yves Duclos,Jean-Yves Duclos,male,1965-01-01T00:00:00Z,9,,Q3253692,President of the Treasury Board,Q1685302-E090CE7F-A118-4F6F-9592-5816120BF343
-Q6194065,Jim Carr,Jim Carr,male,1951-10-11T00:00:00Z,11,,Q3251824,Minister of Natural Resources,Q6194065-5823d2a6-4915-70fa-a2c7-9bf95dd35893
-Q6211627,Joe Oliver,Joe Oliver,male,1940-05-20T00:00:00Z,11,,Q3251818,Minister of Finance,Q6211627-575e4b88-46ee-5573-647e-1d9186f66574
 Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,,Q3251775,Minister of the Environment,Q21716310-abd51a27-4690-8d35-3575-4dada6576d5d
-Q3099714,Justin Trudeau,Justin Trudeau,male,1971-12-25T00:00:00Z,11,,Q16847971,Minister of Intergovernmental Affairs,Q3099714-2f679365-425e-f7a1-25d2-c2abdfc82881
 Q3099714,Justin Trudeau,Justin Trudeau,male,1971-12-25T00:00:00Z,11,,Q839078,Prime Minister of Canada,Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf
-Q21716260,Karina Gould,Karina Gould,female,1987-06-28T00:00:00Z,11,,Q6865789,Minister of Democratic Institutions,Q21716260-6c19d716-42df-85f5-dd4d-71b905d15ad2
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q16821953,Associate Minister of National Defence,Q3219913-e1676b3f-41fe-5563-e353-1e5113924189
 Q3219913,Lawrence MacAulay,Lawrence MacAulay,male,1946-09-09T00:00:00Z,11,,Q3251807,Minister of Veterans Affairs,Q3219913-eec2f6db-45fc-f826-eab5-272e2bded075
-Q703321,Marc Garneau,Marc Garneau,male,1949-02-23T00:00:00Z,11,,Q3251821,Minister of Transport,Q703321-50e6a09f-48d4-6f28-604b-4b717e5339ad
 Q21336208,Marco Mendicino,Marco Mendicino,male,1973-07-28T00:00:00Z,11,,Q3251793,"Minister of Immigration, Refugees and Citizenship",Q21336208-922859f9-4a83-77e7-f891-046bffeed950
 Q29139548,Mary Ng,Mary Ng,female,1969-12-16T00:00:00Z,11,,Q24190727,Minister of Small Business and Tourism,Q29139548-de3944b2-4f43-ac05-4a06-1db112fb72c6
-Q3337237,Navdeep Bains,Navdeep Bains,male,1977-06-16T00:00:00Z,11,,Q3251779,"Minister of Innovation, Science and Industry",Q3337237-CD7788B0-A964-4AFF-A26D-3036D8774C57
 Q3351821,Omar Alghabra,Omar Alghabra,male,1969-10-24T00:00:00Z,11,,Q3251821,Minister of Transport,Q3351821-0a18cad5-4c17-4d14-3740-69059410af82
 Q21573510,Patty Hajdu,Patty Hajdu,female,1966-11-03T00:00:00Z,11,,Q3251800,Minister of Health,Q21573510-8fad4cac-4521-40dd-718a-d931c0838e95
-Q3376938,Peter Van Loan,Peter Van Loan,male,1963-04-18T00:00:00Z,11,,Q3251837,Minister of Canadian Heritage,Q3376938-1AB0ACFF-63CD-473C-A8E8-B02A1B3C4606
-Q349836,Scott Brison,Scott Brison,male,1967-05-10T00:00:00Z,11,,Q3253692,President of the Treasury Board,Q349836-384A3FFE-C510-4254-92BD-4DF78442E0F2
 Q3531723,Tony Clement,Tony Clement,male,1961-01-27T00:00:00Z,11,,Q16933914,Minister of Public Safety and Emergency Preparedness,Q3531723-8558FE7A-59BA-435B-B934-816924F58A3C

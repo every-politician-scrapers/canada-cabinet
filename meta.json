@@ -1,0 +1,15 @@
+{
+    "cabinet": {
+      "id": "Q21188948",
+      "start": "2015-11-04"
+    },
+    "source": {
+        "url":   "https://pm.gc.ca/en/cabinet",
+        "title": "Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/canada-cabinet"
+}

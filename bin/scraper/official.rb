@@ -7,14 +7,29 @@ require 'pry'
 class MemberList
   # details for an individual member
   class Member < Scraped::HTML
+    REMAP = {
+      'Deputy Prime Minister and Minister of Finance'                                               => ['Deputy Prime Minister', 'Minister of Finance'],
+      'Minister and Special Representative for the Prairies'                                        => ['Minister without Portfolio', 'Special Representative for the Prairies'],
+      'Minister for Women and Gender Equality and Rural Economic Development'                       => ['Minister for Women and Gender Equality', 'Minister for Rural Economic Development'],
+      'Minister of Economic Development and Official Languages'                                     => ['Minister of Economic Development', 'Minister of Official Languages'],
+      'Minister of Middle Class Prosperity and Associate Minister of Finance'                       => ['Minister of Middle Class Prosperity', 'Associate Minister of Finance'],
+      'Minister of Veterans Affairs and Associate Minister of National Defence'                     => ['Minister of Veterans Affairs', 'Associate Minister of National Defence'],
+      'President of the Queen’s Privy Council for Canada and Minister of Intergovernmental Affairs' => ['President of the Queen’s Privy Council for Canada', 'Minister of Intergovernmental Affairs'],
+    }.freeze
+
     field :name do
-      noko.css('.name').text.tidy.
-        delete_prefix('The Right Honourable ').
-        delete_prefix('The Honourable ')
+      noko.css('.name').text.tidy
+          .delete_prefix('The Right Honourable ')
+          .delete_prefix('The Honourable ')
     end
 
     field :position do
-      # TODO: split multiple portfolios
+      REMAP.fetch(raw_position, raw_position)
+    end
+
+    private
+
+    def raw_position
       noko.css('.role').text.tidy
     end
   end

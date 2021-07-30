@@ -15,7 +15,7 @@ Layout/HashAlignment:
   EnforcedColonStyle: table
 
 Layout/LineLength:
-  Max: 150
+  Max: 200
 
 Lint/AssignmentInCondition:
   Enabled: false

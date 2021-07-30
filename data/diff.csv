@@ -1,15 +1,12 @@
 @@,name,position
-->,Tony Clement->Bill Blair,Minister of Public Safety and Emergency Preparedness
 ->,Mary Ng,"Minister of Small Business and Tourism->Minister of Small Business, Export Promotion and International Trade"
 ->,Marco Mendicino->Marco E. L. Mendicino,"Minister of Immigration, Refugees and Citizenship"
 ->,Jonathan Wilkinson,Minister of the Environment->Minister of Environment and Climate Change
-->,Dean Allison->Marc Garneau,Minister of Foreign Affairs
 ->,Ahmed Hussen,"minister of Families, Children and Social Development->Minister of Families, Children and Social Development"
 ---,Lawrence MacAulay,Associate Minister of National Defence
 ---,Lawrence MacAulay,Minister of Veterans Affairs
----,Dean Allison,Minister for International Cooperation
----,Chrystia Freeland,Minister of Finance
 ---,Chrystia Freeland,Deputy Prime Minister of Canada
+---,Chrystia Freeland,Minister of Finance
 +++,Steven Guilbeault,Minister of Canadian Heritage
 +++,Seamus O’Regan Jr.,Minister of Natural Resources
 +++,Pablo Rodriguez,Leader of the Government in the House of Commons
@@ -18,6 +15,7 @@
 +++,Maryam Monsef,Minister for Women and Gender Equality and Rural Economic Development
 +++,Marie-Claude Bibeau,Minister of Agriculture and Agri-Food
 +++,Marc Miller,Minister of Indigenous Services
++++,Marc Garneau,Minister of Foreign Affairs
 +++,Lawrence MacAulay,Minister of Veterans Affairs and Associate Minister of National Defence
 +++,Karina Gould,Minister of International Development
 +++,Joyce Murray,Minister of Digital Government
@@ -31,5 +29,6 @@
 +++,Dan Vandal,Minister of Northern Affairs
 +++,Chrystia Freeland,Deputy Prime Minister and Minister of Finance
 +++,Carla Qualtrough,"Minister of Employment, Workforce Development and Disability Inclusion"
++++,Bill Blair,Minister of Public Safety and Emergency Preparedness
 +++,Bernadette Jordan,"Minister of Fisheries, Oceans and the Canadian Coast Guard"
 +++,Bardish Chagger,Minister of Diversity and Inclusion and Youth

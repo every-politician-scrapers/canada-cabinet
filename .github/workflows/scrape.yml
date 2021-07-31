@@ -25,11 +25,21 @@ jobs:
       run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
-    - name: Commit and push changed data
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add html data
-        timestamp=$(date -u)
-        git commit -m "Update data: ${timestamp}" || exit 0
-        git push
+    - name: Create pull request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: Automated update
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: data-update
+        branch-suffix: timestamp
+        delete-branch: true
+        title: 'Automated update'
+        assignees: tmtmtmtm
+        reviewers: tmtmtmtm
+    - name: Check outputs
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

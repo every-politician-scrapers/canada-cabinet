@@ -1,0 +1,23 @@
+name: Mirror official site
+
+on:
+  schedule:
+    - cron:  '14 1 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install OS dependencies
+      run: sudo apt-get install jq moreutils
+    - name: Mirror official site
+      run: curl -o html/official.html $(jq -r .source.url meta.json)
+    - name: Commit and push if changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add html
+        timestamp=$(date -u)
+        git commit -m "Update data: ${timestamp}" || exit 0
+        git push

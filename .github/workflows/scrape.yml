@@ -17,9 +17,7 @@ jobs:
       run: sudo apt-get install jq moreutils
     - name: Install ruby dependencies
       run: bundle install
-    - name: Mirror official site
-      run: curl -o html/official.html $(jq -r .source.url meta.json)
-    - name: Scrape official site
+    - name: Scrape official site (mirrored earlier)
       run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
     - name: Get current wikidata list
       run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv

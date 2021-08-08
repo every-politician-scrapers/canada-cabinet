@@ -19,5 +19,5 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git add html
         timestamp=$(date -u)
-        git commit -m "Update data: ${timestamp}" || exit 0
+        git commit -m "Update html: ${timestamp}" || exit 0
         git push

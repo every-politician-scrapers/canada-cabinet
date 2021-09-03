@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Compare current data
 
 on:
   schedule:
@@ -32,9 +32,8 @@ jobs:
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: data-update
-        branch-suffix: timestamp
         delete-branch: true
-        title: 'Automated update'
+        title: 'Current member list'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs

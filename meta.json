@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Canada",
+      "id": "Q16"
+    },
     "cabinet": {
       "id": "Q21188948",
-      "start": "2019-11-20"
+      "start": "2019-11-20",
+      "parent": "Q2458227"
     },
     "source": {
         "url":   "https://pm.gc.ca/en/cabinet",

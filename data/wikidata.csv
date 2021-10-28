@@ -1,6 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q16211070,Ahmed Hussen,Ahmed Hussen,male,1976-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q6866194,"Minister of Families, Children and Social Development",Q16211070-24e01f58-4de6-3f9f-651e-e8e2eda8c73b
-Q67442310,Anita Anand,Anita Anand,female,1967-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q6866295,Minister of Public Services and Procurement,Q67442310-421ae80d-47b4-bc97-2d39-985327cc18a1
+Q67442310,Anita Anand,Anita Anand,female,1967-01-01T00:00:00Z,9,,Q3315114,Minister of National Defence,Q67442310-d629071a-4a33-74f1-7632-a0f77daaca8a
 Q21402871,Bardish Chagger,Bardish Chagger,female,1980-04-06T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q6866255,Minister of Diversity and Inclusion and Youth,Q21402871-14B8C800-80BC-4A4D-BAD7-4C9054DDC160
 Q22278440,Bernadette Jordan,Bernadette Jordan,female,1963-04-07T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251819,"Minister of Fisheries, Oceans and the Canadian Coast Guard",Q22278440-2CF5836D-83D1-4015-9448-8314EE683C00
 Q4908168,Bill Blair,Bill Blair,male,1954-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q16933914,Minister of Public Safety and Emergency Preparedness,Q4908168-20946DFA-AEBA-43F3-BF43-A20B14FE630B
@@ -21,7 +21,7 @@ Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06T00:00:00Z,11,https://pm.gc
 Q1685302,Jean-Yves Duclos,Jean-Yves Duclos,male,1965-01-01T00:00:00Z,9,https://pm.gc.ca/en/cabinet,Q3253692,President of the Treasury Board,Q1685302-E090CE7F-A118-4F6F-9592-5816120BF343
 Q6194065,Jim Carr,Jim Carr,male,1951-10-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q107712318,Minister without Portfolio,Q6194065-60DB4796-691B-4788-9FAF-AB41339C1124
 Q6194065,Jim Carr,Jim Carr,male,1951-10-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q107712072,Special Representative for the Prairies,Q6194065-0DCA538C-FEF9-4995-8FC1-8F114974637A
-Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251775,Minister of Environment and Climate Change,Q21716310-abd51a27-4690-8d35-3575-4dada6576d5d
+Q21716310,Jonathan Wilkinson,Jonathan Wilkinson,male,1965-06-11T00:00:00Z,11,,Q3251824,Minister of Natural Resources,Q21716310-a437c169-4838-ff7c-a3f1-04954b91bb01
 Q3187235,Joyce Murray,Joyce Murray,female,1954-07-11T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q85846648,Minister of Digital Government,Q3187235-0DAE3D0B-F06A-4930-8772-755741ED1092
 Q3099714,Justin Trudeau,Justin Trudeau,male,1971-12-25T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q839078,Prime Minister of Canada,Q3099714-7319c459-4da3-6da4-30fa-3a0552aff1bf
 Q21716260,Karina Gould,Karina Gould,female,1987-06-28T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q16848986,Minister of International Development,Q21716260-E9D27119-5D57-4B84-B33A-A89DB4F98175
@@ -41,5 +41,5 @@ Q15054353,Mélanie Joly,Mélanie Joly,female,1979-01-16T00:00:00Z,11,https://pm.
 Q3351821,Omar Alghabra,Omar Alghabra,male,1969-10-24T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251821,Minister of Transport,Q3351821-0a18cad5-4c17-4d14-3740-69059410af82
 Q3359999,Pablo Rodriguez,Pablo Rodríguez,male,1967-06-21T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q2505890,Leader of the Government in the House of Commons,Q3359999-6DF818EC-2BB1-4EFB-B6C7-112B81B0D8DB
 Q21573510,Patty Hajdu,Patty Hajdu,female,1966-11-03T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251800,Minister of Health,Q21573510-8fad4cac-4521-40dd-718a-d931c0838e95
-Q7440780,Seamus O’Regan Jr.,Seamus O'Regan,male,1971-01-18T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251824,Minister of Natural Resources,Q7440780-16D56AFB-A983-4CCA-923E-A3979F3606E5
-Q3499230,Steven Guilbeault,Steven Guilbeault,male,1970-06-09T00:00:00Z,11,https://pm.gc.ca/en/cabinet,Q3251837,Minister of Canadian Heritage,Q3499230-EF0C228B-F850-40BF-87D3-06AD150790B6
+Q7440780,Seamus O'Regan,Seamus O'Regan,male,1971-01-18T00:00:00Z,11,,Q104842279,Minister of Labour,Q7440780-e5e2ac8f-4dcb-3e1a-3f2d-0f861df9aa93
+Q3499230,Steven Guilbeault,Steven Guilbeault,male,1970-06-09T00:00:00Z,11,,Q3251775,Minister of the Environment,Q3499230-5eb393ca-4cf8-1d04-5f93-47067589b138

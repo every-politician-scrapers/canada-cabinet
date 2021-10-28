@@ -23,7 +23,9 @@ class MemberList
     end
 
     field :position do
-      REMAP.fetch(raw_position, raw_position)
+      raw_position.split(/ and (?=Minister)/).map(&:tidy).map do |posn|
+        REMAP.fetch(posn, posn)
+      end
     end
 
     private

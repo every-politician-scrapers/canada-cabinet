@@ -7,13 +7,10 @@ require 'pry'
 class MemberList
   class Member
     REMAP = {
-      'Deputy Prime Minister and Minister of Finance'                                               => ['Deputy Prime Minister', 'Minister of Finance'],
-      'Minister and Special Representative for the Prairies'                                        => ['Minister without Portfolio', 'Special Representative for the Prairies'],
-      'Minister for Women and Gender Equality and Rural Economic Development'                       => ['Minister for Women and Gender Equality', 'Minister for Rural Economic Development'],
-      'Minister of Economic Development and Official Languages'                                     => ['Minister of Economic Development', 'Minister of Official Languages'],
-      'Minister of Middle Class Prosperity and Associate Minister of Finance'                       => ['Minister of Middle Class Prosperity', 'Associate Minister of Finance'],
-      'Minister of Veterans Affairs and Associate Minister of National Defence'                     => ['Minister of Veterans Affairs', 'Associate Minister of National Defence'],
-      'President of the Queen’s Privy Council for Canada and Minister of Intergovernmental Affairs' => ['President of the Queen’s Privy Council for Canada', 'Minister of Intergovernmental Affairs'],
+      'Minister and Special Representative for the Prairies'                   => ['Minister without Portfolio', 'Special Representative for the Prairies'],
+      'Minister for Women and Gender Equality and Rural Economic Development'  => ['Minister for Women and Gender Equality', 'Minister for Rural Economic Development'],
+      'Minister of Economic Development and Official Languages'                => ['Minister of Economic Development', 'Minister of Official Languages'],
+      'Minister of Canadian Heritage and Quebec Lieutenant'                    => ['Minister of Canadian Heritage', 'Quebec Lieutenant']
     }.freeze
 
     field :name do
@@ -23,7 +20,10 @@ class MemberList
     end
 
     field :position do
-      raw_position.split(/ and (?=Minister)/).map(&:tidy).map do |posn|
+      raw_position.split(/ and (?=Minister)/)
+        .flat_map { |posn| posn.split(/, (?=Minister)/) }
+        .flat_map { |posn| posn.split(/ and (?=Associate Minister)/) }
+        .map(&:tidy).map do |posn|
         REMAP.fetch(posn, posn)
       end
     end

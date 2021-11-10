@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title><%= country %></title>
+    <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="http://ww2.peppercat.org/stylesheet.css">
+  </head>
+  <body>
+    <%- table=CSV.table(csvfile) -%>
+    <h1><%= country %></h1>
+    <table>
+    <%- table.group_by { |row| row[:personid] }.each do |person, positions| -%>
+      <tr>
+        <td><%= positions.map { |mem| mem[:position] }.join('<br />') %></td>
+        <td><%= positions.first[:person] %></td>
+      </tr>
+      <%- end -%>
+      <tr>
+        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,62 @@
+#!/bin/sh
+
+TMPFILE=$(mktemp)
+HOLDERS=$(mktemp)
+RAWBIOS=$(mktemp)
+BIO_CSV=$(mktemp)
+
+PERSON_PROPS="en,P31,P18,P21,P27,P1559,P1477,P2561,P735,P734,P1950,P5056,P2652,P569,P19,P570,P22,P25,P26,P40,P3373,P39,P69,P511,P102,P3602,sitelinks"
+
+# Current holders of each wanted position
+qsv select position wikidata/wanted-positions.csv |
+  qsv behead |
+  xargs wd sparql pcb/holders.js -f csv > $TMPFILE
+sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $HOLDERS
+
+# Biographical info for current officeholders
+qsv select person $HOLDERS |
+  qsv dedup |
+  qsv sort |
+  qsv behead |
+  wd data --props $PERSON_PROPS --simplify --time-converter simple-day --keep qualifiers,nontruthy,ranks,nondeprecated > $RAWBIOS
+
+echo "id,name,gender,dob,dod,image,enwiki" > $BIO_CSV
+jq -r '[
+    .id,
+    .labels.en,
+    (.claims.P21 | sort_by(.rank) | reverse | first.value),
+    (.claims.P569 | sort_by(.rank) | reverse | first.value),
+    (.claims.P570 | sort_by(.rank) | reverse | first.value),
+    (.claims.P18 | sort_by(.rank) | reverse | first.value),
+    (try (.sitelinks.enwiki) catch null)
+  ] | @csv' $RAWBIOS |
+  sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
+
+# TODO: other positions
+# TODO: relations
+
+# Generate current.csv
+qsv join position wikidata/wanted-positions.csv position $HOLDERS |
+  qsv select position,title,person,start > $TMPFILE
+qsv join person $TMPFILE id $BIO_CSV |
+  qsv select title,name,person,start,gender,dob,dod,image,enwiki |
+  qsv rename position,person,personID,start,gender,DOB,DOD,image,enwiki > html/current.csv
+
+# Generate HTML
+erb country="$(jq -r .jurisdiction.name meta.json)" csvfile=html/current.csv -r csv -T- pcb/index.erb > html/index.html
+
+# Tests
+
+IFS=$'\n'
+
+warnings=($(qsv join --left-anti title wikidata/wanted-positions.csv position html/current.csv | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "No matches for:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv search -s DOD . html/current.csv | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Dead:"
+  printf '\t%s\n' "${warnings[@]}"
+fi

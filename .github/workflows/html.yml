@@ -1,0 +1,39 @@
+name: Generate current.csv and html
+
+on:
+  schedule:
+    - cron:  '44 3 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+    - name: Install dependencies
+      run: |-
+        sudo apt-get install jq moreutils
+        npm install -g wikibase-cli
+    - name: install qsv
+      run: |-
+        curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
+        sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
+    - name: generate files
+      run: pcb/generate-html.sh
+    - name: Create pull request
+      id: cpr
+      uses: peter-evans/create-pull-request@v3
+      with:
+        commit-message: HTML update
+        committer: GitHub <noreply@github.com>
+        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: html-update
+        delete-branch: true
+        title: 'Update current.csv and HTML'
+        assignees: tmtmtmtm
+        reviewers: tmtmtmtm
+    - name: Check outputs
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

@@ -20,7 +20,7 @@ jobs:
         curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
     - name: generate files
-      run: pcb/generate-html.sh
+      run: bash pcb/generate-html.sh
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3

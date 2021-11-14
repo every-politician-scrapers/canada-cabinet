@@ -18,15 +18,18 @@ qsv select person $HOLDERS |
   qsv dedup |
   qsv sort |
   qsv behead |
-  wd data --props $PERSON_PROPS --simplify --time-converter simple-day --keep qualifiers,nontruthy,ranks,nondeprecated > $RAWBIOS
+  wd data --props $PERSON_PROPS --simplify --time-converter simple-day --keep qualifiers,nontruthy,ranks,nondeprecated,richvalues > $RAWBIOS
 
-echo "id,name,gender,dob,dod,image,enwiki" > $BIO_CSV
+# TODO post-process anything with precision < 9
+echo "id,name,gender,dob,dobp,dod,dodp,image,enwiki" > $BIO_CSV
 jq -r '[
     .id,
     .labels.en,
     (.claims.P21 | sort_by(.rank) | reverse | first.value),
-    (.claims.P569 | sort_by(.rank) | reverse | first.value),
-    (.claims.P570 | sort_by(.rank) | reverse | first.value),
+    (.claims.P569 | sort_by(.rank) | reverse | first.value.time),
+    (.claims.P569 | sort_by(.rank) | reverse | first.value.precision),
+    (.claims.P570 | sort_by(.rank) | reverse | first.value.time),
+    (.claims.P570 | sort_by(.rank) | reverse | first.value.precision),
     (.claims.P18 | sort_by(.rank) | reverse | first.value),
     (try (.sitelinks.enwiki) catch null)
   ] | @csv' $RAWBIOS |
@@ -58,5 +61,23 @@ fi
 warnings=($(qsv search -s DOD . html/current.csv | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "Dead:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv join --left-anti pid data/wikidata.csv position wikidata/wanted-positions.csv | qsv select pid,position | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "In data/wikidata but not wanted-positions:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv join --left-anti wdid data/wikidata.csv personID html/current.csv | qsv select wdid,name,pid,position | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "In data/wikidata but not current.csv:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Missing/short DOB:"
   printf '\t%s\n' "${warnings[@]}"
 fi

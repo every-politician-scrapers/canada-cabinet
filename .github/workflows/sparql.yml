@@ -3,6 +3,7 @@ name: Get Wikidata info
 on:
   schedule:
     - cron:  '44 1 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:

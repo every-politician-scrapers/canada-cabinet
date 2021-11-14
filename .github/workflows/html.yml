@@ -3,6 +3,7 @@ name: Generate current.csv and html
 on:
   schedule:
     - cron:  '44 3 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:

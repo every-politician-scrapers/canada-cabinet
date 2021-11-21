@@ -20,17 +20,17 @@ qsv select person $HOLDERS |
   qsv behead |
   wd data --props $PERSON_PROPS --simplify --time-converter simple-day --keep qualifiers,nontruthy,ranks,nondeprecated,richvalues > $RAWBIOS
 
-# TODO post-process anything with precision < 9
 echo "id,name,gender,dob,dobp,dod,dodp,image,enwiki" > $BIO_CSV
-jq -r '[
+jq -r 'def highest(array): (array | sort_by(.rank) | reverse | first.value);
+  [
     .id,
     .labels.en,
-    (.claims.P21 | sort_by(.rank) | reverse | first.value),
-    (.claims.P569 | sort_by(.rank) | reverse | first.value.time),
-    (.claims.P569 | sort_by(.rank) | reverse | first.value.precision),
-    (.claims.P570 | sort_by(.rank) | reverse | first.value.time),
-    (.claims.P570 | sort_by(.rank) | reverse | first.value.precision),
-    (.claims.P18 | sort_by(.rank) | reverse | first.value),
+    highest(.claims.P21),
+    if highest(.claims.P569).precision >= 9 then highest(.claims.P569).time else null end,
+    highest(.claims.P569).precision,
+    highest(.claims.P570).time,
+    highest(.claims.P570).precision,
+    highest(.claims.P18),
     (try (.sitelinks.enwiki) catch null)
   ] | @csv' $RAWBIOS |
   sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
@@ -79,5 +79,11 @@ fi
 warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv search -s gender -v male html/current.csv | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Missing gender:"
   printf '\t%s\n' "${warnings[@]}"
 fi

@@ -4,7 +4,7 @@ IFS=$'\n'
 
 mkdir -p enwiki
 
-for page in $(qsv select enwiki html/current.csv | qsv search . | qsv behead); do
+for page in $(qsv select enwiki html/current.csv | qsv search . | qsv dedup | qsv sort | qsv behead); do
   echo $page
   json=$(wtf_wikipedia $page)
   pageid=$(printf '%s' "$json" | jq -r .pageID)

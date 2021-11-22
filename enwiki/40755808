@@ -1,0 +1,1232 @@
+{
+  "title": "Tim Houston",
+  "pageID": 40755808,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Nova Scotia political party leaders",
+    "Progressive Conservative Association of Nova Scotia MLAs",
+    "Premiers of Nova Scotia",
+    "Members of the Executive Council of Nova Scotia",
+    "People from Halifax, Nova Scotia",
+    "People from Pictou County",
+    "21st-century Canadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Timothy Jerome Houston (born April 10, 1970) is a Canadian politician who is the 30th and current premier of Nova Scotia since 2021.",
+              "links": [
+                {
+                  "text": "premier of Nova Scotia",
+                  "type": "internal",
+                  "page": "premier of Nova Scotia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Timothy Jerome Houston"
+                ]
+              }
+            },
+            {
+              "text": "He was first elected to the Nova Scotia House of Assembly in the 2013 provincial election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nova Scotia House of Assembly"
+                },
+                {
+                  "text": "2013 provincial election",
+                  "type": "internal",
+                  "page": "2013 Nova Scotia general election"
+                }
+              ]
+            },
+            {
+              "text": "A member of the Progressive Conservative Party of Nova Scotia, he represents the electoral district of Pictou East.",
+              "links": [
+                {
+                  "text": "Progressive Conservative Party of Nova Scotia",
+                  "type": "internal",
+                  "page": "Progressive Conservative Association of Nova Scotia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pictou East"
+                }
+              ]
+            },
+            {
+              "text": "Houston also served as the Leader of the Opposition from 2018 to 2021."
+            },
+            {
+              "text": "He and the Progressive Conservative party won a majority government in the 2021 Nova Scotia general election, becoming the first Progressive Conservative premier since 2009.",
+              "links": [
+                {
+                  "text": "2021 Nova Scotia general election",
+                  "type": "internal",
+                  "page": "2021 Nova Scotia general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use canadian english"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1970",
+          "month": "04",
+          "day": "10",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "FCPA",
+            "MLA"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "FCPA",
+            "MLA"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "image": {
+            "text": "TimHouston2020 (cropped).jpg"
+          },
+          "name": {
+            "text": "Tim Houston"
+          },
+          "birth_name": {
+            "text": "Timothy Jerome Houston"
+          },
+          "birth_date": {
+            "text": "April 10, 1970"
+          },
+          "birth_place": {
+            "text": "Halifax, Nova Scotia",
+            "links": [
+              {
+                "text": "Halifax",
+                "type": "internal",
+                "page": "Halifax, Nova Scotia"
+              },
+              {
+                "type": "internal",
+                "page": "Nova Scotia"
+              }
+            ]
+          },
+          "office1": {
+            "text": "30th Premier of Nova Scotia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of Nova Scotia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 31, 2021"
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "lieutenant_governor1": {
+            "text": "Arthur J. LeBlanc",
+            "links": [
+              {
+                "text": "Arthur J. LeBlanc",
+                "type": "internal",
+                "page": "Arthur Joseph LeBlanc"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Allan MacMaster",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Allan MacMaster"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Iain Rankin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iain Rankin"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the Opposition",
+            "links": [
+              {
+                "text": "Leader of the Opposition",
+                "type": "internal",
+                "page": "Leader of the Opposition (Nova Scotia)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 27, 2018"
+          },
+          "term_end2": {
+            "text": "August 31, 2021"
+          },
+          "predecessor2": {
+            "text": "Karla MacFarlane (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karla MacFarlane"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Iain Rankin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iain Rankin"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Leader of the Progressive Conservative Party of Nova Scotia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Progressive Conservative Party of Nova Scotia"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "October 27, 2018"
+          },
+          "predecessor3": {
+            "text": "Jamie Baillie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jamie Baillie"
+              }
+            ]
+          },
+          "assembly4": {
+            "text": "Nova Scotia House of"
+          },
+          "constituency_am4": {
+            "text": "Pictou East",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pictou East"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "October 8, 2013"
+          },
+          "predecessor4": {
+            "text": "Clarrie MacKinnon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clarrie MacKinnon"
+              }
+            ]
+          },
+          "party": {
+            "text": "Progressive Conservative",
+            "links": [
+              {
+                "text": "Progressive Conservative",
+                "type": "internal",
+                "page": "Progressive Conservative Association of Nova Scotia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Saint Mary's University (BCom)",
+            "links": [
+              {
+                "text": "Saint Mary's University",
+                "type": "internal",
+                "page": "Saint Mary's University (Halifax)"
+              },
+              {
+                "type": "internal",
+                "page": "BCom"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Carol Houston"
+          },
+          "occupation": {
+            "text": "Accountant"
+          },
+          "website": {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.timhouston.ca//"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "District 40: Pictou East",
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/district-40-pictou-east-1.1408018",
+          "website": "CBC.ca",
+          "publisher": "CBC",
+          "date": "April 23, 2013",
+          "accessdate": "March 10, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PC leadership Q&A: Tim Houston",
+          "url": "https://www.capebretonpost.com/news/local/pc-leadership-qa-tim-houston-253199/",
+          "accessdate": "March 10, 2019",
+          "work": "Cape Breton Post",
+          "date": "October 25, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nova Scotia PC Party on Twitter: \"Happy Birthday to MLA for Pictou East, @TimHoustonNS!\"",
+          "url": "https://twitter.com/nspc/status/983681664168677376",
+          "website": "Twitter.com",
+          "publisher": "Twitter",
+          "date": "April 10, 2018",
+          "accessdate": "March 10, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "MacInnis",
+          "first1": "Adam",
+          "last2": "Adshade",
+          "first2": "Kevin",
+          "title": "Pictou County's history of Tory leadership",
+          "url": "https://www.ngnews.ca/news/local/pictou-countys-history-of-tory-leadership-255303/",
+          "accessdate": "March 10, 2019",
+          "work": "NG News",
+          "date": "October 31, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "N.S. Premier-designate Tim Houston, new cabinet to be sworn-in Aug. 31",
+          "url": "https://atlantic.ctvnews.ca/n-s-premier-designate-tim-houston-new-cabinet-to-be-sworn-in-aug-31-1.5555025",
+          "accessdate": "November 3, 2021",
+          "work": "CTV News Atlantic",
+          "date": "August 20, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://thechronicleherald.ca/novascotia/1159376-tories-take-pictou-county-ridings-back-from-ndp",
+          "title": "Tories take Pictou County ridings back from NDP",
+          "work": "The Chronicle Herald",
+          "date": "October 8, 2013",
+          "accessdate": "2015-07-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://pcparty.ns.ca/MLA/tim-houston/",
+          "title": "Tim Houston - MLA for Pictou East - PC Party of NS",
+          "work": "PC Party NS",
+          "access-date": "2018-04-16",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Halifax, Nova Scotia, Houston lived in different places around the world as his father was in the military.",
+              "links": [
+                {
+                  "text": "Halifax",
+                  "type": "internal",
+                  "page": "Halifax, Nova Scotia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nova Scotia"
+                }
+              ]
+            },
+            {
+              "text": "His family eventually re-settled in Halifax and Houston attended Halifax West High School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Halifax West High School"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Houston attended Saint Mary's University, graduating in 1992 with a Bachelor of Commerce.",
+              "links": [
+                {
+                  "text": "Saint Mary's University",
+                  "type": "internal",
+                  "page": "Saint Mary's University (Halifax)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Commerce"
+                }
+              ]
+            },
+            {
+              "text": "He then moved to Bermuda, working there as a consultant from 1995 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bermuda"
+                }
+              ]
+            },
+            {
+              "text": "Houston then worked as a chartered accountant and as a financial consultant with Deloitte.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deloitte"
+                }
+              ]
+            },
+            {
+              "text": "On November 2 2020, he was awarded the profession’s highest mark of distinction, the Fellow (FCPA) designation, by Chartered Professional Accountants of Nova Scotia."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Musick",
+          "first1": "Sueann",
+          "title": "PC's Houston aims to knock on every door",
+          "work": "NG News",
+          "date": "September 16, 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "CPA Nova Scotia Awards Prestigious Fellow Designation to Seven Professional Accountants",
+          "url": "https://www.cpans.ca/web/cpans/News/CPA_Nova_Scotia_Awards_Prestigious_Fellow_Designation_to_Seven_Professional_Accountants_.aspx",
+          "access-date": "2021-01-03",
+          "website": "www.cpans.ca",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On November 27, 2012, Houston won the Progressive Conservative nomination in the riding of Pictou East for the 2013 Nova Scotia general election.",
+              "links": [
+                {
+                  "text": "2013 Nova Scotia general election",
+                  "type": "internal",
+                  "page": "2013 Nova Scotia general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected MLA of Pictou East on October 8, 2013, with 48.08% of the vote."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Houston was re-elected on May 30, 2017 with 73.88% of the vote.",
+              "links": [
+                {
+                  "text": "May 30, 2017",
+                  "type": "internal",
+                  "page": "2017 Nova Scotia general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 19, 2017, Houston announced his candidacy for the leadership of the Progressive Conservative Party of Nova Scotia.",
+              "links": [
+                {
+                  "text": "leadership of the Progressive Conservative Party of Nova Scotia",
+                  "type": "internal",
+                  "page": "2018 Progressive Conservative Association of Nova Scotia leadership election"
+                }
+              ]
+            },
+            {
+              "text": "Houston was elected leader of the Progressive Conservative Party after the first ballot results were announced on October 27, 2018 at the Party's Leadership Convention in Halifax."
+            },
+            {
+              "text": "Houston earned 48.96% of the points on the first ballot, leaving other candidates no clear path to victory."
+            },
+            {
+              "text": "The other candidates conceded after the first ballot."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Houston has been publicly open to the option of fracking in Nova Scotia, a controversial stance."
+            },
+            {
+              "text": "He has said as Leader of the Opposition, he would not criticize the Government without offering his own ideas in response."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cbc.ca/news/canada/nova-scotia/tim-houston-running-for-pc-party-leader-1.4409407",
+          "title": "'Time to win': Tim Houston running for PC Party leader",
+          "date": "November 19, 2017",
+          "publisher": "CBC News",
+          "accessdate": "2017-11-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.saltwire.com/atlantic-canada/news/local/tim-houston-announces-pc-leadership-candidacy-163182/",
+          "title": "Tim Houston announces bid for PC leadership",
+          "date": "November 20, 2017",
+          "work": "The Chronicle Herald",
+          "accessdate": "2021-03-31",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-fracking-government-1.3634956",
+          "title": "Delays on Nova Scotia fracking regulations could be political",
+          "work": "CBC News",
+          "date": "June 15, 2016",
+          "access-date": "2019-05-27",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Universal Mental Health Care",
+          "url": "https://www.pcpartyns.ca/mental_health",
+          "access-date": "2021-01-03",
+          "website": "PC Party of Nova Scotia",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dignity for our Seniors",
+          "url": "https://www.pcpartyns.ca/seniors",
+          "access-date": "2021-01-03",
+          "website": "PC Party of Nova Scotia",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Pictou East PC nominee wants riding to have voice in Halifax",
+          "url": "https://www.ngnews.ca/news/local/pictou-east-pc-nominee-wants-riding-to-have-voice-in-halifax-76452/",
+          "website": "March 10, 2019",
+          "publisher": "NG News",
+          "date": "November 29, 2012",
+          "accessdate": "March 10, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cbc.ca/news/canada/nova-scotia/progressive-conservative-party-halifax-1.4880750",
+          "title": "Houston surges to victory in PC leadership race",
+          "publisher": "CBC News",
+          "date": "October 27, 2018",
+          "access-date": "2019-02-20",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "2021 provincial election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In an upset, Houston and the Progressive Conservative party won a majority government in the 2021 Nova Scotia general election, becoming the first Progressive Conservative premier since 2009.",
+              "links": [
+                {
+                  "text": "upset",
+                  "type": "internal",
+                  "page": "upset (competition)"
+                },
+                {
+                  "text": "2021 Nova Scotia general election",
+                  "type": "internal",
+                  "page": "2021 Nova Scotia general election"
+                }
+              ]
+            },
+            {
+              "text": "Houston ran on a Red Tory platform that promised more spending on health care.",
+              "links": [
+                {
+                  "text": "Red Tory",
+                  "type": "internal",
+                  "page": "Red Toryism"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Premier of Nova Scotia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Houston and his cabinet were sworn in on August 31, 2021."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Houston lives in Pictou County with his wife Carol, and children Paget and Zachary."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2017, it came to light that his name had been mentioned several times in the Paradise Papers.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paradise Papers"
+                }
+              ]
+            },
+            {
+              "text": "because he held management positions with Bermuda based reinsurance companies while living and working in Bermuda, where he was listed as Director and Vice-President of Inter-Ocean Holdings and several related companies."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.timhouston.ca/tims_story",
+          "title": "Tim Houston's Story",
+          "work": "Tim Houston for Nova Scotia PC Leader",
+          "access-date": "2018-04-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thecoast.ca/RealityBites/archives/2017/11/23/pc-leadership-candidate-named-in-paradise-papers",
+          "title": "PC leadership candidate downplays Paradise Papers connection",
+          "work": "The Coast",
+          "date": "November 23, 2017",
+          "access-date": "2019-04-24",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thecoast.ca/RealityBites/archives/2017/11/23/pc-leadership-candidate-named-in-paradise-papers",
+          "title": "PC leadership candidate downplays Paradise Papers connection",
+          "work": "The Coast",
+          "date": "November 23, 2017",
+          "access-date": "2019-04-24",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://offshoreleaks.icij.org/nodes/80078700",
+          "title": "Houston, Timothy Jerome",
+          "website": "Offshore Leaks Database/International Consortium of Investigative Journalists",
+          "language": "en-CA",
+          "access-date": "2020-09-20",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Bills introduced",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 1"
+            },
+            "Act Title": {
+              "text": "Lyme Disease Strategy Act",
+              "links": [
+                {
+                  "text": "Lyme Disease Strategy Act",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-62-session-1/bill-46"
+                }
+              ]
+            },
+            "Date": {
+              "text": "April 10, 2014"
+            }
+          },
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 2"
+            },
+            "Act Title": {
+              "text": "Red Tape Reduction Act",
+              "links": [
+                {
+                  "text": "Red Tape Reduction Act",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-62-session-2/bill-3"
+                }
+              ]
+            },
+            "Date": {
+              "text": "September 29, 2014"
+            }
+          },
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 2"
+            },
+            "Act Title": {
+              "text": "Transparency in Ministers' Expenses Act",
+              "links": [
+                {
+                  "text": "Transparency in Ministers' Expenses Act",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-62-session-2/bill-93"
+                }
+              ]
+            },
+            "Date": {
+              "text": "April 21, 2015"
+            }
+          },
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 2"
+            },
+            "Act Title": {
+              "text": "Cayley's Law",
+              "links": [
+                {
+                  "text": "Cayley's Law",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-62-session-3/bill-30"
+                }
+              ]
+            },
+            "Date": {
+              "text": "May 17, 2016"
+            }
+          },
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 2"
+            },
+            "Act Title": {
+              "text": "Pregnancy and Infant Loss Awareness Act",
+              "links": [
+                {
+                  "text": "Pregnancy and Infant Loss Awareness Act",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-62-session-2/bill-179"
+                }
+              ]
+            },
+            "Date": {
+              "text": "May 5, 2016"
+            }
+          },
+          {
+            "Assembly": {
+              "text": "Assembly 62, Session 2"
+            },
+            "Act Title": {
+              "text": "Education Fund Protection Act",
+              "links": [
+                {
+                  "text": "Education Fund Protection Act",
+                  "type": "external",
+                  "site": "https://nslegislature.ca/legislative-business/bills-statutes/bills/assembly-63-session-1/bill-49"
+                }
+              ]
+            },
+            "Date": {
+              "text": "October 16, 2017"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "NS",
+            "2021"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "NS",
+            "PC",
+            "Tim Houston",
+            "4,918",
+            "69.68",
+            "-4.20"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "NS",
+            "Liberal",
+            "Joe MacDonald",
+            "1,585",
+            "22.46",
+            "+4.24"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "NS",
+            "NDP",
+            "Joy Polley",
+            "500",
+            "7.08",
+            "-0.82"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "NS",
+            "Atlantica",
+            "Jonathan Geoffrey Dean",
+            "55",
+            "0.78"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "7,058",
+            "99.62"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "27",
+            "0.38"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "7,085",
+            "61.44"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "11,532"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "NS",
+            "PC",
+            "-4.22"
+          ],
+          "template": "canelec/hold"
+        },
+        {
+          "title": "2017 Nova Scotia general election",
+          "template": "election box begin"
+        },
+        {
+          "list": [
+            "NS",
+            "PC",
+            "row"
+          ],
+          "template": "canadian party colour"
+        },
+        {
+          "list": [
+            "NS",
+            "Liberal",
+            "row"
+          ],
+          "template": "canadian party colour"
+        },
+        {
+          "list": [
+            "NS",
+            "NDP",
+            "row"
+          ],
+          "template": "canadian party colour"
+        },
+        {
+          "title": "2013 Nova Scotia general election",
+          "template": "election box begin"
+        },
+        {
+          "list": [
+            "NS",
+            "PC",
+            "row"
+          ],
+          "template": "canadian party colour"
+        },
+        {
+          "list": [
+            "NS",
+            "NDP",
+            "row"
+          ],
+          "template": "canadian party colour"
+        },
+        {
+          "list": [
+            "NS",
+            "Liberal",
+            "row"
+          ],
+          "template": "canadian party colour"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Progressive Conservative",
+            "links": [
+              {
+                "text": "Progressive Conservative",
+                "type": "internal",
+                "page": "Progressive Conservative Association of Nova Scotia"
+              }
+            ]
+          },
+          {
+            "text": "Tim Houston"
+          },
+          {
+            "text": "align=\"right\"| 5,275"
+          },
+          {
+            "text": "align=\"right\"| 73.88"
+          },
+          {
+            "text": "align=\"right\"| +25.83"
+          }
+        ],
+        [
+          {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Nova Scotia Liberal Party"
+              }
+            ]
+          },
+          {
+            "text": "John Fraser"
+          },
+          {
+            "text": "align=\"right\"| 1,301"
+          },
+          {
+            "text": "align=\"right\"| 18.22"
+          },
+          {
+            "text": "align=\"right\"| +2.33"
+          }
+        ],
+        [
+          {
+            "text": "New Democratic Party",
+            "links": [
+              {
+                "text": "New Democratic Party",
+                "type": "internal",
+                "page": "Nova Scotia New Democratic Party"
+              }
+            ]
+          },
+          {
+            "text": "Deborah Stiles"
+          },
+          {
+            "text": "align=\"right\"| 564"
+          },
+          {
+            "text": "align=\"right\"| 7.90"
+          },
+          {
+            "text": "align=\"right\"| -28.17"
+          },
+          {
+            "text": "}"
+          }
+        ],
+        [
+          {
+            "text": "Progressive Conservative",
+            "links": [
+              {
+                "text": "Progressive Conservative",
+                "type": "internal",
+                "page": "Progressive Conservative Association of Nova Scotia"
+              }
+            ]
+          },
+          {
+            "text": "Tim Houston"
+          },
+          {
+            "text": "align=\"right\"| 3,713"
+          },
+          {
+            "text": "align=\"right\"| 48.04"
+          },
+          {
+            "text": "align=\"right\"|+22.11"
+          }
+        ],
+        [
+          {
+            "text": "New Democratic Party",
+            "links": [
+              {
+                "text": "New Democratic Party",
+                "type": "internal",
+                "page": "Nova Scotia New Democratic Party"
+              }
+            ]
+          },
+          {
+            "text": "Clarrie MacKinnon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clarrie MacKinnon"
+              }
+            ]
+          },
+          {
+            "text": "align=\"right\"| 2,788"
+          },
+          {
+            "text": "align=\"right\"| 36.07"
+          },
+          {
+            "text": "align=\"right\"|-27.91"
+          }
+        ],
+        [
+          {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Nova Scotia Liberal Party"
+              }
+            ]
+          },
+          {
+            "text": "Francois Rochon"
+          },
+          {
+            "text": "align=\"right\"| 1,228"
+          },
+          {
+            "text": "align=\"right\"| 15.89"
+          },
+          {
+            "text": "align=\"right\"|+7.50"
+          },
+          {
+            "text": "}"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nspremiers"
+        },
+        {
+          "template": "first ministers of canada"
+        },
+        {
+          "template": "nova scotia mlas"
+        },
+        {
+          "template": "houston ministry"
+        }
+      ]
+    }
+  ]
+}

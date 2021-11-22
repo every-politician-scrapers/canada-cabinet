@@ -1,0 +1,486 @@
+{
+  "title": "George Furey",
+  "pageID": 2146203,
+  "categories": [
+    "1948 births",
+    "Canadian Queen's Counsel",
+    "Speakers of the Senate of Canada",
+    "Canadian senators from Newfoundland and Labrador",
+    "Liberal Party of Canada senators",
+    "Living people",
+    "Independent Canadian senators",
+    "Politicians from St. John's, Newfoundland and Labrador",
+    "Schulich School of Law alumni",
+    "21st-century Canadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "George J. Furey (born May 12, 1948 in St. John’s, Newfoundland) is a Canadian Senator representing Newfoundland and Labrador and currently serves as the 45th Speaker of the Senate of Canada.",
+              "links": [
+                {
+                  "text": "St. John’s",
+                  "type": "internal",
+                  "page": "St. John's, Newfoundland and Labrador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Newfoundland and Labrador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Senate of Canada"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "George J. Furey"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian lawyer and Senator",
+          "template": "short description"
+        },
+        {
+          "year": "1948",
+          "month": "5",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "QC"
+          ],
+          "template": "postnominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "George Furey 2016.jpg"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "George Furey"
+          },
+          "honorific-suffix": {
+            "text": "QC",
+            "links": [
+              {
+                "text": "QC",
+                "type": "internal",
+                "page": "Queen's Counsel"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 12, 1948"
+          },
+          "birth_place": {
+            "text": "St. John's, Newfoundland",
+            "links": [
+              {
+                "text": "St. John's",
+                "type": "internal",
+                "page": "St. John's, Newfoundland"
+              },
+              {
+                "text": "Newfoundland",
+                "type": "internal",
+                "page": "Dominion of Newfoundland"
+              }
+            ]
+          },
+          "party": {
+            "text": "Non-affiliated"
+          },
+          "otherparty": {
+            "text": "Liberal (until 2014) Independent Liberal (2014-2015)",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              },
+              {
+                "text": "Independent Liberal",
+                "type": "internal",
+                "page": "Senate Liberal Caucus"
+              }
+            ]
+          },
+          "office": {
+            "text": "Speaker of the Senate of Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Senate of Canada"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 3, 2015"
+          },
+          "appointer": {
+            "text": "David Johnston",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Johnston"
+              }
+            ]
+          },
+          "nominator": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Leo Housakos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Housakos"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Canadian Senator from Newfoundland and Labrador",
+            "links": [
+              {
+                "text": "Canadian Senator",
+                "type": "internal",
+                "page": "Senate of Canada"
+              },
+              {
+                "type": "internal",
+                "page": "Newfoundland and Labrador"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 11, 1999"
+          },
+          "nominator2": {
+            "text": "Jean Chrétien",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Chrétien"
+              }
+            ]
+          },
+          "appointer2": {
+            "text": "Roméo LeBlanc",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roméo LeBlanc"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "William Petten",
+            "links": [
+              {
+                "type": "internal",
+                "page": "William Petten"
+              }
+            ]
+          },
+          "children": {
+            "text": "4 including Andrew",
+            "links": [
+              {
+                "text": "Andrew",
+                "type": "internal",
+                "page": "Andrew Furey"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Memorial University of Newfoundland (BA, BEd, MEd) Dalhousie University (LLB)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Memorial University of Newfoundland"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "BEd"
+              },
+              {
+                "type": "internal",
+                "page": "MEd"
+              },
+              {
+                "type": "internal",
+                "page": "Dalhousie University"
+              },
+              {
+                "type": "internal",
+                "page": "LLB"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Educator, lawyer, school administrator",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Educator"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Personal information",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Furey earned a Bachelor of Arts Degree and a Bachelor of Education Degree from Memorial University in 1970.",
+              "links": [
+                {
+                  "text": "Memorial University",
+                  "type": "internal",
+                  "page": "Memorial University of Newfoundland"
+                }
+              ]
+            },
+            {
+              "text": "He also completed a Master of Education Degree from Memorial in 1976."
+            },
+            {
+              "text": "After graduating, he worked as a teacher for the Roman Catholic School Board in St. John's from 1969 to 1972."
+            },
+            {
+              "text": "From 1972 to 1978, Furey was a Supervising Vice Principal with the Port-au-Port Roman Catholic School Board and from 1978 to 1980 Supervising Principal of the Placentia-St."
+            },
+            {
+              "text": "Mary's Roman Catholic School Board."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After a career in education, he went on to earn a law degree from Dalhousie University in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dalhousie University"
+                }
+              ]
+            },
+            {
+              "text": "He was called to the Newfoundland Bar in 1984."
+            },
+            {
+              "text": "Furey was later named a partner at the St. John's law firm of O'Brien, Furey & Hurley."
+            },
+            {
+              "text": "By 1989, he was a senior partner at the law firm of O'Brien, Furey & Smith."
+            },
+            {
+              "text": "He was appointed as Queen's Counsel in 1996."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Furey volunteers for volunteer groups, professional boards, and provincial commissions, including the Newfoundland Teachers' Association, Scouts Canada, the St. Clare's Mercy Hospital Ethics Committee, the Gonzaga High School Council, and the Provincial Police Complaints Commission."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, Furey's son Andrew announced his candidacy for leader of the Liberal Party of Newfoundland and Labrador and was elected leader in August 2020, becoming the 14th Premier of Newfoundland and Labrador.",
+              "links": [
+                {
+                  "text": "Andrew",
+                  "type": "internal",
+                  "page": "Andrew Furey"
+                },
+                {
+                  "text": "candidacy for leader of the Liberal Party of Newfoundland and Labrador",
+                  "type": "internal",
+                  "page": "2020 Liberal Party of Newfoundland and Labrador leadership election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Premier of Newfoundland and Labrador"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://sencanada.ca/en/senators/furey-george-j/",
+          "title": "Senate of Canada - Senator George J. Furey",
+          "date": "13 October 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Senate of Canada",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Furey was named to the Senate of Canada by Prime Minister Jean Chrétien on August 11, 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jean Chrétien"
+                }
+              ]
+            },
+            {
+              "text": "As a Senator, he has been a member of several Senate committees and has served as Chair of the Standing Committee on Internal Economy, Budgets and Administration and the Standing Committee on Legal and Constitutional Affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On January 29, 2014, Liberal Party leader Justin Trudeau announced that all Liberal Senators, including Furey, were removed from the Liberal caucus, and would continue sitting as unaffiliated Senators."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the retirement of David Tkachuk on 2020-2-18, he is the longest-serving member of the Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Tkachuk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 3, 2015, Furey was appointed Speaker of the Senate by Prime Minister Justin Trudeau replacing Senator Leo Housakos.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leo Housakos"
+                }
+              ]
+            },
+            {
+              "text": "He resigned from the Independent Liberal caucus upon assuming the Speaker's chair."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Speaker, Furey presides over a period of Senate reform."
+            },
+            {
+              "text": "In his opening address, he highlighted a need for the Senate to reinvent itself and to fulfil its role, as intended by the constitution, as an independent institution \"of sober second thought\"."
+            },
+            {
+              "text": "Furey also performs diplomatic duties in his role as Speaker, representing the Senate and Canada at home and abroad, meeting foreign dignitaries and visiting numerous countries over the course of his Speakership."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=16524#comp",
+          "title": "Profile",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.theglobeandmail.com/news/politics/liberals-setting-up-advisory-board-to-fill-empty-senate-seats/article27577333/",
+          "title": "Liberals to set up advisory board for Senate nominees, but B.C. won't take part",
+          "first": "Gloria",
+          "last": "Galloway",
+          "date": "December 3, 2015",
+          "via": "www.theglobeandmail.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "speakers of the canadian senate"
+        },
+        {
+          "template": "senate of canada"
+        }
+      ]
+    }
+  ]
+}

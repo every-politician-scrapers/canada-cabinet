@@ -1,0 +1,581 @@
+{
+  "title": "Lawrence MacAulay",
+  "pageID": 712901,
+  "categories": [
+    "1946 births",
+    "Living people",
+    "People from Kings County, Prince Edward Island",
+    "Liberal Party of Canada MPs",
+    "Members of the House of Commons of Canada from Prince Edward Island",
+    "Members of the Queen's Privy Council for Canada",
+    "Solicitors General of Canada",
+    "Farmers from Prince Edward Island",
+    "Members of the 26th Canadian Ministry",
+    "Members of the 29th Canadian Ministry",
+    "Ministers of Labour of Canada"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lawrence A. MacAulay (born September 9, 1946) is a Canadian politician, who has represented the riding of Cardigan, Prince Edward Island in the House of Commons since 1988.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "Electoral district (Canada)"
+                },
+                {
+                  "text": "Cardigan",
+                  "type": "internal",
+                  "page": "Cardigan (electoral district)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prince Edward Island"
+                },
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lawrence A. MacAulay"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On June 11, 1997 he joined the cabinet of Prime Minister Jean Chretien as Minister of Labour and Minister responsible for Prince Edward Island.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jean Chretien"
+                }
+              ]
+            },
+            {
+              "text": "In 1998, he was appointed Solicitor General of Canada and served in that role until his resignation from Cabinet on October 21, 2002, during a conflict of interest inquiry.",
+              "links": [
+                {
+                  "text": "conflict of interest",
+                  "type": "internal",
+                  "page": "conflict of interest"
+                }
+              ]
+            },
+            {
+              "text": "MacAuley served as a Liberal backbench member of Parliament (MP) through the rest of the Liberal years in power and as an opposition member during the Harper government.",
+              "links": [
+                {
+                  "text": "backbench",
+                  "type": "internal",
+                  "page": "backbench"
+                }
+              ]
+            },
+            {
+              "text": "He is the former Secretary of State (Veterans) and Secretary of State (Atlantic Canada Opportunities Agency)."
+            },
+            {
+              "text": "He was also the Official Opposition Critic for Seniors."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On March 20, 2014, MacAulay became the longest-serving MP in the history of Prince Edward Island, surpassing the record previously set by Angus MacLean.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angus MacLean"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 4, 2015, he was appointed the Minister of Agriculture and Agri-Food by Justin Trudeau.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Agriculture and Agri-Food"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                }
+              ]
+            },
+            {
+              "text": "On March 1, 2019, Trudeau shuffled his cabinet, appointing MacAulay as Minister of Veterans Affairs and Associate Minister of National Defence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "MacAulay lives in PEI with his wife, Frances."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "year": "1946",
+          "month": "9",
+          "day": "9",
+          "template": "birth date and age"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Lawrence MacAulay"
+          },
+          "image": {
+            "text": "Lawrence McAulay 01-14-2016.jpg"
+          },
+          "office": {
+            "text": "Minister of Veterans Affairs Associate Minister of National Defence",
+            "links": [
+              {
+                "text": "Minister of Veterans Affairs",
+                "type": "internal",
+                "page": "Minister of Veterans Affairs (Canada)"
+              },
+              {
+                "type": "internal",
+                "page": "Associate Minister of National Defence"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 1, 2019"
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jody Wilson-Raybould",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jody Wilson-Raybould"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Agriculture",
+            "links": [
+              {
+                "text": "Minister of Agriculture",
+                "type": "internal",
+                "page": "Minister of Agriculture (Canada)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 4, 2015"
+          },
+          "term_end1": {
+            "text": "March 1, 2019"
+          },
+          "primeminister1": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Gerry Ritz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gerry Ritz"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Marie-Claude Bibeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marie-Claude Bibeau"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Solicitor General of Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Solicitor General of Canada"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 23, 1998"
+          },
+          "term_end2": {
+            "text": "October 22, 2002"
+          },
+          "primeminister2": {
+            "text": "Jean Chrétien",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Chrétien"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Andy Scott",
+            "links": [
+              {
+                "text": "Andy Scott",
+                "type": "internal",
+                "page": "Andy Scott (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Wayne Easter",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wayne Easter"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Labour",
+            "links": [
+              {
+                "text": "Minister of Labour",
+                "type": "internal",
+                "page": "Minister of Labour (Canada)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 11, 1997"
+          },
+          "term_end3": {
+            "text": "November 23, 1998"
+          },
+          "primeminister3": {
+            "text": "Jean Chrétien",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean Chrétien"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Alfonso Gagliano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alfonso Gagliano"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Claudette Bradshaw",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claudette Bradshaw"
+              }
+            ]
+          },
+          "riding4": {
+            "text": "Cardigan",
+            "links": [
+              {
+                "text": "Cardigan",
+                "type": "internal",
+                "page": "Cardigan (electoral district)"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Canadian"
+          },
+          "term_start4": {
+            "text": "November 21, 1988"
+          },
+          "predecessor4": {
+            "text": "Pat Binns",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pat Binns"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 9, 1946"
+          },
+          "birth_place": {
+            "text": "St. Peters Bay, Prince Edward Island"
+          },
+          "profession": {
+            "text": "Farmer"
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "St. Peters Bay"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=11677",
+          "title": "Profile",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.theguardian.pe.ca/news/local/cardigan-mp-lawrence-macaulay-breaks-political-record-96426/",
+          "title": "Cardigan MP Lawrence MacAulay breaks political record",
+          "publisher": "The Charlottetown Guardian",
+          "date": "20 March 2014",
+          "access-date": "29 November 2017",
+          "author": "Sharratt, Steve",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "canadian federal election, 2021/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2019/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2015/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2011/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2008/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2006/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2004/cardigan"
+        },
+        {
+          "template": "canadian federal election, 2000/cardigan"
+        },
+        {
+          "template": "canadian federal election, 1997/cardigan"
+        },
+        {
+          "template": "canadian federal election, 1993/cardigan"
+        },
+        {
+          "template": "canadian federal election, 1988/cardigan"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "11677",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "ministry": "29",
+          "template": "canadian federal ministry navigational box header"
+        },
+        {
+          "post2preceded": "Jody Wilson-Raybould",
+          "post2": "Minister of Veterans Affairs",
+          "post2years": "2019–present",
+          "post2followed": "Incumbent",
+          "post1preceded": "Gerry Ritz",
+          "post1": "Minister of Agriculture and Agri-food",
+          "post1years": "2015–2019",
+          "post1followed": "Marie-Claude Bibeau",
+          "template": "ministry box cabinet posts"
+        },
+        {
+          "ministry": "26",
+          "template": "canadian federal ministry navigational box header"
+        },
+        {
+          "post2preceded": "Andy Scott",
+          "post2": "Solicitor General of Canada",
+          "post2years": "1998–2002",
+          "post2followed": "Wayne Easter",
+          "post1preceded": "Alfonso Gagliano",
+          "post1": "Minister of Labour",
+          "post1years": "1997–1998",
+          "post1followed": "Claudette Bradshaw",
+          "template": "ministry box cabinet posts"
+        },
+        {
+          "post2preceded": "new post replacing Secretary of State (Veterans) and Secretary of State (Atlantic Canada Opportunities Agency)",
+          "post2": "Secretary of State (Veterans) (Atlantic Canada Opportunities Agency)",
+          "post2years": "1996–1997",
+          "post2followed": "Fred Mifflin as Minister of State for Atlantic Canada Opportunities Agency and Minister of Veterans Affairs",
+          "post1": "Secretary of State (Veterans)",
+          "post1years": "1993–1996",
+          "post1followed": "post replaced with Secretary of State (Veterans and Atlantic Canada Opportunities Agency)",
+          "template": "ministry box sub-cabinet posts"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "chrétien ministry"
+        },
+        {
+          "template": "cancabinet"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        },
+        {
+          "template": "ca-ministers of veterans affairs"
+        },
+        {
+          "template": "ca-ministers of agriculture"
+        },
+        {
+          "template": "ca-ministers of labour"
+        },
+        {
+          "template": "ca-solicitors general of canada"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official site",
+            "links": [
+              {
+                "text": "Official site",
+                "type": "external",
+                "site": "http://www.lawrencemacaulay.ca/"
+              }
+            ]
+          },
+          {
+            "text": "Bio & Mandate from Prime Minister",
+            "links": [
+              {
+                "text": "Bio & Mandate from Prime Minister",
+                "type": "external",
+                "site": "https://pm.gc.ca/en/cabinet/honourable-lawrence-macaulay"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

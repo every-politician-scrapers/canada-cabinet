@@ -1,0 +1,1446 @@
+{
+  "title": "Omar Alghabra",
+  "pageID": 3481063,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "Members of the House of Commons of Canada from Ontario",
+    "Members of the Queen's Privy Council for Canada",
+    "Liberal Party of Canada MPs",
+    "Canadian engineers",
+    "Canadian people of Syrian descent",
+    "Politicians from Mississauga",
+    "Syrian emigrants to Canada",
+    "Saudi Arabian emigrants to Canada",
+    "York University alumni",
+    "Ryerson University alumni",
+    "21st-century Canadian politicians",
+    "Canadian politicians of Syrian descent",
+    "Canadian Ministers of Transport"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Omar Alghabra (عمر الغبرا; born October 24, 1969) is a Canadian politician who has served as Minister of Transport since 2021.",
+              "links": [
+                {
+                  "text": "Minister of Transport",
+                  "type": "internal",
+                  "page": "Minister of Transport (Canada)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Omar Alghabra"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, he has represented the riding of Mississauga Centre in the House of Commons since the 2015 election.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "Electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mississauga Centre"
+                },
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He was previously the Member of Parliament (MP) for Mississauga—Erindale from 2006 to 2008.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mississauga—Erindale"
+                },
+                {
+                  "text": "2006",
+                  "type": "internal",
+                  "page": "2006 Canadian federal election"
+                },
+                {
+                  "text": "2008",
+                  "type": "internal",
+                  "page": "2008 Canadian federal election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "January 2021",
+          "template": "use canadian english"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "image": "BBQ avec Omar Alghabra.jpg",
+          "bsize": "800",
+          "cwidth": "210",
+          "cheight": "270",
+          "otop": "80",
+          "oleft": "260",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
+          "year": "1969",
+          "month": "10",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Omar Alghabra"
+          },
+          "native_name": {
+            "text": "عمر الغبرا"
+          },
+          "office": {
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Minister of Transport (Canada)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Marc Garneau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marc Garneau"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 12, 2021"
+          },
+          "riding1": {
+            "text": "Mississauga Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mississauga Centre"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Canadian"
+          },
+          "term_start1": {
+            "text": "October 19, 2015"
+          },
+          "predecessor1": {
+            "text": "Riding established",
+            "formatting": {
+              "italic": [
+                "Riding established"
+              ]
+            }
+          },
+          "riding2": {
+            "text": "Mississauga—Erindale",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mississauga—Erindale"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Canadian"
+          },
+          "term_start2": {
+            "text": "January 23, 2006"
+          },
+          "term_end2": {
+            "text": "October 14, 2008"
+          },
+          "predecessor2": {
+            "text": "Carolyn Parrish",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Parrish"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Bob Dechert",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bob Dechert"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 24, 1969"
+          },
+          "birth_place": {
+            "text": "Al-Khobar, Saudi Arabia",
+            "links": [
+              {
+                "text": "Al-Khobar, Saudi Arabia",
+                "type": "internal",
+                "page": "Khobar"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Canadian · Syrian"
+          },
+          "party": {
+            "text": "Liberal Party",
+            "links": [
+              {
+                "text": "Liberal Party",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Mississauga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mississauga"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ctvnews.ca/politics/pm-to-shuffle-cabinet-with-navdeep-bains-retiring-from-politics-1.5262884",
+          "title": "PM to shuffle cabinet with Navdeep Bains retiring from politics",
+          "date": "January 11, 2021",
+          "website": "CTVNews",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "December 8, 2006",
+          "title": "Dion Among a Dozen MPs with Dual Citizenships",
+          "url": "https://www.cbc.ca/news/canada/dion-among-a-dozen-mps-with-dual-citizenships-1.574134",
+          "work": "CBC News",
+          "access-date": "April 10, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
+          "title": "Official Voting Results",
+          "publisher": "Elections Canada",
+          "access-date": "January 23, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra was born in Al-Khobar, Saudi Arabia to a Syrian family.",
+              "links": [
+                {
+                  "text": "Al-Khobar",
+                  "type": "internal",
+                  "page": "Alkhobar"
+                }
+              ]
+            },
+            {
+              "text": "His father, an architect, moved their family to Saudi Arabia in 1968."
+            },
+            {
+              "text": "Alghabra has stated that he remembers living a sheltered life there, attending private school and visiting Syria in the summer."
+            },
+            {
+              "text": "Alghabra completed his high school education at the Dhahran Ahliyya School in Alkhobar."
+            },
+            {
+              "text": "He then moved to Damascus, Syria where he started his Engineering degree at Damascus University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Damascus University"
+                }
+              ]
+            },
+            {
+              "text": "He decided to complete his education in Canada."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alghabra moved to Toronto when he was 19 years old to attend school."
+            },
+            {
+              "text": "He attended grade 13 to obtain his Canadian high school diploma."
+            },
+            {
+              "text": "Later, he completed his Bachelor of Engineering at Ryerson University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ryerson University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alghabra also attended York University, where he graduated with a Master of Business Administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "York University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Senator Invokes MP's Birthplace To Question His Judgment On Saudi Spat",
+          "url": "https://www.huffingtonpost.ca/2018/08/09/denise-batters-omar-alghabra-saudi-arabia_a_23499268/",
+          "date": "2018-08-09",
+          "website": "HuffPost Canada",
+          "language": "en",
+          "access-date": "2020-05-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Omar Alghabra",
+          "url": "https://www.opencanada.org/contributors/omar-alghabra/",
+          "website": "OpenCanada",
+          "access-date": "2020-05-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra’s first job was at Ainsworth Inc. as a Quality Assurance supervisor."
+            },
+            {
+              "text": "He later transitioned to sales and worked as the Predictive Maintenance supervisor."
+            },
+            {
+              "text": "Afterwards, he joined General Electric (GE) as a Six Sigma Black Belt in the Industrial Service Business."
+            },
+            {
+              "text": "He became the Global Business Leader for GE’s Industrial Refurbished Parts business."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After his political defeat in the 2008 general election, Alghabra joined ENBALA Power Networks as their Vice President for Corporate Development."
+            },
+            {
+              "text": "Later, he worked as an advisor to the COO of the Ontario Energy Board on innovation in the utility sector."
+            },
+            {
+              "text": "Alghabra returned to the Faculty of Engineering and Architectural Science after being appointed a Distinguished Visiting Professor."
+            },
+            {
+              "text": "In this role, he also joined Ryerson’s start-up incubator DMZ as their Executive-in-residence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alghabra was the president of the Canadian Arab Federation (CAF) in 2004-5.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canadian Arab Federation"
+                }
+              ]
+            },
+            {
+              "text": "After Alghabra left CAF, the group made controversial statements, and Alghabra condemned those statements."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.youtube.com/watch?v=HAX2BSByKEI",
+          "title": "Interview with Honorable Member Omar Alghabra",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Campbell Clark",
+          "url": "https://www.theglobeandmail.com/politics/article-the-blocs-sneaky-slur-against-a-mild-mannered-muslim-mp/",
+          "title": "The Bloc's sneaky slur against a mild-mannered Muslim MP",
+          "publisher": "The Globe and Mail",
+          "date": "2021-01-15",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Our Campaigns - Candidate - Omar Alghabra",
+          "url": "https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=107746",
+          "website": "www.ourcampaigns.com",
+          "access-date": "2020-05-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Omar Alghabra {{!}} Team Trudeau",
+          "url": "https://omaralghabra.liberal.ca/",
+          "access-date": "2020-05-09",
+          "website": "omaralghabra.liberal.ca",
+          "language": "en-CA",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra first took office following the 2006 federal election to the 39th Parliament of Canada, then again in 2015 to the 42nd Parliament of Canada.",
+              "links": [
+                {
+                  "text": "2006 federal election",
+                  "type": "internal",
+                  "page": "2006 Canadian federal election"
+                },
+                {
+                  "text": "39th Parliament of Canada",
+                  "type": "internal",
+                  "page": "39th Parliament of Canada"
+                },
+                {
+                  "text": "42nd Parliament of Canada",
+                  "type": "internal",
+                  "page": "42nd Parliament of Canada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When a Member of Parliament retired, Alghabra left General Electric to run as a Liberal candidate for Member of Parliament in the 2006 federal election in the riding of Mississauga—Erindale.",
+              "links": [
+                {
+                  "text": "2006 federal election",
+                  "type": "internal",
+                  "page": "2006 Canadian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mississauga—Erindale"
+                }
+              ]
+            },
+            {
+              "text": "He defeated Conservative candidate Bob Dechert by 3,328 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bob Dechert"
+                }
+              ]
+            },
+            {
+              "text": "After that election there was a Conservative Party minority government, led by Stephen Harper.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stephen Harper"
+                }
+              ]
+            },
+            {
+              "text": "He was defeated in 2008, and then was elected again in 2015, and re-elected in 2019."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as parliament secretary to the minister of foreign affairs (Consular Affairs) from 2015 to 2018 and parliament secretary to the minister of international trade diversification from 2018 to 2019.",
+              "links": [
+                {
+                  "text": "minister of foreign affairs",
+                  "type": "internal",
+                  "page": "Stéphane Dion"
+                },
+                {
+                  "text": "minister of international trade diversification",
+                  "type": "internal",
+                  "page": "Jim Carr"
+                }
+              ]
+            },
+            {
+              "text": "Alghabra was re-elected in the 2019 federal election."
+            },
+            {
+              "text": "He was appointed as parliament secretary to the prime minister (Public Service Renewal) and parliament secretary to the deputy prime minister and minister of intergovernmental affairs.",
+              "links": [
+                {
+                  "text": "prime minister",
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                },
+                {
+                  "text": "deputy prime minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Canada"
+                },
+                {
+                  "text": "minister of intergovernmental affairs",
+                  "type": "internal",
+                  "page": "Minister of Intergovernmental Affairs (Canada)"
+                }
+              ]
+            },
+            {
+              "text": "He was also sworn in as a member of the Privy Council in February 2020.",
+              "links": [
+                {
+                  "text": "Privy Council",
+                  "type": "internal",
+                  "page": "Privy Council Office (Canada)"
+                }
+              ]
+            },
+            {
+              "text": "In the Cabinet reshuffle on January 12, 2021, Alghabra became the transport minister, succeeding Marc Garneau.",
+              "links": [
+                {
+                  "text": "Cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2021 Canadian cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marc Garneau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following a motion condemning Islamophobia amidst death threats to Muslim MPs, Alghabra stated that his primary concern was his staff who process these messages.",
+              "links": [
+                {
+                  "text": "Islamophobia",
+                  "type": "internal",
+                  "page": "Islamophobia in Canada"
+                }
+              ]
+            },
+            {
+              "text": "He continued that it is important to have a conversation about Islamophobia and that he purposely does not delete comments received on his Facebook page."
+            },
+            {
+              "text": "Alghabra attributes backlash against the motion to a campaign of misinformation and ignorance."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "GmbH",
+          "first": "finanzen net",
+          "title": "Prime Minister welcomes new parliamentary secretaries {{!}} Markets Insider",
+          "url": "https://markets.businessinsider.com/news/stocks/prime-minister-welcomes-new-parliamentary-secretaries-1028759262",
+          "access-date": "2020-05-09",
+          "website": "markets.businessinsider.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Office",
+          "first": "Privy Council",
+          "date": "2019-12-13",
+          "title": "Omar Alghabra, Parliamentary Secretary",
+          "url": "https://www.canada.ca/en/privy-council/corporate/parliamentary-secretary/omar-alghabra.html",
+          "access-date": "2020-05-09",
+          "website": "aem",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "January 24, 2006",
+          "title": "Election results...riding by riding",
+          "page": "A16",
+          "newspaper": "The Globe and Mail",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2017-03-05",
+          "title": "Liberals consider help for MPs facing threats, harassment, even death threats",
+          "url": "https://www.thestar.com/news/canada/2017/03/05/liberals-consider-help-for-mps-facing-threats-harassment-even-death-threats.html",
+          "access-date": "2020-05-09",
+          "website": "thestar.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Backbencher",
+      "depth": 1
+    },
+    {
+      "title": "Consular affairs",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As Parliament Secretary, Alghabra had a consular affairs file that oversaw 250,000 cases."
+            },
+            {
+              "text": "He worked on the cases on John Ridsdel, Joshua Boyle and helped assisting Canadians stranded by Hurricane Irma in the Caribbean.",
+              "links": [
+                {
+                  "text": "John Ridsdel",
+                  "type": "internal",
+                  "page": "John Riddell (Marxist)"
+                },
+                {
+                  "text": "Joshua Boyle",
+                  "type": "internal",
+                  "page": "Kidnapping of Joshua Boyle and Caitlan Coleman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hurricane Irma"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Syrian-Canadian MP Omar Alghabra's story is one shared by millions",
+          "url": "https://www.theglobeandmail.com/news/politics/syrian-canadian-mp-omar-alghabras-story-is-one-shared-by-millions/article37464252/",
+          "access-date": "2020-05-09",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Trade",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra was appointed Parliament Secretary to the Minister of International Trade Diversification and served from 2018 to 2019."
+            },
+            {
+              "text": "Alghabra also served on the Standing Committee for International Trade.",
+              "links": [
+                {
+                  "text": "Standing Committee for International Trade",
+                  "type": "internal",
+                  "page": "Canadian House of Commons Standing Committee on International Trade"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Flight 752",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra was tasked with working directly with victim’s families of the Ukrainian International Airlines Flight PS752.",
+              "links": [
+                {
+                  "text": "Flight PS752",
+                  "type": "internal",
+                  "page": "Ukraine International Airlines Flight 752"
+                }
+              ]
+            },
+            {
+              "text": "Alghabra stated that the government is offering legal assistance and exploring forms of interim compensation while they wait for proper compensation to be settled with Iran."
+            },
+            {
+              "text": "Alghabra also announced that Ottawa will match funds raised during the Canada Strong campaign launched to raise $1.5 million for those who lost loved ones when the Ukrainian passenger plane was shot down by Iranian military."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Garneau says compensation for Flight PS752 victims' families is a 'priority'",
+          "url": "https://www.cbc.ca/news/politics/flight-ps752-garneau-update-iran-1.5424649",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ottawa pledges to match funds raised for families of Iran plane crash victims",
+          "url": "https://edmonton.citynews.ca/2020/01/22/ottawa-pledges-to-match-funds-raised-for-families-of-iran-plane-crash-victims/",
+          "date": "2020-01-22",
+          "website": "CityNews Edmonton",
+          "access-date": "2020-05-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Transport",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alghabra became Minister of Transport on January 12, 2021, following the resignation of industry minister Navdeep Bains, resulting in a Cabinet shuffle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Navdeep Bains"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.theglobeandmail.com/business/article-new-transport-minister-alghabra-takes-on-portfolio-at-a-time-of-crisis/",
+          "title": "New Transport Minister Alghabra takes on portfolio at a time of crisis",
+          "via": "The Globe and Mail",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "CA",
+            "2021"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Omar Alghabra",
+            "25,714",
+            "54.22",
+            "–1.54"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Kathy-Ying Zhao",
+            "13,390",
+            "28.23",
+            "–1.30"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Teneshia Samuel",
+            "5,330",
+            "11.24",
+            "+1.62"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "PPC",
+            "Elie Diab",
+            "2,148",
+            "4.53",
+            "+2.97"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Craig Laferriere",
+            "864",
+            "1.82",
+            "–1.24"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "47,431"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "462",
+            "0.96"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "47,893",
+            "56.32"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "85,044"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "–1.54"
+          ],
+          "template": "canelec/hold"
+        },
+        {
+          "list": [
+            "Source: Elections Canada"
+          ],
+          "template": "canelec/source"
+        },
+        {
+          "template": "canadian federal election, 2019/mississauga centre"
+        },
+        {
+          "list": [
+            "CA",
+            "2015",
+            "Mississauga Centre"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Omar Alghabra",
+            "28,372",
+            "54.72",
+            "+20.77",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Julius Tiangson",
+            "17,431",
+            "33.62",
+            "-8.06",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Farheen Khan",
+            "4,920",
+            "9.49",
+            "-9.51",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Linh Nguyen",
+            "1,129",
+            "2.18",
+            "-0.14",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes/Expense limit",
+            "51,852",
+            "100.0",
+            "",
+            "$218,539.24"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "342",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "52,194",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "82,443"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Source: Elections Canada"
+          ],
+          "template": "canelec/source"
+        },
+        {
+          "list": [
+            "CA",
+            "2011",
+            "Mississauga-Erindale"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Bob Dechert",
+            "29,793",
+            "46.95",
+            "+4.24",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Omar Alghabra",
+            "21,541",
+            "33.95",
+            "-8.05",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Michelle Bilek",
+            "10,327",
+            "16.27",
+            "+7.73",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "John Fraser",
+            "1,694",
+            "2.67",
+            "-3.83",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Dagmar Sullivan",
+            "99",
+            "0.16",
+            "-0.07",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "63,454",
+            "100.00",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "217",
+            "0.34",
+            "-0.02"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "63,671",
+            "61.61",
+            "+5.4"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "103,337",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "2008",
+            "Mississauga-Erindale"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Bob Dechert",
+            "23,863",
+            "42.71",
+            "+3.3",
+            "$96,559"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Omar Alghabra",
+            "23,466",
+            "42.00",
+            "-2.8",
+            "$74,412"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Mustafa Rizvi",
+            "4,774",
+            "8.54",
+            "-2.6",
+            "$1,330"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Richard Pietro",
+            "3,636",
+            "6.50",
+            "+2.1"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Dagmar Sullivan",
+            "129",
+            "0.23",
+            "-0.3"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes/Expense limit",
+            "55,868",
+            "100.00",
+            "$98,112"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "203",
+            "0.36",
+            "-0.06"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "56,071",
+            "56.2",
+            "-9.9"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "2006",
+            "Mississauga-Erindale"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Omar Alghabra",
+            "26,852",
+            "44.81",
+            "-9.56",
+            "$75,892"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Bob Dechert",
+            "23,524",
+            "39.25",
+            "+7.30",
+            "$81,890"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Rupinder Brar",
+            "6,644",
+            "11.08",
+            "+1.26",
+            "$3,459"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Adam Hunter",
+            "2,613",
+            "4.36",
+            "+0.79",
+            "$1,484"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Independent",
+            "Ronnie Amyotte",
+            "289",
+            "0.48",
+            "&ndash;",
+            "$1,249"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes/Expense limit",
+            "59,922",
+            "100.00",
+            "",
+            "$162,852"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "251",
+            "0.42",
+            "-0.10"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "60,173",
+            "65.5",
+            "+6.2"
+          ],
+          "template": "canadian election result/total"
+        }
+      ],
+      "references": [
+        {
+          "title": "List of confirmed candidates – September 20, 2021 Federal Election",
+          "url": "https://www.elections.ca/content2.aspx?section=can&dir=cand/lst&document=index&lang=e",
+          "website": "Elections Canada",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elections.ca/Scripts/vis/FindED?L=e&QID=-1&PAGEID=20",
+          "title": "Voter Information Service - Find your electoral district",
+          "first": "Elections",
+          "last": "Canada",
+          "website": "www.elections.ca",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elections.ca/error.aspx?aspxerrorpath=/content2.aspx",
+          "title": "Error page",
+          "first": "Elections",
+          "last": "Canada",
+          "website": "www.elections.ca",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://globalnews.ca/news/2160155/federal-election-2015-mississauga-centre-riding/",
+          "title": "Federal Election 2015: Mississauga Centre riding results",
+          "website": "Global News",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://OmarAlghabra.ca"
+          ],
+          "template": "official website"
+        },
+        {
+          "id": "8947",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "ministry": "29",
+          "template": "canadian federal ministry navigational box header"
+        },
+        {
+          "post1preceded": "Marc Garneau",
+          "post1": "Minister of Transport",
+          "post1years": "January 12, 2021 – present",
+          "post1followed": "Incumbent",
+          "template": "ministry box cabinet posts"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "ca-ministers of transport"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

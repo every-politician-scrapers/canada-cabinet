@@ -1,0 +1,716 @@
+{
+  "title": "Randy Boissonnault",
+  "pageID": 48299726,
+  "categories": [
+    "1970 births",
+    "Alumni of University College, Oxford",
+    "Canadian LGBT Members of Parliament",
+    "Canadian Rhodes Scholars",
+    "Franco-Albertan people",
+    "Gay politicians",
+    "Liberal Party of Canada MPs",
+    "Living people",
+    "Members of the House of Commons of Canada from Alberta",
+    "Politicians from Edmonton",
+    "University of Alberta alumni",
+    "University of Alberta faculty",
+    "21st-century Canadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Randy Paul Andrew Boissonnault (born July 14, 1970) is a Canadian politician who has served as Minister of Tourism and Associate Minister of Finance since October 26, 2021.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "text": "Minister of Tourism",
+                  "type": "internal",
+                  "page": "Minister of Tourism (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Associate Minister of Finance"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Randy Paul Andrew Boissonnault"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, Boissonnault represents the riding of Edmonton Centre in the House of Commons.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edmonton Centre"
+                },
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                }
+              ]
+            },
+            {
+              "text": "He was initially elected as the member of Parliament (MP) in the 2015 federal election and served until his defeat in the 2019 Canadian federal election.",
+              "links": [
+                {
+                  "text": "member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (Canada)"
+                },
+                {
+                  "text": "2015 federal election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                },
+                {
+                  "text": "2019 Canadian federal election",
+                  "type": "internal",
+                  "page": "2019 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He later went on to win back his seat in the 2021 Canadian federal election.",
+              "links": [
+                {
+                  "text": "2021 Canadian federal election",
+                  "type": "internal",
+                  "page": "2021 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "He was one of five openly gay MPs elected in 2015 and the first to be elected from Alberta."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2015",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nom"
+        },
+        {
+          "year": "1970",
+          "month": "7",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Randy Boissonnault"
+          },
+          "image": {
+            "text": "Randy Boissonnault.jpg"
+          },
+          "caption": {
+            "text": "Boissonnault in 2014"
+          },
+          "office": {
+            "text": "Minister of Tourism\nAssociate Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Tourism",
+                "type": "internal",
+                "page": "Minister of Tourism (Canada)"
+              },
+              {
+                "type": "internal",
+                "page": "Associate Minister of Finance"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "predecessor": {
+            "text": "Mona Fortier\n(as Associate Minister of Finance)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mona Fortier"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "riding1": {
+            "text": "Edmonton Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edmonton Centre"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Canadian"
+          },
+          "term_start1": {
+            "text": "September 20, 2021"
+          },
+          "predecessor1": {
+            "text": "James Cumming",
+            "links": [
+              {
+                "text": "James Cumming",
+                "type": "internal",
+                "page": "James Cumming (Canadian politician)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 19, 2015"
+          },
+          "term_end2": {
+            "text": "October 21, 2019"
+          },
+          "predecessor2": {
+            "text": "Laurie Hawn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Laurie Hawn"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "James Cumming",
+            "links": [
+              {
+                "text": "James Cumming",
+                "type": "internal",
+                "page": "James Cumming (Canadian politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Special Advisor to the Prime Minister on LGBTQ2 Issues",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Justin Trudeau"
+          },
+          "term_start3": {
+            "text": "November 15, 2016"
+          },
+          "term_end3": {
+            "text": "September 11, 2019"
+          },
+          "predecessor3": {
+            "text": "Position established"
+          },
+          "successor3": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
+          },
+          "birth_name": {
+            "text": "Randy Paul Andrew Boissonnault"
+          },
+          "birth_date": {
+            "text": "July 14, 1970"
+          },
+          "birth_place": {
+            "text": "Morinville, Alberta, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morinville, Alberta"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          },
+          "honorific_prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://edmontonjournal.com/news/politics/riding-profile-edmonton-centre",
+          "title": "Riding profile: Edmonton Centre",
+          "website": "Edmonton Journal",
+          "language": "en-CA",
+          "access-date": "2020-03-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boissonnault was born in the Franco-Albertan town of Morinville, Alberta on July 14, 1970.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Franco-Albertan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Morinville, Alberta"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After graduating from the University of Alberta, Boissonault studied at the University of Oxford as a Rhodes Scholar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Alberta"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oxford"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rhodes Scholar"
+                }
+              ]
+            },
+            {
+              "text": "He subsequently worked as a lecturer at the University of Alberta's Campus Saint-Jean and as a journalist and political commentator for Radio-Canada and Les Affaires.",
+              "links": [
+                {
+                  "text": "University of Alberta's Campus Saint-Jean",
+                  "type": "internal",
+                  "page": "University of Alberta Faculté Saint-Jean"
+                },
+                {
+                  "text": "Radio-Canada",
+                  "type": "internal",
+                  "page": "Ici Radio-Canada Télé"
+                },
+                {
+                  "type": "internal",
+                  "page": "Les Affaires"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Les Affaires"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last1": "Estabrooks",
+          "first1": "Trisha",
+          "title": "A Force of Nature: From Morinville to Oxford to Ottawa, Randy Boissonnault hasn't let anything stand in the way of getting what he wants",
+          "url": "http://www.avenueedmonton.com/May-2016/A-Force-Of-Nature/",
+          "access-date": "3 November 2017",
+          "publisher": "Avenue Edmonton",
+          "date": "May 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boissonnault was elected in the 2015 election in the riding of Edmonton Centre, the first Liberal MP to win in the riding for almost a decade.",
+              "links": [
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edmonton Centre"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Upon being sworn in as a Member of Parliament, Boissonnault was named Parliamentary Secretary to the Minister of Canadian Heritage.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Canadian Heritage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 15, 2016, Boissonnault was named special advisor on LGBTQ2 issues to the Prime Minister."
+            },
+            {
+              "text": "The role involves advising Trudeau \"on the development and co-ordination of the Government of Canada’s LGBTQ2 agenda\" including protecting LGBT rights in Canada and addressing both present and historical discrimination.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LGBT rights in Canada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was defeated in the 2019 election.",
+              "links": [
+                {
+                  "text": "2019 election",
+                  "type": "internal",
+                  "page": "2019 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "On July 14, 2021, he was acclaimed as the Edmonton Centre Liberal candidate for the next Canadian federal election."
+            },
+            {
+              "text": "He won the election on September 20, 2021, defeating James Cumming, who had previously defeated him in 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Edmonton Centre Acclamation Notice {{!}} Liberal Party of Canada",
+          "url": "https://liberal.ca/nomination-notices/edmonton-centre-acclamation-notice/",
+          "access-date": "2021-07-16",
+          "website": "liberal.ca",
+          "language": "en-CA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "In Cabinet",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boissonnault was appointed the minister of tourism and associate minister of finance in a Cabinet shuffle following the 2021 federal election."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Curry",
+          "first": "Bill",
+          "last2": "Kirkup",
+          "first2": "Kristy",
+          "last3": "Raman-Wilms",
+          "first3": "Menaka",
+          "last4": "Dickson",
+          "first4": "Janice",
+          "date": "2021-10-26",
+          "title": "Trudeau cabinet shuffle: Anita Anand moves to Defence, Steven Guilbeault to Environment, Mélanie Joly to Foreign Affairs",
+          "language": "en-CA",
+          "work": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/politics/article-justin-trudeau-shuffles-cabinet-to-appoint-guilbeault-at-environment/",
+          "access-date": "2021-10-26",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Election results",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "CA",
+            "2021"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditure": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Randy Boissonnault",
+            "16,560",
+            "33.7",
+            "+0.6"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "James Cumming",
+            "15,945",
+            "32.4",
+            "-9.05"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Heather MacKenzie",
+            "14,171",
+            "28.8",
+            "+8.16"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "PPC",
+            "Brock Crocker",
+            "2,094",
+            "4.3",
+            "+2.78"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Libertarian",
+            "Valerie Keefe",
+            "266",
+            "0.5",
+            "-"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Merryn Edwards",
+            "112",
+            "0.2",
+            "+0.05"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "49,148"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "342"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "49,490"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "78,769"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Edmonton Centre",
+            "Liberal",
+            "Conservative",
+            "+4.83"
+          ],
+          "template": "canadian election result/gain"
+        },
+        {
+          "list": [
+            "Source: Elections Canada"
+          ],
+          "template": "canelec/source"
+        },
+        {
+          "template": "canadian federal election, 2019/edmonton centre"
+        },
+        {
+          "template": "canadian federal election, 2015/edmonton centre"
+        }
+      ],
+      "references": [
+        {
+          "title": "List of confirmed candidates – September 20, 2021 Federal Election",
+          "url": "https://www.elections.ca/content2.aspx?section=can&dir=cand/lst&document=index&lang=e",
+          "website": "Elections Canada",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://rboissonnault.liberal.ca"
+          ],
+          "template": "official"
+        },
+        {
+          "template": "members of the canadian house of commons"
+        }
+      ]
+    }
+  ]
+}

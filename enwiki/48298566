@@ -1,0 +1,1054 @@
+{
+  "title": "Marc Miller (politician)",
+  "pageID": 48298566,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "Anglophone Quebec people",
+    "Members of the 29th Canadian Ministry",
+    "Members of the Queen's Privy Council for Canada",
+    "Members of the House of Commons of Canada from Quebec",
+    "Liberal Party of Canada MPs",
+    "Canadian Army officers",
+    "Lawyers from Montreal",
+    "Politicians from Montreal",
+    "New York (state) lawyers",
+    "Université de Montréal alumni",
+    "McGill University Faculty of Law alumni",
+    "21st-century Canadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marc Miller (born March 12, 1973) is a Canadian politician who was elected to represent the riding of Ville-Marie—Le Sud-Ouest—Île-des-Sœurs in the House of Commons in the 2015 election.",
+              "links": [
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ville-Marie—Le Sud-Ouest—Île-des-Sœurs"
+                },
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marc Miller"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party of Canada, he is currently serving as Minister of Crown Indigenous Relations in the Federal Cabinet following the swearing in of a new cabinet on October 26, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Crown Indigenous Relations"
+                },
+                {
+                  "text": "Federal Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Canada"
+                }
+              ]
+            },
+            {
+              "text": "Prior to entering politics, Miller was a lawyer with Stikeman Elliott and an infantry commander in the Canadian Army Primary Reserve.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stikeman Elliott"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canadian Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Primary Reserve"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the Canadian politician",
+            "other people with the same name",
+            "Marc Miller (disambiguation)",
+            "Marc Miller"
+          ],
+          "template": "about"
+        },
+        {
+          "mf": "yes",
+          "year": "1973",
+          "month": "3",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Canada"
+          ],
+          "template": "army"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Marc Miller"
+          },
+          "honorific-suffix": {
+            "text": "PC MP",
+            "links": [
+              {
+                "text": "PC",
+                "type": "internal",
+                "page": "Queen's Privy Council for Canada"
+              },
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (Canada)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Marc Miller (cropped).jpg"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "caption": {
+            "text": "Miller in 2016"
+          },
+          "office": {
+            "text": "Minister of Crown–Indigenous Relations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Crown–Indigenous Relations"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "predecessor": {
+            "text": "Carolyn Bennett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Bennett"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Indigenous Services",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Indigenous Services"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 20, 2019"
+          },
+          "term_end1": {
+            "text": "October 26, 2021"
+          },
+          "primeminister1": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Seamus O'Regan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seamus O'Regan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Patty Hajdu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patty Hajdu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Parliamentary Secretary to the Minister of Crown–Indigenous Relations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Secretary"
+              },
+              {
+                "type": "internal",
+                "page": "Minister of Crown–Indigenous Relations"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Carolyn Bennett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Bennett"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 31, 2018"
+          },
+          "term_end2": {
+            "text": "November 20, 2019"
+          },
+          "predecessor2": {
+            "text": "Yvonne Jones",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yvonne Jones"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Position abolished",
+            "formatting": {
+              "italic": [
+                "Position abolished"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Parliamentary Secretary to the Minister of Infrastructure and Communities",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Secretary"
+              },
+              {
+                "type": "internal",
+                "page": "Minister of Infrastructure and Communities"
+              }
+            ]
+          },
+          "minister3": {
+            "text": "Amarjeet Sohi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amarjeet Sohi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 30, 2017"
+          },
+          "term_end3": {
+            "text": "August 30, 2018"
+          },
+          "predecessor3": {
+            "text": "Pablo Rodriguez",
+            "links": [
+              {
+                "text": "Pablo Rodriguez",
+                "type": "internal",
+                "page": "Pablo Rodriguez (Canadian politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Marco Mendicino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marco Mendicino"
+              }
+            ]
+          },
+          "riding4": {
+            "text": "Ville-Marie—Le Sud-Ouest—Île-des-Sœurs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ville-Marie—Le Sud-Ouest—Île-des-Sœurs"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Canadian"
+          },
+          "term_start4": {
+            "text": "October 19, 2015"
+          },
+          "predecessor4": {
+            "text": "Riding established",
+            "formatting": {
+              "italic": [
+                "Riding established"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "March 12, 1973"
+          },
+          "birth_place": {
+            "text": "Montreal, Quebec, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Montreal"
+              },
+              {
+                "type": "internal",
+                "page": "Quebec"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Attorney\nSoldier"
+          },
+          "alma_mater": {
+            "text": "Université de Montréal\nMcGill University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université de Montréal"
+              },
+              {
+                "type": "internal",
+                "page": "McGill University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇨🇦 Canada",
+            "links": [
+              {
+                "text": "Canada",
+                "type": "internal",
+                "page": "canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Westmount, Quebec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Westmount, Quebec"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Elin Sandberg Miller"
+          },
+          "parents": {
+            "text": "Carman Miller\nPamela Gales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carman Miller"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://twitter.com/MarcMillerVM/status/708645264710565888",
+          "title": "Une sélection de bières du Comté pour ma fête! @joebeef @AdamScotti #BrasseurdeMontréal #Bierbrier",
+          "publisher": "Twitter",
+          "date": "March 12, 2016",
+          "access-date": "June 7, 2016",
+          "author": "Miller, Marc",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The son of a Nova Scotian father and an anglophone Montrealer mother, Miller attended Collège Jean-de-Brébeuf in the 1980s at the same time as Justin Trudeau, and has been described variously as \"a boyhood friend of Mr. Trudeau\" and \"one of [Trudeau's] oldest friends.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nova Scotian"
+                },
+                {
+                  "text": "anglophone Montrealer",
+                  "type": "internal",
+                  "page": "English-speaking Quebecer",
+                  "anchor": "Montreal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Collège Jean-de-Brébeuf"
+                },
+                {
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                }
+              ]
+            },
+            {
+              "text": "Miller earned bachelor's and master's degrees in political science from the Université de Montréal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Université de Montréal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Miller graduated from McGill University Faculty of Law in 2001 with common and civil law degrees.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "McGill University Faculty of Law"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his election was a practising lawyer with Stikeman Elliott.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stikeman Elliott"
+                }
+              ]
+            },
+            {
+              "text": "Miller also previously served in the Canadian Army Primary Reserve as an infantry commander.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canadian Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Primary Reserve"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Kovacevic",
+          "first": "Milos",
+          "title": "Liberal candidate for newly-formed Ville-Marie riding shares his views",
+          "url": "http://theconcordian.com/2014/02/liberal-candidate-for-newly-formed-ville-marie-riding-shares-his-views",
+          "newspaper": "The Concordian",
+          "date": "February 25, 2014",
+          "access-date": "June 4, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://publications.mcgill.ca/droit/2015/09/15/law-grads-in-fed-election/",
+          "title": "McGill Law faces of Election 2015",
+          "date": "September 2015",
+          "website": "publications.mcgill.ca",
+          "language": "en-CA",
+          "access-date": "September 17, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.mcgill.ca/law/channels/news/eight-faculty-law-alumni-win-their-ridings-256258",
+          "title": "Eight Faculty of Law alumni win in their ridings",
+          "date": "October 20, 2015",
+          "website": "McGill University Faculty of Law",
+          "language": "en",
+          "access-date": "September 17, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theglobeandmail.com/news/politics/globe-politics-insider/how-trudeaus-high-school-friend-plans-to-win-back-a-liberal-stronghold/article17835849/",
+          "title": "How Trudeau's high-school friend plans to win back a Liberal stronghold",
+          "last": "Chan",
+          "first": "Dave",
+          "date": "April 5, 2014",
+          "work": "The Globe and Mail",
+          "access-date": "September 17, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=18600",
+          "title": "Marc Miller",
+          "website": "Library of Parliament",
+          "access-date": "September 17, 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Federal politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Miller helped organize Trudeau's first run for office in Papineau in 2007.",
+              "links": [
+                {
+                  "text": "Papineau",
+                  "type": "internal",
+                  "page": "Papineau (electoral district)"
+                }
+              ]
+            },
+            {
+              "text": "He was an advisor and the fundraising director for Trudeau's successful run at the 2013 Liberal Party leadership election.",
+              "links": [
+                {
+                  "text": "2013 Liberal Party leadership election",
+                  "type": "internal",
+                  "page": "2013 Liberal Party of Canada leadership election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Miller was elected to represent the riding of Ville-Marie—Le Sud-Ouest—Île-des-Sœurs in the House of Commons in the 2015 federal election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ville-Marie—Le Sud-Ouest—Île-des-Sœurs"
+                },
+                {
+                  "text": "2015 federal election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "After the election, he served as the chair of the Quebec Liberal Caucus of MPs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On January 28, 2017 Miller was appointed as Parliamentary Secretary to the Minister of Infrastructure and Communities.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Infrastructure and Communities"
+                }
+              ]
+            },
+            {
+              "text": "On June 1, 2017, Miller delivered the first ever speech in the Mohawk language in the House of Commons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohawk language"
+                }
+              ]
+            },
+            {
+              "text": "Miller said he had started taking language lessons from Zoe Hopkins in the spirit of reconciliation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zoe Hopkins"
+                },
+                {
+                  "text": "reconciliation",
+                  "type": "internal",
+                  "page": "Truth and Reconciliation Commission (Canada)"
+                }
+              ]
+            },
+            {
+              "text": "He also wanted to demonstrate to the non-French speaking Liberal MPs whom he had urged to study French in his former role as the Quebec Liberal Caucus chair that it was possible to juggle learning a new language while performing their parliamentary duties."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On August 31, 2018, he was moved to be the Parliamentary Secretary to the Minister of Crown–Indigenous Relations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Crown–Indigenous Relations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 20, 2019 he was sworn in as Minister of Indigenous Services.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Indigenous Services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On October 26, 2021 Miller became the Minister of Crown–Indigenous Relations."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.macleans.ca/politics/questions-raised-about-votes-in-marc-millers-liberal-nomination/",
+          "title": "Questions raised about votes in Marc Miller's Liberal nomination",
+          "last": "Patriquin",
+          "first": "Martin",
+          "date": "May 7, 2014",
+          "work": "Maclean's",
+          "access-date": "June 7, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Forester",
+          "first": "Brett",
+          "date": "2021-10-26",
+          "title": "Trudeau cabinet: Bennett shuffled out, Miller moved over, Hajdu new boss at ISC",
+          "work": "APTN News",
+          "url": "https://www.aptnnews.ca/national-news/cabinet-bennett-shuffled-out-miller-moved-hajdu-new-boss-isc/",
+          "access-date": "2021-10-31",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://globalnews.ca/news/2272085/liberal-candidate-marc-miller-elected-in-ville-marie-le-sud-ouest-ile-des-soeurs/",
+          "title": "Liberal candidate Marc Miller elected in Ville-Marie—Le Sud-Ouest—Île-des-Soeurs",
+          "last": "Lau",
+          "first": "Rachel",
+          "website": "Global News",
+          "access-date": "2016-06-07",
+          "date": "2015-10-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cbc.ca/news/politics/liberal-mp-marc-miller-learning-mohawk-1.4141058",
+          "title": "Quebec Liberal MP Marc Miller employs Mohawk language lessons in the House",
+          "last": "Tasker",
+          "first": "John Paul",
+          "date": "June 1, 2018",
+          "work": "CBC News",
+          "access-date": "September 17, 2018",
+          "language": "en-CA",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marc Miller married Elin Sandberg, a former Swedish diplomat, whom he met at a party while both were studying at the Université de Montréal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Université de Montréal"
+                }
+              ]
+            },
+            {
+              "text": "Together, they have three children, two boys named Marius and Lukas and a girl named Eva."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Miller, an anglophone, is fluently bilingual in both official languages.",
+              "links": [
+                {
+                  "text": "anglophone",
+                  "type": "internal",
+                  "page": "anglophone"
+                },
+                {
+                  "text": "official languages",
+                  "type": "internal",
+                  "page": "Official Languages Act (Canada)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cpac.ca/en/programs/senate-proceedings/episodes/41195924/",
+          "title": "Senate Proceedings - Vote 2015 – Ville-Marie–Le Sud-Ouest–Île-des-Soeurs",
+          "last": "Murat",
+          "first": "Philippe",
+          "publisher": "CPAC",
+          "at": "8:06 and 26:24",
+          "access-date": "June 7, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://openparliament.ca/debates/2016/10/20/marc-miller-2/",
+          "last": "Miller",
+          "first": "Marc",
+          "date": "October 20, 2016",
+          "website": "Openparliament.ca",
+          "access-date": "September 17, 2018",
+          "title": "Marc Miller, \"Business of Supply\" on Oct. 20th, 2016 &#124; openparliament.ca",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "CA",
+            "2021",
+            "Ville-Marie—Le Sud-Ouest—Île-des-Sœurs"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "prelim": "no",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Marc Miller",
+            "24,978",
+            "50.5",
+            "-3.0"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Sophie Thiébaut",
+            "9,241",
+            "18.7",
+            "+2.9"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "BQ",
+            "Soledad Orihuela-Bouchard",
+            "6,176",
+            "12.5",
+            "-0.6"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Steve Shanahan",
+            "6,138",
+            "12.4",
+            "+3.6"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Cynthia Charbonneau-Lavictoire",
+            "1,343",
+            "2.7",
+            "-4.4"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "PPC",
+            "Denise Dubé",
+            "1,291",
+            "2.6",
+            "+1.6"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marijuana",
+            "Hans Armando Vargas",
+            "134",
+            "0.3",
+            "N/A"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Linda Sullivan",
+            "122",
+            "0.2",
+            "+0.1"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "49,423",
+            "98.6"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "689",
+            "1.4"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "50,112",
+            "57.0"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "87,943"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "-3.0"
+          ],
+          "template": "canelec/hold"
+        },
+        {
+          "list": [
+            "Source: Elections Canada"
+          ],
+          "template": "canelec/source"
+        },
+        {
+          "template": "canadian federal election, 2019/ville-marie—le sud-ouest—île-des-sœurs"
+        },
+        {
+          "template": "canadian federal election, 2015/ville-marie—le sud-ouest—île-des-sœurs"
+        }
+      ],
+      "references": [
+        {
+          "title": "List of confirmed candidates – September 20, 2021 Federal Election",
+          "url": "https://www.elections.ca/content2.aspx?section=can&dir=cand/lst&document=index&lang=e",
+          "website": "Elections Canada",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Marc Miller (politician)"
+          ],
+          "template": "commons category"
+        },
+        {
+          "2": "Marc Miller",
+          "id": "18600",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official Website",
+            "links": [
+              {
+                "text": "Official Website",
+                "type": "external",
+                "site": "http://marcmiller.liberal.ca/en/"
+              }
+            ]
+          },
+          {
+            "text": "Bio & mandate from the Prime Minister",
+            "links": [
+              {
+                "text": "Bio & mandate from the Prime Minister",
+                "type": "external",
+                "site": "https://pm.gc.ca/en/cabinet/honourable-marc-miller"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -3378,8 +3378,11 @@
                 },
                 {
                   "text": "International Peacekeeping and Security Centre",
-                  "type": "internal",
-                  "page": ":w:uk:Міжнародний центр миротворчості та безпеки"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "w",
+                    "lang": "uk"
+                  }
                 },
                 {
                   "type": "internal",

@@ -1,5 +1,5 @@
 {
-  "title": "Mary May Simon",
+  "title": "Mary Simon",
   "pageID": 23690945,
   "categories": [
     "Ambassadors of Canada to Denmark",
@@ -49,7 +49,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon was born in Kangiqsualujjuaq, Nunavik, Quebec.",
+              "text": "Simon was born in Kangiqsualujjuaq, Nunavik, Quebec.",
               "links": [
                 {
                   "type": "internal",
@@ -80,7 +80,7 @@
               ]
             },
             {
-              "text": "May Simon was Canada's first ambassador for circumpolar affairs from 1994 to 2004, as well as a lead negotiator for the creation of the Arctic Council.",
+              "text": "Simon was Canada's first ambassador for circumpolar affairs from 1994 to 2004, as well as a lead negotiator for the creation of the Arctic Council.",
               "links": [
                 {
                   "type": "internal",
@@ -89,20 +89,14 @@
               ]
             },
             {
-              "text": "She also served as the Canadian ambassador to Denmark from 1999 to 2002.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Denmark"
-                }
-              ]
+              "text": "She also served as the Canadian ambassador to Denmark from 1999 to 2002."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "On July 6, 2021, Prime Minister Justin Trudeau announced that Queen Elizabeth II had approved the appointment of May Simon as the next governor general of Canada.",
+              "text": "On July 6, 2021, Prime Minister Justin Trudeau announced that Queen Elizabeth II had approved the appointment of Simon as the next governor general of Canada.",
               "links": [
                 {
                   "type": "internal",
@@ -124,10 +118,10 @@
         },
         {
           "list": [
-            "Mary Simon",
-            "the Scottish poet Mary Symon"
+            "the Scottish poet",
+            "Mary Symon"
           ],
-          "template": "redirect-distinguish2"
+          "template": "for"
         },
         {
           "date": "August 2021",
@@ -153,12 +147,6 @@
         {
           "list": [
             "Ningiukudluk"
-          ],
-          "template": "ubl"
-        },
-        {
-          "list": [
-            "ᒥᐊᓕ ᓴᐃᒪ"
           ],
           "template": "ubl"
         },
@@ -196,12 +184,6 @@
             "In her first speech as Governor General, Simon said that her Inuktitut name \"Ningiukudluk\" means \"bossy little old lady\"."
           ],
           "template": "efn"
-        },
-        {
-          "list": [
-            "Her official compound surname is \"May Simon\"."
-          ],
-          "template": "efn"
         }
       ],
       "infoboxes": [
@@ -222,16 +204,16 @@
             ]
           },
           "name": {
-            "text": "Mary May Simon"
+            "text": "Mary Simon"
           },
           "native_name": {
             "text": "Ningiukudluk"
           },
-          "native name": {
-            "text": "ᒥᐊᓕ ᓴᐃᒪ"
-          },
           "image": {
             "text": "Mary Simon GG Announcement 2.png"
+          },
+          "alt": {
+            "text": "Simon wearing a dark suit"
           },
           "caption": {
             "text": "Simon in 2021"
@@ -469,17 +451,9 @@
           "title": "Mary Simon officially becomes Canada's first Inuk Governor General",
           "work": "CBC News",
           "date": "July 26, 2021",
-          "accessdate": "July 26, 2021",
+          "access-date": "July 26, 2021",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://twitter.com/adamhuras/status/1433866886509436929",
-          "title": "Governor General May Simon",
-          "work": "twitter.com",
-          "accessdate": "2021-10-05",
-          "template": "citation",
-          "type": "web"
         },
         {
           "url": "https://www.rcaanc-cirnac.gc.ca/eng/1469123230304/1537886915798",
@@ -495,7 +469,7 @@
           "title": "Prime Minister announces The Queen's approval of Canada's next Governor General",
           "work": "Prime Minister of Canada's website",
           "date": "July 5, 2021",
-          "accessdate": "July 8, 2021",
+          "access-date": "July 8, 2021",
           "template": "citation",
           "type": "web"
         }
@@ -508,7 +482,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon was born Mary Jeannie May on August 21, 1947, in Kangiqsualujjuaq, Quebec, to Bob May, who was from Manitoba and of English descent, and his wife Nancy, an Inuk.",
+              "text": "Simon was born Mary Jeannie May on August 21, 1947, in Kangiqsualujjuaq, Quebec, to Bob May, who was from Manitoba and of English descent, and his wife Nancy, an Inuk.",
               "links": [
                 {
                   "type": "internal",
@@ -541,7 +515,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon was raised in a traditional Inuit lifestyle, including hunting, fishing, sewing Inuit clothing, and travelling by dog sled.",
+              "text": "Simon was raised in a traditional Inuit lifestyle, including hunting, fishing, sewing Inuit clothing, and travelling by dog sled.",
               "links": [
                 {
                   "text": "Inuit lifestyle",
@@ -574,7 +548,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon attended Kuujjuaq Federal Day School in Kuujjuaq (formerly Fort Chimo), then Fort Carson High School in Colorado, and completed her high school via correspondence in Kuujjuaq.",
+              "text": "Simon attended Kuujjuaq Federal Day School in Kuujjuaq (formerly Fort Chimo), then Fort Carson High School in Colorado, and completed her high school via correspondence in Kuujjuaq.",
               "links": [
                 {
                   "type": "internal",
@@ -740,7 +714,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon taught Inuktitut at McGill University.",
+              "text": "Simon taught Inuktitut at McGill University.",
               "links": [
                 {
                   "type": "internal",
@@ -766,7 +740,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon began her career as a public servant by being elected secretary of the board of directors of the Northern Quebec Inuit Association."
+              "text": "Simon began her career as a public servant by being elected secretary of the board of directors of the Northern Quebec Inuit Association."
             },
             {
               "text": "In 1978, she was elected as vice-president, and later president, of the Makivik Corporation.",
@@ -798,7 +772,7 @@
               ]
             },
             {
-              "text": "May Simon was one of the senior Inuit negotiators during the repatriation of the Canadian Constitution, the First Ministers' conferences that took place from 1982 to 1992, as well as the 1992 Charlottetown Accord discussions.",
+              "text": "Simon was one of the senior Inuit negotiators during the repatriation of the Canadian Constitution, the First Ministers' conferences that took place from 1982 to 1992, as well as the 1992 Charlottetown Accord discussions.",
               "links": [
                 {
                   "type": "internal",
@@ -815,7 +789,7 @@
         {
           "sentences": [
             {
-              "text": "She served as a member of the Nunavut Implementation Commission and as Co-Director (Policy) and Secretary to the Royal Commission on Aboriginal Peoples.",
+              "text": "She served as a member of the Nunavut Implementation Commission and as co-director (policy) and secretary to the Royal Commission on Aboriginal Peoples.",
               "links": [
                 {
                   "type": "internal",
@@ -896,7 +870,7 @@
               ]
             },
             {
-              "text": "In 1986, as president of the ICC, May Simon led a delegation of Canadian, Alaskan, and Greenland Inuit to Moscow and then to Chukotka to meet with Russian officials as well as the Inuit of the far east of Russia.",
+              "text": "In 1986, as president of the ICC, Simon led a delegation of Canadian, Alaskan, and Greenland Inuit to Moscow and then to Chukotka to meet with Russian officials as well as the Inuit of the far east of Russia.",
               "links": [
                 {
                   "type": "internal",
@@ -942,7 +916,7 @@
         {
           "sentences": [
             {
-              "text": "In 1994, May Simon was appointed by Prime Minister Jean Chrétien to be Canadian Ambassador for Circumpolar Affairs, a newly-created position she held until early 2004.",
+              "text": "In 1994, Simon was appointed by Prime Minister Jean Chrétien to be Canadian Ambassador for Circumpolar Affairs, a newly created position she held until early 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -1026,7 +1000,7 @@
           "title": "Simon, Mary May: Posts",
           "work": "Global Affairs Canada",
           "date": "June 5, 2014",
-          "accessdate": "July 8, 2021",
+          "access-date": "July 8, 2021",
           "template": "citation",
           "type": "web"
         },
@@ -1035,7 +1009,7 @@
           "title": "Heads of Post List: DENMARK",
           "work": "Global Affairs Canada",
           "date": "June 5, 2014",
-          "accessdate": "July 8, 2021",
+          "access-date": "July 8, 2021",
           "template": "citation",
           "type": "web"
         }
@@ -1056,7 +1030,7 @@
               }
             },
             {
-              "text": "From June 2004 to June 2007, May Simon was a board member at the International Institute for Sustainable Development.",
+              "text": "From June 2004 to June 2007, Simon was a board member at the International Institute for Sustainable Development.",
               "links": [
                 {
                   "text": "board member",
@@ -1074,7 +1048,7 @@
         {
           "sentences": [
             {
-              "text": "From 2004 to 2005, May Simon was special advisor to the Labrador Inuit Association on the Labrador Inuit Land Claims Agreement, and she was elected president of Inuit Tapiriit Kanatami on July 7, 2006.",
+              "text": "From 2004 to 2005, Simon was special advisor to the Labrador Inuit Association on the Labrador Inuit Land Claims Agreement, and she was elected president of Inuit Tapiriit Kanatami on July 7, 2006.",
               "links": [
                 {
                   "type": "internal",
@@ -1091,7 +1065,7 @@
         {
           "sentences": [
             {
-              "text": "In 2010, May Simon was reported to be under consideration for Governor General of Canada."
+              "text": "In 2010, Simon was reported to be under consideration for Governor General of Canada."
             },
             {
               "text": "David Johnston was ultimately appointed.",
@@ -1149,7 +1123,7 @@
           "url": "https://nunatsiaq.com/stories/article/mary_simon_responds_to_jim_prentice/",
           "title": "Mary Simon responds to Jim Prentice",
           "work": "Nunatsiaq News",
-          "accessdate": "July 7, 2021",
+          "access-date": "July 7, 2021",
           "date": "July 28, 2006",
           "last1": "Simon",
           "first1": "Mary",
@@ -1193,10 +1167,10 @@
               ]
             },
             {
-              "text": "May Simon was reported as a leading contender for the post early on, given her Indigenous heritage and then-political consciousness on Indigenous reconciliation."
+              "text": "Simon was reported as a leading contender for the post early on, given her Indigenous heritage and then-political consciousness on Indigenous reconciliation."
             },
             {
-              "text": "On July 6, 2021 Prime Minister Justin Trudeau announced that Queen Elizabeth II had approved May Simon's appointment as the 30th Governor General of Canada.",
+              "text": "On July 6, 2021 Prime Minister Justin Trudeau announced that Queen Elizabeth II had approved Simon's appointment as the 30th Governor General of Canada.",
               "links": [
                 {
                   "type": "internal",
@@ -1264,7 +1238,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon's appointment was somewhat unusual in that, while bilingual, she speaks English and Inuktitut, but is not particularly proficient in French.",
+              "text": "Simon's appointment was somewhat unusual in that, while bilingual, she speaks English and Inuktitut, but is not particularly proficient in French.",
               "links": [
                 {
                   "text": "bilingual",
@@ -1315,7 +1289,7 @@
           "first": "Nicole",
           "last": "Rosen",
           "website": "The Conversation",
-          "accessdate": "August 19, 2021",
+          "access-date": "August 19, 2021",
           "template": "citation",
           "type": "web"
         },
@@ -1324,11 +1298,11 @@
           "title": "Next governor general's inability to speak French leaves francophone communities conflicted",
           "url": "https://www.cbc.ca/news/canada/montreal/mary-simon-governor-general-french-1.6101190",
           "website": "CBC News",
-          "access-date": "20 August 2021",
+          "access-date": "August 20, 2021",
           "archive-url": "https://web.archive.org/web/20210802073443/https://www.cbc.ca/news/canada/montreal/mary-simon-governor-general-french-1.6101190",
-          "archive-date": "2 Aug 2021",
+          "archive-date": "August 2, 2021",
           "language": "English",
-          "date": "Jul 14, 2021",
+          "date": "July 14, 2021",
           "url-status": "live",
           "template": "citation",
           "type": "web"
@@ -1342,7 +1316,7 @@
         {
           "sentences": [
             {
-              "text": "On August 15, 2021, May Simon approved the request of Prime Minister Justin Trudeau to dissolve Parliament and signed a writ of election for September 20.",
+              "text": "On August 15, 2021, Simon approved the request of Prime Minister Justin Trudeau to dissolve Parliament and signed a writ of election for September 20.",
               "links": [
                 {
                   "text": "election for September 20",
@@ -1361,11 +1335,11 @@
           "title": "Canada is headed for a federal election on Sept. 20",
           "url": "https://www.cbc.ca/news/politics/federal-election-call-1.6141189",
           "website": "CBC News",
-          "access-date": "20 August 2021",
+          "access-date": "August 20, 2021",
           "archive-url": "https://web.archive.org/web/20210817093939/https://www.cbc.ca/news/politics/federal-election-call-1.6141189",
-          "archive-date": "17 Aug 2021",
+          "archive-date": "August 17, 2021",
           "language": "English",
-          "date": "Aug 15, 2021",
+          "date": "August 15, 2021",
           "url-status": "live",
           "template": "citation",
           "type": "web"
@@ -1379,15 +1353,11 @@
         {
           "sentences": [
             {
-              "text": "May Simon made her first trip abroad as Governor General on October 17, 2021, when she and her husband arrived in Berlin, Germany on a state visit.",
+              "text": "Simon made her first trip abroad as Governor General on October 17, 2021, when she and her husband arrived in Berlin, Germany on a state visit.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Berlin"
-                },
-                {
-                  "type": "internal",
-                  "page": "Germany"
                 },
                 {
                   "text": "state visit",
@@ -1400,7 +1370,7 @@
               "text": "The trip was Canada's first state visit to Germany in over 20 years."
             },
             {
-              "text": "During her visit, May Simon met with President of Germany Frank-Walter Steinmeier and Chancellor of Germany Angela Merkel.",
+              "text": "During her visit, Simon met with President of Germany Frank-Walter Steinmeier and Chancellor of Germany Angela Merkel.",
               "links": [
                 {
                   "type": "internal",
@@ -1421,7 +1391,7 @@
               ]
             },
             {
-              "text": "In an interview with The Globe and Mail, May Simon said she discussed with Steinmeier, how in fulfilling the role of head of state, to express and atone for the darkest moments of their countries' history—the Holocaust and the Residential School System.",
+              "text": "In an interview with The Globe and Mail, Simon said she discussed with Steinmeier, how in fulfilling the role of head of state, to express and atone for the darkest moments of their countries' history—the Holocaust and the Residential School System.",
               "links": [
                 {
                   "type": "internal",
@@ -1473,10 +1443,10 @@
         {
           "last": "Pimentel",
           "first": "Lindsay Richardson {{!}} Tamara",
-          "date": "2021-10-22",
+          "date": "October 22, 2021",
           "title": "Governor General Mary May Simon reflects on state visit to Germany",
           "url": "https://www.aptnnews.ca/national-news/governor-general-mary-may-simon-reflects-on-state-visit-to-germany/",
-          "access-date": "2021-11-04",
+          "access-date": "November 4, 2021",
           "website": "APTN News",
           "language": "en-US",
           "template": "citation",
@@ -1485,22 +1455,22 @@
         {
           "last": "Saunders",
           "first": "Doug",
-          "date": "2021-10-22",
+          "date": "October 22, 2021",
           "title": "Opinion: For Mary Simon, a visit to Germany is symbolic – but her new job is not",
           "language": "en-CA",
           "work": "The Globe and Mail",
           "url": "https://www.theglobeandmail.com/opinion/article-for-mary-simon-a-visit-to-germany-is-symbolic-but-her-new-job-is-not/",
-          "access-date": "2021-11-04",
+          "access-date": "November 4, 2021",
           "template": "citation",
           "type": "news"
         },
         {
           "last": "Pimentel",
           "first": "Lindsay Richardson {{!}} Tamara",
-          "date": "2021-10-18",
+          "date": "October 18, 2021",
           "title": "Governor General Mary May Simon starts state visit to Germany",
           "url": "https://www.aptnnews.ca/national-news/arctic-exploration-reconciliation-on-the-agenda-as-governor-general-mary-may-simon-starts-state-visit-to-germany/",
-          "access-date": "2021-11-04",
+          "access-date": "November 4, 2021",
           "website": "APTN News",
           "language": "en-US",
           "template": "citation",
@@ -1515,7 +1485,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon is the second-oldest of eight children."
+              "text": "Simon is the second-oldest of eight children."
             },
             {
               "text": "Her brother, Johnny May, is a locally renowned bush pilot.",
@@ -1565,7 +1535,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon married her first husband, Robert Otis, on March 27, 1967, in Kuujjuaq."
+              "text": "Simon married her first husband, Robert Otis, on March 27, 1967, in Kuujjuaq."
             },
             {
               "text": "She later married George Simon, and in 1994 she married her current husband, journalist and author Whit Fraser, a former head of the Canadian Polar Commission.",
@@ -1654,6 +1624,12 @@
               "text": "Simon's personal awards and decorations include:"
             }
           ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
         },
         {
           "sentences": []
@@ -2372,6 +2348,13 @@
           }
         ]
       ],
+      "templates": [
+        {
+          "abbr": "Ref.",
+          "meaning": "Reference(s)",
+          "template": "abbr"
+        }
+      ],
       "references": [
         {
           "title": "List of McGill Honorary Degree Recipients from 1935 to October 2019",
@@ -2782,7 +2765,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon is a fellow of the Arctic Institute of North America and of the Royal Canadian Geographic Society.",
+              "text": "Simon is a fellow of the Arctic Institute of North America and of the Royal Canadian Geographic Society.",
               "links": [
                 {
                   "type": "internal",
@@ -2871,7 +2854,7 @@
         {
           "sentences": [
             {
-              "text": "May Simon is the author of many works regarding the environment, education, language, and Inuit culture:"
+              "text": "Simon is the author of many works regarding the environment, education, language, and Inuit culture:"
             }
           ]
         },

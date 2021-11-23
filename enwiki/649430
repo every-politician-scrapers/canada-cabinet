@@ -96,6 +96,20 @@
                   "page": "29th Canadian Ministry"
                 }
               ]
+            },
+            {
+              "text": "On October 26, 2021, he was also named Minister responsible for the Canadian Northern Economic Development Agency and Minister responsible for the Prairies Economic Development Agency of Canada.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canadian Northern Economic Development Agency"
+                },
+                {
+                  "text": "Prairies Economic Development Agency of Canada",
+                  "type": "internal",
+                  "page": "Regional Development Agency (Canada)"
+                }
+              ]
             }
           ]
         }
@@ -200,6 +214,30 @@
               }
             ]
           },
+          "office2": {
+            "text": "Minister responsible for Prairies Economic Development Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister responsible for Prairies Economic Development Canada"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 26, 2021"
+          },
+          "office3": {
+            "text": "Minister responsible for the Canadian Northern Economic Development Agency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister responsible for the Canadian Northern Economic Development Agency"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "October 26, 2021"
+          },
           "parliament1": {
             "text": "Canadian"
           },
@@ -224,7 +262,7 @@
               }
             ]
           },
-          "office2": {
+          "office4": {
             "text": "Mayor of Winnipeg",
             "links": [
               {
@@ -233,16 +271,16 @@
               }
             ]
           },
-          "status2": {
+          "status4": {
             "text": "Acting"
           },
-          "term_start2": {
+          "term_start4": {
             "text": "May 11, 2004"
           },
-          "term_end2": {
+          "term_end4": {
             "text": "May 14, 2004"
           },
-          "predecessor2": {
+          "predecessor4": {
             "text": "Glen Murray",
             "links": [
               {
@@ -252,7 +290,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor4": {
             "text": "Jae Eadie (acting),\nthen Sam Katz",
             "links": [
               {
@@ -1687,7 +1725,18 @@
         {
           "sentences": [
             {
-              "text": "He is the current minister of Northern Affairs."
+              "text": "He is the current Minister of Northern Affairs and Minister responsible for two Regional Development Agencies: the Canadian Northern Economic Development Agency (CanNor) and the Prairies Economic Development Agency of Canada (PrairiesCan).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Northern Affairs"
+                },
+                {
+                  "text": "Regional Development Agencies",
+                  "type": "internal",
+                  "page": "Regional Development Agency (Canada)"
+                }
+              ]
             }
           ]
         }

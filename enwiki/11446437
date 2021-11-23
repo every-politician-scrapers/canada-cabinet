@@ -2858,6 +2858,11 @@
       ],
       "templates": [
         {
+          "text": "Stroniatyn",
+          "wd": "Q4444238",
+          "template": "ill"
+        },
+        {
           "date": "July 2021",
           "template": "which"
         }

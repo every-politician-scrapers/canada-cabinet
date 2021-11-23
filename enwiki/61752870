@@ -1168,6 +1168,65 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Anand has stated that her top priority is tackling sexual misconduct and building a durable culture change in the Canadian Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canadian Armed Forces"
+                }
+              ]
+            },
+            {
+              "text": "She has said that she believes the sexual misconduct crisis in the CAF is \"hurting morale and recruitment,\" and that \"for [Canada's] military to be effective, our troops must feel safe, they must feel protected, and they must feel respected wherever they are, whatever they are doing.”"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 4, 2021, Anand announced that she accepted in full an interim recommendation from former Supreme Court of Canada Justice Louise Arbour that the investigation and prosecution of military sexual misconduct cases be referred to Canada's civilian justice system.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Louise Arbour"
+                }
+              ]
+            },
+            {
+              "text": "In a statement to the Globe and Mail, retired Colonel and military lawyer Michel Drapeau called the decision a \"welcomed sign of leadership\" and \"a timely and powerful signal to the military justice system and victims that changes are coming.”",
+              "links": [
+                {
+                  "text": "Globe and Mail",
+                  "type": "internal",
+                  "page": "The Globe and Mail"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 19, 2021, Anand gave her first major speech as Minister of National Defence as the keynote speaker at the Halifax International Security Forum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Halifax International Security Forum"
+                }
+              ]
+            },
+            {
+              "text": "Anand laid out her three main priorities: building a durable culture change in the Canadian Forces, better equipping Canada's military by raising military spending, and ensuring that Canada continues to support peace and stability around the world through its military deployments."
+            }
+          ]
         }
       ],
       "references": [
@@ -1184,6 +1243,40 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Sex misconduct crisis hurting military recruitment, morale: Defence Minister Anand",
+          "language": "en-CA",
+          "work": "nationalpost",
+          "url": "https://nationalpost.com/news/politics/sex-misconduct-crisis-hurting-military-recruitment-morale-defence-minister-anand-2",
+          "access-date": "2021-11-23",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Kirkup",
+          "first": "Kristy",
+          "last2": "Fine",
+          "first2": "Sean",
+          "date": "2021-11-04",
+          "title": "Military sexual-assault cases will be moved to civilian justice system, Defence Minister says",
+          "language": "en-CA",
+          "work": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/politics/article-military-sexual-assault-cases-will-be-moved-to-civilian-justice-system/",
+          "access-date": "2021-11-23",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "ICI.Radio-Canada.ca",
+          "first": "Zone Politique-",
+          "title": "La ministre de la Défense nationale ouvre le Forum de la sécurité internationale à Halifax",
+          "url": "https://ici.radio-canada.ca/nouvelle/1841407/forum-securite-halifax-anita-anand-ministre-defense-discours",
+          "access-date": "2021-11-23",
+          "website": "Radio-Canada.ca",
+          "language": "fr-ca",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

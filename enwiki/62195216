@@ -127,6 +127,13 @@
           "template": "birth date and age"
         },
         {
+          "list": [
+            "McGill University (BA)",
+            "St Hilda’s College, Oxford (MPhil)"
+          ],
+          "template": "ublist"
+        },
+        {
           "country": "CAN",
           "list": [
             "PC",
@@ -382,22 +389,7 @@
             "text": "June 28, 1987"
           },
           "alma_mater": {
-            "text": "McGill University (BA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "McGill University"
-              }
-            ]
-          },
-          "[object Object]": {
-            "text": "St Hilda’s College, Oxford (MPhil)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "St Hilda’s College, Oxford"
-              }
-            ]
+            "text": "McGill University (BA)\n\nSt Hilda’s College, Oxford (MPhil)"
           },
           "party": {
             "text": "Liberal",

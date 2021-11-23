@@ -324,7 +324,7 @@
           "list": [
             "David Johnston",
             "Julie Payette",
-            "Mary May Simon"
+            "Mary Simon"
           ],
           "template": "unbulleted list"
         },
@@ -453,7 +453,7 @@
             ]
           },
           "governor_general": {
-            "text": "David Johnston\n\nJulie Payette\n\nMary May Simon"
+            "text": "David Johnston\n\nJulie Payette\n\nMary Simon"
           },
           "deputy": {
             "text": "Chrystia Freeland",
@@ -629,7 +629,7 @@
             "text": "Collège Jean-de-Brébeuf\n\nMcGill University (BA, 1994)\n\nUniversity of British Columbia (BEd, 1998)\n\nÉcole Polytechnique (no degree)"
           },
           "salary": {
-            "text": "CA$,200"
+            "text": "CA$351,200"
           },
           "occupation": {
             "text": "Politician · teacher"
@@ -5147,7 +5147,7 @@
         },
         {
           "date": "July 17, 2019",
-          "title": "Innovation Energy: Canada leads the way in carbon capture as more governments put a price on CO 2",
+          "title": "Innovation Energy: Canada leads the way in carbon capture as more governments put a price on CO{{sub|2}}",
           "publisher": "Financial Post, a division of Postmedia Network Inc",
           "url": "https://business.financialpost.com/technology/innovation-energy-canada-leads-the-way-in-carbon-capture-as-more-governments-put-a-price-on-co2",
           "template": "citation",

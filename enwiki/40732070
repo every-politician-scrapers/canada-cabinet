@@ -130,11 +130,25 @@
           "template": "post-nominals"
         },
         {
+          "list": [
+            "Bardish Chagger (Tourism)",
+            "Marie-Claude Bibeau (La Francophonie)"
+          ],
+          "template": "ublist"
+        },
+        {
           "mf": "yes",
           "year": "1979",
           "month": "1",
           "day": "16",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Université de Montréal (LLB)",
+            "Brasenose College, Oxford (MJur)"
+          ],
+          "template": "ublist"
         },
         {
           "country": "CAN",
@@ -306,26 +320,7 @@
             "text": "November 20, 2019"
           },
           "predecessor3": {
-            "text": "Bardish Chagger (Tourism)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bardish Chagger"
-              }
-            ]
-          },
-          "[object Object]": {
-            "text": "Brasenose College, Oxford (MJur)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brasenose College, Oxford"
-              },
-              {
-                "type": "internal",
-                "page": "MJur"
-              }
-            ]
+            "text": "Bardish Chagger (Tourism)\n\nMarie-Claude Bibeau (La Francophonie)"
           },
           "successor3": {
             "text": "Herself (as Minister for Official Languages)",
@@ -452,17 +447,7 @@
             ]
           },
           "alma_mater": {
-            "text": "Université de Montréal (LLB)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Université de Montréal"
-              },
-              {
-                "type": "internal",
-                "page": "LLB"
-              }
-            ]
+            "text": "Université de Montréal (LLB)\n\nBrasenose College, Oxford (MJur)"
           },
           "occupation": {
             "text": "Lawyer, politician"

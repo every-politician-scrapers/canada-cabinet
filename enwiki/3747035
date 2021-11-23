@@ -137,6 +137,20 @@
           "template": "fact"
         },
         {
+          "list": [
+            "Attorney",
+            "Chaplain"
+          ],
+          "template": "ublist"
+        },
+        {
+          "list": [
+            "University of Waterloo",
+            "University of Western Ontario"
+          ],
+          "template": "ublist"
+        },
+        {
           "country": "CAN",
           "list": [
             "PC",
@@ -360,25 +374,10 @@
             ]
           },
           "profession": {
-            "text": "Attorney"
-          },
-          "[object Object]": {
-            "text": "University of Western Ontario",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Western Ontario"
-              }
-            ]
+            "text": "Attorney\n\nChaplain"
           },
           "alma_mater": {
-            "text": "University of Waterloo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Waterloo"
-              }
-            ]
+            "text": "University of Waterloo\n\nUniversity of Western Ontario"
           },
           "party": {
             "text": "Liberal",

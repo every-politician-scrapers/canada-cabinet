@@ -28,17 +28,12 @@
         {
           "sentences": [
             {
-              "text": "Pascale St-Onge is a Canadian politician who was elected to represent the riding of Brome—Missisquoi  in the House of Commons of Canada in the 2021 Canadian federal election.",
+              "text": "Pascale St-Onge is a Canadian politician who was elected to represent the riding of Brome—Missisquoi  in the House of Commons of Canada in the 2021 federal election.",
               "links": [
-                {
-                  "text": "Canadian",
-                  "type": "internal",
-                  "page": "Canadians"
-                },
                 {
                   "text": "riding",
                   "type": "internal",
-                  "page": "electoral district (Canada)"
+                  "page": "Electoral district (Canada)"
                 },
                 {
                   "type": "internal",
@@ -49,7 +44,7 @@
                   "page": "House of Commons of Canada"
                 },
                 {
-                  "text": "2021 Canadian federal election",
+                  "text": "2021 federal election",
                   "type": "internal",
                   "page": "2021 Canadian federal election"
                 }
@@ -253,7 +248,7 @@
             ]
           },
           "occupation": {
-            "text": "union leader"
+            "text": "Union leader"
           },
           "alma_mater": {
             "text": "Université de Montréal Université du Québec à Montréal",

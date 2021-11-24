@@ -89,6 +89,11 @@
                   "page": "Toronto City Council"
                 },
                 {
+                  "text": "Ward 2 Etobicoke North",
+                  "type": "internal",
+                  "page": "Ward 1 Etobicoke North"
+                },
+                {
                   "type": "internal",
                   "page": "Rob Ford"
                 },
@@ -333,6 +338,11 @@
               {
                 "type": "internal",
                 "page": "Toronto City Councillor"
+              },
+              {
+                "text": "Ward 2 Etobicoke North",
+                "type": "internal",
+                "page": "Ward 1 Etobicoke North"
               }
             ]
           },

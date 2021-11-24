@@ -27,11 +27,6 @@
               "text": "Randy Paul Andrew Boissonnault (born July 14, 1970) is a Canadian politician who has served as Minister of Tourism and Associate Minister of Finance since October 26, 2021.",
               "links": [
                 {
-                  "text": "Canadian",
-                  "type": "internal",
-                  "page": "Canadians"
-                },
-                {
                   "text": "Minister of Tourism",
                   "type": "internal",
                   "page": "Minister of Tourism (Canada)"
@@ -48,7 +43,7 @@
               }
             },
             {
-              "text": "A member of the Liberal Party, Boissonnault represents the riding of Edmonton Centre in the House of Commons.",
+              "text": "A member of the Liberal Party, he represents the riding of Edmonton Centre in the House of Commons.",
               "links": [
                 {
                   "text": "Liberal Party",
@@ -58,7 +53,7 @@
                 {
                   "text": "riding",
                   "type": "internal",
-                  "page": "electoral district (Canada)"
+                  "page": "Electoral district (Canada)"
                 },
                 {
                   "type": "internal",
@@ -72,10 +67,10 @@
               ]
             },
             {
-              "text": "He was initially elected as the member of Parliament (MP) in the 2015 federal election and served until his defeat in the 2019 Canadian federal election.",
+              "text": "Boissonnault was initially elected as the Member of Parliament (MP) in the 2015 federal election and served until his defeat in 2019.",
               "links": [
                 {
-                  "text": "member of Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "Member of Parliament (Canada)"
                 },
@@ -85,24 +80,30 @@
                   "page": "2015 Canadian federal election"
                 },
                 {
-                  "text": "2019 Canadian federal election",
+                  "text": "2019",
                   "type": "internal",
                   "page": "2019 Canadian federal election"
                 }
               ]
             },
             {
-              "text": "He later went on to win back his seat in the 2021 Canadian federal election.",
+              "text": "He later went on to win back his seat in the 2021 federal election.",
               "links": [
                 {
-                  "text": "2021 Canadian federal election",
+                  "text": "2021 federal election",
                   "type": "internal",
                   "page": "2021 Canadian federal election"
                 }
               ]
             },
             {
-              "text": "He was one of five openly gay MPs elected in 2015 and the first to be elected from Alberta."
+              "text": "He was one of five openly gay MPs elected in 2015 and the first to be elected from Alberta.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alberta"
+                }
+              ]
             }
           ]
         }
@@ -238,13 +239,20 @@
             "text": "Special Advisor to the Prime Minister on LGBTQ2 Issues",
             "links": [
               {
+                "text": "Prime Minister",
                 "type": "internal",
-                "page": "Prime Minister"
+                "page": "Prime Minister of Canada"
               }
             ]
           },
           "primeminister3": {
-            "text": "Justin Trudeau"
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
           },
           "term_start3": {
             "text": "November 15, 2016"
@@ -253,7 +261,12 @@
             "text": "September 11, 2019"
           },
           "predecessor3": {
-            "text": "Position established"
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
           },
           "successor3": {
             "text": "Vacant",

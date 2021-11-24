@@ -8,7 +8,7 @@ Q21064615,David Lametti,David Lametti,male,1962-08-10,11,https://pm.gc.ca/en/cab
 Q21159815,François-Philippe Champagne,François-Philippe Champagne,male,1970-06-25,11,https://pm.gc.ca/en/cabinet,2021-07-31,Q3251779,"Minister of Innovation, Science and Industry",Q21159815-CB56DC63-1305-403E-ADEF-D6E35771506F
 Q21336098,Diane Lebouthillier,Diane Lebouthillier,female,1959-02-05,11,https://pm.gc.ca/en/cabinet,2021-07-31,Q6866264,Minister of National Revenue,Q21336098-F36FA5FF-9AA0-44FA-A307-B25F43B8C6BD
 Q21336208,Marco E. L. Mendicino,Marco Mendicino,male,1973-07-28,11,https://pm.gc.ca/en/cabinet,2021-10-28,Q16933914,Minister of Public Safety,Q21336208-D9492C9A-6AFF-427F-BE07-B11DE53CBD97
-Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06,11,,,Q16848986,Minister for International Cooperation,Q21336246-429EF9A8-BDD6-4D23-B34A-1ED81362433F
+Q21336246,Harjit Sajjan,Harjit Sajjan,male,1970-09-06,11,,,Q16848986,Minister for International Development,Q21336246-429EF9A8-BDD6-4D23-B34A-1ED81362433F
 Q21356553,Marie-Claude Bibeau,Marie-Claude Bibeau,female,1970-03-01,10,https://pm.gc.ca/en/cabinet,2021-07-31,Q4294939,Minister of Agriculture and Agri-Food,Q21356553-804ADC90-8F92-4304-BF1D-D671BD39749E
 Q21384927,Carla Qualtrough,Carla Qualtrough,female,1971-10-15,11,https://pm.gc.ca/en/cabinet,2021-07-30,Q16931775,"Minister of Employment, Workforce Development and Disability Inclusion",Q21384927-4E918107-0106-45FA-ACB4-AFF779B13414
 Q21572842,Randy Boissonnault,Randy Boissonnault,male,1970-07-14,11,,,Q109292534,Minister of Tourism,Q21572842-CB31CD99-37B4-487F-AF1B-EFF8F760AE11
@@ -41,7 +41,8 @@ Q3499230,Steven Guilbeault,Steven Guilbeault,male,1970-06-09,11,https://pm.gc.ca
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02,11,https://pm.gc.ca/en/cabinet,2021-07-30,Q3556884,Deputy Prime Minister,Q4492815-11cf2c58-410d-26c5-cd36-8a53945f42b9
 Q4492815,Chrystia Freeland,Chrystia Freeland,female,1968-08-02,11,https://pm.gc.ca/en/cabinet,2021-07-31,Q3251818,Minister of Finance,Q4492815-330ec44a-4b1b-8a8d-3f78-09a3ca32e44e
 Q4908168,Bill Blair,Bill Blair,male,1954-01-01,9,https://pm.gc.ca/en/cabinet,2021-11-10,Q16933914,Minister of Emergency Preparedness,Q4908168-20946DFA-AEBA-43F3-BF43-A20B14FE630B
-Q4908168,Bill Blair,Bill Blair,male,1954-01-01,9,,,Q3253693,President of the Queen's Privy Council for Canada,Q4908168-EE557C03-C106-43BD-BB81-FED13A8A0FA6
+Q4908168,Bill Blair,Bill Blair,male,1954-01-01,9,https://pm.gc.ca/en/cabinet,2021-11-23,Q3253693,President of the Queen’s Privy Council for Canada,Q4908168-EE557C03-C106-43BD-BB81-FED13A8A0FA6
+Q5214525,Dan Vandal,Dan Vandal,male,1960-04-18,11,,,Q109680060,Minister responsible for Prairies Economic Development Canada,Q5214525-252C35A7-76DD-4DAA-BCC3-458296E588CF
 Q5214525,Dan Vandal,Dan Vandal,male,1960-04-18,11,https://pm.gc.ca/en/cabinet,2021-07-30,Q6866270,Minister of Northern Affairs,Q5214525-E5E11B8C-EC26-4879-937C-3BA77D8B3A6D
 Q5703595,Helena Jaczek,Helena Jaczek,female,1950-11-05,11,https://pm.gc.ca/en/cabinet,2021-11-10,Q109509932,Minister responsible for the Federal Economic Development Agency for Southern Ontario,Q5703595-9C07A689-AE9D-4C40-9AE8-BA5F0B968804
 Q67442310,Anita Anand,Anita Anand,female,1967-01-01,9,,,Q3315114,Minister of National Defence,Q67442310-d629071a-4a33-74f1-7632-a0f77daaca8a

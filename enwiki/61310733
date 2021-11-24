@@ -59,7 +59,7 @@
           "template": "use canadian english"
         },
         {
-          "date": "March 2021",
+          "date": "November 2021",
           "template": "use mdy dates"
         },
         {
@@ -225,7 +225,7 @@
         {
           "title": "Canada's chief of defence staff to step aside amid CFNIS investigation: defence minister",
           "url": "https://globalnews.ca/news/7661671/cas-cfis-investigation-sajjan/",
-          "access-date": "25 February 2021",
+          "access-date": "February 25, 2021",
           "work": "Global News",
           "last": "Jackson",
           "first": "Hannah",
@@ -289,7 +289,7 @@
           "first": "Office of the Secretary to the Governor",
           "title": "Colonel Wayne Donald Eyre",
           "url": "https://www.gg.ca/en/honours/recipients/139-397",
-          "access-date": "2021-02-25",
+          "access-date": "February 25, 2021",
           "publisher": "The Governor General of Canada",
           "template": "citation",
           "type": "web"
@@ -395,7 +395,7 @@
         {
           "sentences": [
             {
-              "text": "Eyre was appointed acting chief of the Defence Staff on February 24, 2021 following the stepping aside of Admiral Art McDonald pending an investigation by the Canadian Forces National Investigation Service.",
+              "text": "Eyre was appointed acting chief of the Defence Staff on February 24, 2021, following the stepping aside of Admiral Art McDonald pending an investigation by the Canadian Forces National Investigation Service.",
               "links": [
                 {
                   "text": "Art McDonald",
@@ -409,7 +409,7 @@
               ]
             },
             {
-              "text": "He was promoted to full general on 13 August 2021.",
+              "text": "He was promoted to full general on August 13, 2021.",
               "links": [
                 {
                   "text": "general",
@@ -423,7 +423,7 @@
         {
           "sentences": [
             {
-              "text": "Eyre was made a Commander of the United States' Legion of Merit on 24 April 2021.",
+              "text": "Eyre was made a Commander of the United States' Legion of Merit on April 24, 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -480,8 +480,8 @@
           "url": "https://www.theglobeandmail.com/politics/article-liberals-promote-eyre-to-general-signalling-plan-to-keep-him-as/",
           "title": "Liberals promote Eyre to general, signalling plan to keep him as defence chief",
           "newspaper": "Globe and Mail",
-          "date": "13 August 2021",
-          "access-date": "13 August 2021",
+          "date": "August 13, 2021",
+          "access-date": "August 13, 2021",
           "template": "citation",
           "type": "news"
         },

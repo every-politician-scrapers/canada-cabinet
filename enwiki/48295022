@@ -27,14 +27,9 @@
               "text": "Gudrid \"Gudie\" Hutchings (born September 1, 1959) is a Canadian politician who has represented the riding of Long Range Mountains in the House of Commons of Canada since the 2015 federal election.",
               "links": [
                 {
-                  "text": "Canadian",
-                  "type": "internal",
-                  "page": "Canadians"
-                },
-                {
                   "text": "riding",
                   "type": "internal",
-                  "page": "electoral district (Canada)"
+                  "page": "Electoral district (Canada)"
                 },
                 {
                   "text": "Long Range Mountains",
@@ -198,10 +193,10 @@
             "text": "September 19, 2017"
           },
           "predecessor2": {
-            "text": "portfolio established",
+            "text": "Portfolio established",
             "formatting": {
               "italic": [
-                "portfolio established"
+                "Portfolio established"
               ]
             }
           },
@@ -231,7 +226,7 @@
             "text": "October 19, 2015"
           },
           "predecessor1": {
-            "text": "riding established\nGerry Byrne (Humber—St. Barbe—Baie Verte)",
+            "text": "Riding established\nGerry Byrne (Humber—St. Barbe—Baie Verte)",
             "links": [
               {
                 "text": "Gerry Byrne",
@@ -245,7 +240,7 @@
             ],
             "formatting": {
               "italic": [
-                "riding established"
+                "Riding established"
               ]
             }
           },
@@ -256,7 +251,7 @@
             "text": "September 1, 1959"
           },
           "birth_place": {
-            "text": "Corner Brook, Newfoundland and Labrador",
+            "text": "Corner Brook, Newfoundland and Labrador, Canada",
             "links": [
               {
                 "type": "internal",

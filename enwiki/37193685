@@ -613,8 +613,12 @@
               "text": "Only justices of the Supreme Court of Canada are authorized to perform federal viceregal duties on an acting basis."
             },
             {
-              "text": "He ceased to hold office as Administrator on July 26, 2021, following Mary Simon's assumption of office as Governor General of Canada.",
+              "text": "He ceased to hold office as Administrator on July 26, 2021, following Mary Simon 's assumption of office as Governor General of Canada.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Mary Simon"
+                },
                 {
                   "type": "internal",
                   "page": "Governor General of Canada"

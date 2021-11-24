@@ -213,10 +213,6 @@
           "template": "birth date and age"
         },
         {
-          "date": "November 2021",
-          "template": "cn"
-        },
-        {
           "spouse": "Isabelle Brais",
           "from": "7 March 1992",
           "template": "marriage"
@@ -264,15 +260,11 @@
             ]
           },
           "party": {
-            "text": "Coalition Avenir Québec (2011–present), Conservative Party of Canada (federal)",
+            "text": "Coalition Avenir Québec (2011–present)",
             "links": [
               {
                 "type": "internal",
                 "page": "Coalition Avenir Québec"
-              },
-              {
-                "type": "internal",
-                "page": "Conservative Party of Canada"
               }
             ]
           },

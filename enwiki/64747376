@@ -132,6 +132,15 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Siobhán Coady",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siobhán Coady"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Dwight Ball",
             "links": [

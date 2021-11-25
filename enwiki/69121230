@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "P.J. Akeeagok, full name Pauloosie Jamesie Akeeagok, (born 1983 or 1984 ) is a Canadian Inuk politician, who is the sixth and current premier of Nunavut, since 2021.",
+              "text": "P.J. Akeeagok, full name Pauloosie Jamesie Akeeagok, (born 1983 or 1984 ) is a Canadian Inuk politician, who in 2021 beccame the sixth and current premier of Nunavut, since 2021.",
               "links": [
                 {
                   "text": "Inuk",
@@ -145,6 +145,15 @@
               {
                 "type": "internal",
                 "page": "Eva Aariak"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Pamela Gross",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pamela Gross"
               }
             ]
           },

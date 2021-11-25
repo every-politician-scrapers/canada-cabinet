@@ -1199,6 +1199,44 @@
               "text": "Under Legault CAQ government, he has decreased immigration numbers to 40,000 in 2019, and he has also in 2019 introduced a values test for immigrants."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019 during a European Trip to France, legault said he wants more French and other European immigrants to come to Quebec while the overral immigration numbers cut."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2019, legault said to businesses that if they want workers they need to boost wages if they want to find workers."
+            },
+            {
+              "text": "this came after some business called for immigration increase."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During Decmeber 2019, During a meeting with Governor of California Gavin Newsom legault declared all French-Canadians are Catholic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gavin Newsom"
+                },
+                {
+                  "type": "internal",
+                  "page": "French-Canadians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Catholic"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -1212,6 +1250,42 @@
           "access-date": "December 11, 2019",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },

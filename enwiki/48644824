@@ -160,6 +160,15 @@
               }
             ]
           },
+          "deputy1": {
+            "text": "Diane Archie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diane Archie"
+              }
+            ]
+          },
           "office1": {
             "text": "13th Premier of the Northwest Territories",
             "links": [

@@ -170,6 +170,15 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Tracy-Anne McPhee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tracy-Anne McPhee"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Darrell Pasloski",
             "links": [

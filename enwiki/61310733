@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "General Wayne Donald Eyre, is a Canadian Forces officer serving as the acting chief of the Defence Staff since February 24, 2021,   and is the commander of the Canadian Army and chief of the Army Staff.",
+              "text": "General Wayne Donald Eyre, is a Canadian Forces officer serving as the chief of the Defence Staff (CDS).",
               "links": [
                 {
                   "text": "General",
@@ -33,11 +33,6 @@
                   "text": "chief of the Defence Staff",
                   "type": "internal",
                   "page": "Chief of the Defence Staff (Canada)"
-                },
-                {
-                  "text": "commander of the Canadian Army and chief of the Army Staff",
-                  "type": "internal",
-                  "page": "Commander of the Canadian Army"
                 }
               ],
               "formatting": {
@@ -45,6 +40,19 @@
                   "Wayne Donald Eyre"
                 ]
               }
+            },
+            {
+              "text": "Eyre was named acting CDS on February 24, 2021, and appointed to the full position on November 25, 2021."
+            },
+            {
+              "text": "He is also the commander of the Canadian Army and chief of the Army Staff.",
+              "links": [
+                {
+                  "text": "commander of the Canadian Army and chief of the Army Staff",
+                  "type": "internal",
+                  "page": "Commander of the Canadian Army"
+                }
+              ]
             }
           ]
         }
@@ -111,7 +119,7 @@
             ]
           },
           "commands": {
-            "text": "Chief of the Defence Staff (acting) Commander of the Canadian Army and Chief of the Army Staff Military Personnel Command Deputy Commander United Nations Command 3rd Canadian Division 2 Canadian Mechanized Brigade Group 3rd Battalion, Princess Patricia's Canadian Light Infantry",
+            "text": "Chief of the Defence Staff Commander of the Canadian Army and Chief of the Army Staff Military Personnel Command Deputy Commander United Nations Command 3rd Canadian Division 2 Canadian Mechanized Brigade Group 3rd Battalion, Princess Patricia's Canadian Light Infantry",
             "links": [
               {
                 "text": "Chief of the Defence Staff",
@@ -209,38 +217,6 @@
         {
           "url": "https://canadagazette.gc.ca/rp-pr/p1/2021/2021-10-30/html/gh-rg-eng.html#he1",
           "title": "Canada Gazette, Part I, Volume 155, Number 44: GOVERNMENT HOUSE",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "National Chief of Defence Staff steps aside amid investigation",
-          "url": "https://toronto.citynews.ca/2021/02/24/national-chief-of-defence-staff-steps-aside-amid-investigation/",
-          "access-date": "February 25, 2021",
-          "date": "February 24, 2021",
-          "work": "CityNews",
-          "agency": "The Canadian Press",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Canada's chief of defence staff to step aside amid CFNIS investigation: defence minister",
-          "url": "https://globalnews.ca/news/7661671/cas-cfis-investigation-sajjan/",
-          "access-date": "February 25, 2021",
-          "work": "Global News",
-          "last": "Jackson",
-          "first": "Hannah",
-          "date": "February 24, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Admiral Art McDonald steps aside as Defence Chief as military police launch investigation",
-          "url": "https://ottawacitizen.com/news/national/defence-watch/admiral-art-mcdonald-steps-down-as-defence-chief-as-military-police-launch-investigation",
-          "access-date": "February 25, 2021",
-          "date": "February 24, 2021",
-          "work": "Ottawa Citizen",
-          "last": "Pugliese",
-          "first": "David",
           "template": "citation",
           "type": "web"
         }
@@ -409,7 +385,7 @@
               ]
             },
             {
-              "text": "He was promoted to full general on August 13, 2021.",
+              "text": "He was promoted to full general on August 13, 2021 and appointed as the official Chief of Defence Staff on November 25, 2021.",
               "links": [
                 {
                   "text": "general",
@@ -486,6 +462,15 @@
           "type": "news"
         },
         {
+          "url": "https://pm.gc.ca/en/news/news-releases/2021/11/25/prime-minister-announces-appointment-chief-defence-staff#",
+          "title": "Prime Minister announces the appointment of the Chief of the Defence Staff",
+          "publisher": "Prime Minister of Canada",
+          "date": "25 November 2021",
+          "access-date": "25 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://canadagazette.gc.ca/rp-pr/p1/2015/2015-04-04/html/gh-rg-eng.html#he1",
           "title": "Canada Gazette – GOVERNMENT HOUSE",
           "first": "Public Works and Government Services Canada",
@@ -546,6 +531,38 @@
           "access-date": "July 21, 2019",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "February 24, 2021",
+          "title": "National Chief of Defence Staff steps aside amid investigation",
+          "url": "https://toronto.citynews.ca/2021/02/24/national-chief-of-defence-staff-steps-aside-amid-investigation/",
+          "access-date": "February 25, 2021",
+          "work": "CityNews",
+          "agency": "The Canadian Press",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Jackson",
+          "first": "Hannah",
+          "date": "February 24, 2021",
+          "title": "Canada's chief of defence staff to step aside amid CFNIS investigation: defence minister",
+          "url": "https://globalnews.ca/news/7661671/cas-cfis-investigation-sajjan/",
+          "access-date": "February 25, 2021",
+          "work": "Global News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Pugliese",
+          "first": "David",
+          "date": "February 24, 2021",
+          "title": "Admiral Art McDonald steps aside as Defence Chief as military police launch investigation",
+          "url": "https://ottawacitizen.com/news/national/defence-watch/admiral-art-mcdonald-steps-down-as-defence-chief-as-military-police-launch-investigation",
+          "access-date": "February 25, 2021",
+          "work": "Ottawa Citizen",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -600,7 +617,7 @@
           "template": "s-bef"
         },
         {
-          "title": "Chief of the Defence Staff (acting)",
+          "title": "Chief of the Defence Staff",
           "years": "2021–present",
           "template": "s-ttl"
         },

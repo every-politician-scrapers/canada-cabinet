@@ -5761,16 +5761,20 @@
           "type": "news"
         },
         {
+          "url": "https://www.theguardian.com/uk-news/2021/nov/21/queen-attends-windsor-christening-after-absence-from-public-duties",
+          "title": "Queen attends Windsor christening after absence from public duties",
+          "date": "21 November 2021",
+          "website": "the Guardian",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.bbc.com/news/uk-59368620",
+          "title": "Queen attends royal double christening at Windsor",
+          "date": "21 November 2021",
+          "via": "www.bbc.com",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
@@ -6300,7 +6304,7 @@
           "file": "File:Queen Elizabeth in Tallinn, Estonia (1808114928).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Queen_Elizabeth_in_Tallinn%2C_Estonia_(1808114928).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Queen_Elizabeth_in_Tallinn%2C_Estonia_(1808114928).jpg",
-          "caption": "Queen Elizabeth II, accompanied by Estonian President Toomas Hendrik Ilves, greeting onlookers in Tallinn, Estonia, October 2006",
+          "caption": "The Queen and President Ilves of Estonia in Tallinn, October 2006",
           "links": []
         },
         {

@@ -21,6 +21,7 @@ jobs:
       run: |-
         git rm -rf --ignore-unmatch enwiki
         bash bin/wtf_enwiki.sh
+        git add enwiki
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3

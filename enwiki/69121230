@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "P.J. Akeeagok, full name Pauloosie Jamesie Akeeagok, (born 1983 or 1984 ) is a Canadian Inuk politician, who in 2021 beccame the sixth and current premier of Nunavut.",
+              "text": "Pauloosie Jamesie Akeeagok (born 1983 or 1984 ) is a Canadian Inuk politician who in 2021 beccame the sixth and current premier of Nunavut.",
               "links": [
                 {
                   "text": "Inuk",
@@ -34,7 +34,6 @@
               ],
               "formatting": {
                 "bold": [
-                  "P.J. Akeeagok",
                   "Pauloosie Jamesie Akeeagok"
                 ]
               }
@@ -101,8 +100,11 @@
           "name": {
             "text": "P.J. Akeeagok"
           },
+          "birth_name": {
+            "text": "Pauloosie Jamesie Ageeagok"
+          },
           "birth_place": {
-            "text": "Grise Fiord, Northwest Territories (now Nunavut)",
+            "text": "Grise Fiord, Northwest Territories",
             "links": [
               {
                 "type": "internal",

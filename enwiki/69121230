@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Pauloosie Jamesie Akeeagok (born 1983 or 1984 ) is a Canadian Inuk politician who in 2021 beccame the sixth and current premier of Nunavut.",
+              "text": "Pauloosie Jamesie Akeeagok, commonly known as P.J. Akeeagok (born 1983 or 1984 ) is a Canadian Inuk politician who in 2021 beccame the sixth and current premier of Nunavut.",
               "links": [
                 {
                   "text": "Inuk",
@@ -34,7 +34,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Pauloosie Jamesie Akeeagok"
+                  "Pauloosie Jamesie Akeeagok",
+                  "P.J. Akeeagok"
                 ]
               }
             },
@@ -89,7 +90,7 @@
             "37",
             "2021",
             "11",
-            "17"
+            "19"
           ],
           "mos": "1",
           "template": "bbad"
@@ -219,13 +220,6 @@
       ],
       "references": [
         {
-          "url": "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/that-boy-is-going-to-be-premier-one-day-meet-nunavuts-p-j-akeeagok",
-          "title": "'That boy is going to be premier one day': Meet Nunavut's P.J. Akeeagok",
-          "access-date": "November 19, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "template": "citation",
           "type": "inline",
           "data": {},
@@ -242,6 +236,13 @@
           "title": "MLAs sworn in by Nunavut commissioner",
           "access-date": "November 19, 2021",
           "publisher": "Nunatsiaq News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/that-boy-is-going-to-be-premier-one-day-meet-nunavuts-p-j-akeeagok",
+          "title": "'That boy is going to be premier one day': Meet Nunavut's P.J. Akeeagok",
+          "access-date": "November 19, 2021",
           "template": "citation",
           "type": "web"
         },

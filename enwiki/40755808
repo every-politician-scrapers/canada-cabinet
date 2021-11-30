@@ -328,14 +328,14 @@
           "website": "CBC.ca",
           "publisher": "CBC",
           "date": "April 23, 2013",
-          "accessdate": "March 10, 2019",
+          "access-date": "March 10, 2019",
           "template": "citation",
           "type": "web"
         },
         {
           "title": "PC leadership Q&A: Tim Houston",
           "url": "https://www.capebretonpost.com/news/local/pc-leadership-qa-tim-houston-253199/",
-          "accessdate": "March 10, 2019",
+          "access-date": "March 10, 2019",
           "work": "Cape Breton Post",
           "date": "October 25, 2018",
           "template": "citation",
@@ -347,7 +347,7 @@
           "website": "Twitter.com",
           "publisher": "Twitter",
           "date": "April 10, 2018",
-          "accessdate": "March 10, 2019",
+          "access-date": "March 10, 2019",
           "template": "citation",
           "type": "web"
         },
@@ -358,7 +358,7 @@
           "first2": "Kevin",
           "title": "Pictou County's history of Tory leadership",
           "url": "https://www.ngnews.ca/news/local/pictou-countys-history-of-tory-leadership-255303/",
-          "accessdate": "March 10, 2019",
+          "access-date": "March 10, 2019",
           "work": "NG News",
           "date": "October 31, 2018",
           "template": "citation",
@@ -367,7 +367,7 @@
         {
           "title": "N.S. Premier-designate Tim Houston, new cabinet to be sworn-in Aug. 31",
           "url": "https://atlantic.ctvnews.ca/n-s-premier-designate-tim-houston-new-cabinet-to-be-sworn-in-aug-31-1.5555025",
-          "accessdate": "November 3, 2021",
+          "access-date": "November 3, 2021",
           "work": "CTV News Atlantic",
           "date": "August 20, 2021",
           "template": "citation",
@@ -384,7 +384,7 @@
           "title": "Tories take Pictou County ridings back from NDP",
           "work": "The Chronicle Herald",
           "date": "October 8, 2013",
-          "accessdate": "2015-07-20",
+          "access-date": "2015-07-20",
           "template": "citation",
           "type": "web"
         },
@@ -471,7 +471,7 @@
               ]
             },
             {
-              "text": "On November 2 2020, he was awarded the profession’s highest mark of distinction, the Fellow (FCPA) designation, by Chartered Professional Accountants of Nova Scotia."
+              "text": "On November 2, 2020, he was awarded the profession’s highest mark of distinction, the Fellow (FCPA) designation, by Chartered Professional Accountants of Nova Scotia."
             }
           ]
         }
@@ -575,7 +575,7 @@
           "title": "'Time to win': Tim Houston running for PC Party leader",
           "date": "November 19, 2017",
           "publisher": "CBC News",
-          "accessdate": "2017-11-22",
+          "access-date": "2017-11-22",
           "template": "citation",
           "type": "web"
         },
@@ -584,7 +584,7 @@
           "title": "Tim Houston announces bid for PC leadership",
           "date": "November 20, 2017",
           "work": "The Chronicle Herald",
-          "accessdate": "2021-03-31",
+          "access-date": "2021-03-31",
           "template": "citation",
           "type": "web"
         },
@@ -621,7 +621,7 @@
           "website": "March 10, 2019",
           "publisher": "NG News",
           "date": "November 29, 2012",
-          "accessdate": "March 10, 2019",
+          "access-date": "March 10, 2019",
           "template": "citation",
           "type": "web"
         },
@@ -744,24 +744,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.thecoast.ca/RealityBites/archives/2017/11/23/pc-leadership-candidate-named-in-paradise-papers",
-          "title": "PC leadership candidate downplays Paradise Papers connection",
-          "work": "The Coast",
-          "date": "November 23, 2017",
-          "access-date": "2019-04-24",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thecoast.ca/RealityBites/archives/2017/11/23/pc-leadership-candidate-named-in-paradise-papers",
-          "title": "PC leadership candidate downplays Paradise Papers connection",
-          "work": "The Coast",
-          "date": "November 23, 2017",
-          "access-date": "2019-04-24",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://offshoreleaks.icij.org/nodes/80078700",
           "title": "Houston, Timothy Jerome",
           "website": "Offshore Leaks Database/International Consortium of Investigative Journalists",
@@ -769,6 +751,15 @@
           "access-date": "2020-09-20",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.thecoast.ca/RealityBites/archives/2017/11/23/pc-leadership-candidate-named-in-paradise-papers",
+          "title": "PC leadership candidate downplays Paradise Papers connection",
+          "work": "The Coast",
+          "date": "November 23, 2017",
+          "access-date": "2019-04-24",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },

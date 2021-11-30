@@ -73,7 +73,7 @@
         {
           "sentences": [
             {
-              "text": "Elizabeth II (Elizabeth Alexandra Mary; born 21 April 1926) is Queen of the United Kingdom and 15 other Commonwealth realms.",
+              "text": "Elizabeth II (Elizabeth Alexandra Mary; born 21 April 1926) is Queen of the United Kingdom and 14 other Commonwealth realms.",
               "links": [
                 {
                   "type": "internal",
@@ -101,10 +101,6 @@
                 {
                   "type": "internal",
                   "page": "Mayfair"
-                },
-                {
-                  "type": "internal",
-                  "page": "London"
                 },
                 {
                   "text": "Duke and Duchess of York",
@@ -167,12 +163,9 @@
                   "page": "Philip Mountbatten"
                 },
                 {
+                  "text": "Greece",
                   "type": "internal",
-                  "page": "Greece"
-                },
-                {
-                  "type": "internal",
-                  "page": "Denmark"
+                  "page": "Kingdom of Greece"
                 },
                 {
                   "type": "internal",
@@ -210,16 +203,19 @@
                   "page": "queen regnant"
                 },
                 {
+                  "text": "Canada",
                   "type": "internal",
-                  "page": "Canada"
+                  "page": "Monarchy of Canada"
                 },
                 {
+                  "text": "Australia",
                   "type": "internal",
-                  "page": "Australia"
+                  "page": "Monarchy of Australia"
                 },
                 {
+                  "text": "New Zealand",
                   "type": "internal",
-                  "page": "New Zealand"
+                  "page": "Monarchy of New Zealand"
                 },
                 {
                   "text": "South Africa",
@@ -254,10 +250,6 @@
                   "text": "the Troubles",
                   "type": "internal",
                   "page": "the Troubles"
-                },
-                {
-                  "type": "internal",
-                  "page": "Northern Ireland"
                 },
                 {
                   "text": "devolution in the United Kingdom",
@@ -299,18 +291,6 @@
                   "page": "List of states headed by Elizabeth II"
                 },
                 {
-                  "type": "internal",
-                  "page": "South Africa"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pakistan"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
                   "text": "became republics",
                   "type": "internal",
                   "page": "Republics in the Commonwealth of Nations"
@@ -323,12 +303,7 @@
                 {
                   "text": "state visit to the Republic of Ireland",
                   "type": "internal",
-                  "page": "State visit of Elizabeth II to the Republic of Ireland"
-                },
-                {
-                  "text": "popes",
-                  "type": "internal",
-                  "page": "pope"
+                  "page": "State visit by Elizabeth II to the Republic of Ireland"
                 }
               ]
             },
@@ -373,7 +348,7 @@
               ]
             },
             {
-              "text": "On 9 April 2021, after 73 years of marriage, her husband, Prince Philip, died at the age of 99.",
+              "text": "In April 2021, after 73 years of marriage, her husband, Prince Philip, died at the age of 99.",
               "links": [
                 {
                   "text": "died at the age of 99",
@@ -389,11 +364,6 @@
             {
               "text": "Elizabeth is the longest-lived and longest-reigning British monarch, the longest-serving female head of state in history, the oldest living and longest-reigning current monarch, and the oldest and longest-serving incumbent head of state.",
               "links": [
-                {
-                  "text": "longest-lived",
-                  "type": "internal",
-                  "page": "List of British monarchs by longevity"
-                },
                 {
                   "text": "longest-reigning British monarch",
                   "type": "internal",
@@ -495,12 +465,6 @@
           "template": "bots"
         },
         {
-          "list": [
-            "Barbados will become a republic on 30 November 2021."
-          ],
-          "template": "efn"
-        },
-        {
           "fullwidth": "on",
           "class": "nowrap",
           "colstyle": "padding:0;",
@@ -514,8 +478,6 @@
             "1952–present",
             "Jamaica",
             "1962–present",
-            "Barbados",
-            "1966–present",
             "The Bahamas",
             "1973–present",
             "Grenada",
@@ -564,6 +526,8 @@
             "1965–1970",
             "Guyana",
             "1966–1970",
+            "Barbados",
+            "1966–2021",
             "Mauritius",
             "1968–1992",
             "Fiji",
@@ -705,10 +669,6 @@
               {
                 "type": "internal",
                 "page": "Mayfair"
-              },
-              {
-                "type": "internal",
-                "page": "London"
               }
             ]
           },
@@ -776,15 +736,6 @@
         }
       ],
       "references": [
-        {
-          "title": "Barbados elects first ever president ahead of becoming republic",
-          "url": "https://www.bbc.co.uk/news/world-latin-america-58993728",
-          "access-date": "25 October 2021",
-          "work": "BBC News",
-          "date": "21 October 2021",
-          "template": "citation",
-          "type": "citation"
-        },
         {
           "title": "Britain's monarchy",
           "date": "16 May 2002",
@@ -5525,6 +5476,15 @@
             },
             {
               "text": "On 21 November, after returning to public duties, she attended a rare joint christening of two of her great-grandchildren at the Royal Lodge in Windsor Great Park, Berkshire."
+            },
+            {
+              "text": "On 30 November, Barbados, one of the Queen's Commonwealth realms, declared itself a republic and removed the Queen as head of state.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Barbados"
+                }
+              ]
             }
           ]
         }
@@ -5775,6 +5735,16 @@
           "via": "www.bbc.com",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Barbados to cast off Queen Elizabeth II as Prince Charles watches",
+          "language": "en-US",
+          "work": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2021/11/29/barbados-republic-queen/",
+          "access-date": "2021-11-30",
+          "issn": "0190-8286",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },

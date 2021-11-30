@@ -444,10 +444,13 @@
       ],
       "references": [
         {
+          "url": "https://www.instagram.com/p/CMitXbmsuXs/",
+          "title": "John Horgan on Instagram: “My father was born in Ireland and I still have an Irish passport, so I've marked the occasion for as long as I can remember. I'll be…”",
+          "publisher": "Instagram.com",
+          "date": "2021-03-17",
+          "access-date": "2021-11-29",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Juan de Fuca candidates and riding profile",
@@ -455,6 +458,9 @@
           "access-date": "November 11, 2018",
           "work": "Times Colonist",
           "date": "April 30, 2013",
+          "archive-date": "November 11, 2018",
+          "archive-url": "https://web.archive.org/web/20181111200720/https://www.timescolonist.com/news/b-c-politics/juan-de-fuca-candidates-and-riding-profile-1.107136",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -525,6 +531,9 @@
           "date": "November 8, 2020",
           "publisher": "CTV News",
           "access-date": "30 November 2020",
+          "archive-date": "December 1, 2020",
+          "archive-url": "https://web.archive.org/web/20201201034351/https://bc.ctvnews.ca/ndp-wins-57-seats-in-final-vote-count-of-b-c-election-1.5180238",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -536,6 +545,9 @@
           "work": "CBC News",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-election-results-2020-1.5776058",
           "access-date": "October 25, 2020",
+          "archive-date": "March 9, 2021",
+          "archive-url": "https://web.archive.org/web/20210309181138/https://www.cbc.ca/news/canada/british-columbia/bc-election-results-2020-1.5776058",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -748,6 +760,9 @@
           "work": "The Georgia Straight",
           "url": "https://www.straight.com/article/ndpers-campaigned-for-slots",
           "access-date": "July 8, 2020",
+          "archive-date": "July 9, 2020",
+          "archive-url": "https://web.archive.org/web/20200709033614/https://www.straight.com/article/ndpers-campaigned-for-slots",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2065,6 +2080,10 @@
           "newspaper": "Times – Colonist",
           "location": "Victoria, BC",
           "date": "May 4, 2017",
+          "access-date": "August 18, 2020",
+          "archive-date": "November 11, 2020",
+          "archive-url": "https://web.archive.org/web/20201111231313/https://www.timescolonist.com/news/local/horgan-faces-four-challengers-in-langford-juan-de-fuca-riding-1.18235381",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2075,6 +2094,10 @@
           "date": "April 21, 2017",
           "first": "Rob",
           "last": "Shaw",
+          "access-date": "August 18, 2020",
+          "archive-date": "July 25, 2017",
+          "archive-url": "https://web.archive.org/web/20170725083718/http://vancouversun.com/news/politics/b-c-election-2017-clark-horgan-get-personal-in-scrappy-leaders-debate",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2085,8 +2108,12 @@
           "date": "April 11, 2017",
           "first": "Eric",
           "last": "Grenier",
+          "access-date": "August 18, 2020",
+          "archive-date": "January 16, 2019",
+          "archive-url": "https://web.archive.org/web/20190116203149/https://www.cbc.ca/news/canada/british-columbia/grenier-bc-polltracker-apr11-1.4064167",
+          "url-status": "live",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last": "Zussman",
@@ -2274,6 +2301,9 @@
           "url": "https://globalnews.ca/news/7344215/british-columbians-heading-to-the-polls-on-october-24-in-fall-election/",
           "access-date": "September 21, 2020",
           "work": "Global News",
+          "archive-date": "September 22, 2020",
+          "archive-url": "https://web.archive.org/web/20200922000522/https://globalnews.ca/news/7344215/british-columbians-heading-to-the-polls-on-october-24-in-fall-election/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2285,6 +2315,9 @@
           "date": "October 28, 2021",
           "url": "https://globalnews.ca/news/8332497/bc-premier-john-horgan-personal-news/",
           "access-date": "October 28, 2021",
+          "archive-date": "October 28, 2021",
+          "archive-url": "https://web.archive.org/web/20211028182709/https://globalnews.ca/news/8332497/bc-premier-john-horgan-personal-news/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2296,6 +2329,9 @@
           "date": "November 4, 2021",
           "url": "https://globalnews.ca/news/8350122/john-horgan-throat-diagnosis/",
           "access-date": "November 5, 2021",
+          "archive-date": "November 4, 2021",
+          "archive-url": "https://web.archive.org/web/20211104233150/http://globalnews.ca/news/8350122/john-horgan-throat-diagnosis/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }

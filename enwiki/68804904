@@ -297,45 +297,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "Electoral record",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "canadian federal election, 2021/brome—missisquoi"
-        }
-      ]
-    },
-    {
-      "title": "Notes",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "notelist"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "justin trudeau ministry"
-        },
-        {
-          "template": "cancabinet"
-        },
-        {
-          "template": "current members of the canadian house of commons"
-        },
-        {
-          "template": "quebec-mp-stub"
-        }
-      ]
     }
   ]
 }

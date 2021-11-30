@@ -9,7 +9,7 @@ module.exports = (...positions) => {
           ?person wdt:P31 wd:Q5 ; p:P39 ?ps .
           ?ps ps:P39 ?position .
           FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
-          FILTER NOT EXISTS { ?ps pq:P582 [] }
+          OPTIONAL { ?ps pq:P582 ?p39end }
           OPTIONAL { ?ps pqv:P580 ?p39start }
           OPTIONAL {
             ?ps pq:P5054 ?cabinet .
@@ -24,13 +24,14 @@ module.exports = (...positions) => {
             OPTIONAL { ?term wdt:P576|wdt:P582 ?termEnd }
           }
           BIND(COALESCE(?p39start, ?cabinetInception, ?cabinetStart, ?termStart) AS ?startNode)
-          BIND(COALESCE(?cabinetEnd, ?termEnd) AS ?end)
+          BIND(COALESCE(?p39end, ?cabinetEnd, ?termEnd) AS ?end)
           FILTER(BOUND(?startNode) && (!BOUND(?end) || ?end > NOW()))
       }
     } AS %statements
     WHERE {
       INCLUDE %statements .
       ?startNode wikibase:timeValue ?startV ; wikibase:timePrecision ?startP .
+      FILTER (?startV < NOW())
       BIND (
         COALESCE(
           IF(?startP = 11, SUBSTR(STR(?startV), 1, 10), 1/0),

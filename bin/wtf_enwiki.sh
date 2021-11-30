@@ -8,5 +8,5 @@ for page in $(qsv select enwiki html/current.csv | qsv search . | qsv dedup | qs
   echo $page
   json=$(printf '"%s"' "$page" | xargs wtf_wikipedia)
   pageid=$(printf '%s' "$json" | jq -r .pageID)
-  printf '%s' "$json" | jq -r . > enwiki/$pageid
+  printf '%s' "$json" | jq -r '.sections |= [.[0]]' > enwiki/$pageid
 done

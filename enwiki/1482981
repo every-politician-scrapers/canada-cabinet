@@ -211,6 +211,30 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Jay Aspin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jay Aspin"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chairman of the COVID-19 Commitee"
+          },
+          "term_start3": {
+            "text": "April 20, 2020"
+          },
+          "term_end3": {
+            "text": "June 18, 2020"
+          },
+          "predecessor3": {
+            "text": "Office Established"
+          },
+          "successor3": {
+            "text": "Office de-established"
+          },
           "birth_date": {
             "text": "May 15, 1961"
           },
@@ -220,15 +244,6 @@
               {
                 "type": "internal",
                 "page": "North Bay, Ontario"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jay Aspin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jay Aspin"
               }
             ]
           },

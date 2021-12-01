@@ -439,7 +439,7 @@
       ],
       "templates": [
         {
-          "description": "Queen of the United Kingdom and 15 other Commonwealth realms",
+          "description": "Queen of the United Kingdom and other realms",
           "template": "short description"
         },
         {
@@ -591,7 +591,7 @@
             ]
           },
           "alt": {
-            "text": "Photograph of Queen Elizabeth II in her 89th year"
+            "text": "A photograph of Elizabeth II in her 89th year"
           },
           "caption": {
             "text": "Elizabeth II in 2015"

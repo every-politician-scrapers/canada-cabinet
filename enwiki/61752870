@@ -144,7 +144,7 @@
       ],
       "templates": [
         {
-          "description": "Canadian politician and professor",
+          "description": "Canadian politician and professor (born 1967)",
           "template": "short description"
         },
         {
@@ -233,7 +233,7 @@
             ]
           },
           "office1": {
-            "text": "Receiver General for Canada Minister of Public Services and Procurement",
+            "text": "Receiver General for Canada\nMinister of Public Services and Procurement",
             "links": [
               {
                 "type": "internal",
@@ -323,7 +323,7 @@
             "text": "Lawyer · politician"
           },
           "alma_mater": {
-            "text": "Queen's University (BA) Wadham College, Oxford (BA) Dalhousie University (LLB) University of Toronto (LLM)",
+            "text": "Queen's University (BA)\nWadham College, Oxford (BA)\nDalhousie University (LLB)\nUniversity of Toronto (LLM)",
             "links": [
               {
                 "text": "Queen's University",

@@ -545,11 +545,10 @@
           "template": "sndash"
         },
         {
-          "df": "yes",
-          "year": "1926",
-          "month": "4",
-          "day": "21",
-          "template": "birth date and age"
+          "list": [
+            "21 April 1926"
+          ],
+          "template": "ayd"
         },
         {
           "spouse": "Prince Philip, Duke of Edinburgh",
@@ -661,7 +660,7 @@
             "text": "Princess Elizabeth of York"
           },
           "birth_date": {
-            "text": "April 21, 1926"
+            "text": "21 April 1926"
           },
           "birth_place": {
             "text": "Mayfair, London, United Kingdom",

@@ -63,6 +63,7 @@
     "People named in the Paradise Papers",
     "Queens regnant in the British Isles",
     "Time 100",
+    "Time Person of the Year",
     "Women in the Canadian armed services"
   ],
   "sections": [
@@ -545,10 +546,11 @@
           "template": "sndash"
         },
         {
-          "list": [
-            "21 April 1926"
-          ],
-          "template": "ayd"
+          "df": "yes",
+          "year": "1926",
+          "month": "4",
+          "day": "21",
+          "template": "birth date and age"
         },
         {
           "spouse": "Prince Philip, Duke of Edinburgh",
@@ -660,7 +662,7 @@
             "text": "Princess Elizabeth of York"
           },
           "birth_date": {
-            "text": "21 April 1926"
+            "text": "April 21, 1926"
           },
           "birth_place": {
             "text": "Mayfair, London, United Kingdom",

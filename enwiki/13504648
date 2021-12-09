@@ -24,18 +24,24 @@
         {
           "sentences": [
             {
-              "text": "Steven Guilbeault (born June 9, 1970) is a Canadian politician and former activist who has served as Minister of Environment and Climate Change since October 26, 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Environment and Climate Change"
-                }
-              ],
+              "text": "Steven Guilbeault (born June 9, 1970) is a Canadian politician and former activist.",
               "formatting": {
                 "bold": [
                   "Steven Guilbeault"
                 ]
               }
+            },
+            {
+              "text": "He was director and campaign manager for the Greenpeace Quebec chapter for ten years."
+            },
+            {
+              "text": "He is serving as Minister of Environment and Climate Change since October 26, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Environment and Climate Change"
+                }
+              ]
             },
             {
               "text": "A member of the Liberal Party, Guilbeault has sat as a member of Parliament (MP) since the 2019 federal election, representing the Montreal riding of Laurier–Sainte-Marie in the House of Commons.",
@@ -86,16 +92,12 @@
         {
           "sentences": [
             {
-              "text": "A founding member of Équiterre, a Quebec environmental organization, he was also director and campaign manager for the Greenpeace Quebec chapter for ten years.",
+              "text": "A founding member of Équiterre, a Quebec environmental organization.",
               "links": [
                 {
                   "text": "Équiterre",
                   "type": "internal",
                   "page": "Équiterre"
-                },
-                {
-                  "type": "internal",
-                  "page": "Greenpeace"
                 }
               ]
             },

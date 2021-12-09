@@ -86,21 +86,6 @@
           "office": {
             "text": "Governor of the Bank of Canada"
           },
-          "appointed": {
-            "text": "Board of Directors of the Bank of Canada, with the approval of the federal Cabinet (Justin Trudeau ministry)",
-            "links": [
-              {
-                "text": "federal Cabinet",
-                "type": "internal",
-                "page": "Cabinet of Canada"
-              },
-              {
-                "text": "(Justin Trudeau ministry)",
-                "type": "internal",
-                "page": "29th Canadian Ministry"
-              }
-            ]
-          },
           "term_start": {
             "text": "June 3, 2020"
           },
@@ -114,7 +99,7 @@
             ]
           },
           "office1": {
-            "text": "Senior Deputy Governor, Bank of Canada",
+            "text": "Senior Deputy Governor of the Bank of Canada",
             "links": [
               {
                 "type": "internal",
@@ -129,10 +114,10 @@
             "text": "May 1, 2014"
           },
           "office2": {
-            "text": "Associate Deputy Minister, Department of Finance",
+            "text": "Associate Deputy Minister of Finance",
             "links": [
               {
-                "text": "Department of Finance",
+                "text": "Associate Deputy Minister of Finance",
                 "type": "internal",
                 "page": "Department of Finance Canada"
               }
@@ -146,7 +131,7 @@
             "text": "June 30, 2010"
           },
           "office3": {
-            "text": "Deputy Governor, Bank of Canada",
+            "text": "Deputy Governor of the Bank of Canada",
             "links": [
               {
                 "type": "internal",

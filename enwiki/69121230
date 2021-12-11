@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Pauloosie Jamesie Akeeagok, commonly known as P.J. Akeeagok (born 1983 or 1984 ) is a Canadian Inuk politician who in 2021 beccame the sixth and current premier of Nunavut.",
+              "text": "Pauloosie Jamesie Akeeagok, commonly known as P.J. Akeeagok (born November 5, 1984 ) is a Canadian Inuk politician who in 2021 beccame the sixth and current premier of Nunavut.",
               "links": [
                 {
                   "text": "Inuk",
@@ -86,14 +86,10 @@
           "template": "post-nominals"
         },
         {
-          "list": [
-            "37",
-            "2021",
-            "11",
-            "19"
-          ],
-          "mos": "1",
-          "template": "bbad"
+          "year": "1984",
+          "month": "11",
+          "day": "5",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -103,6 +99,9 @@
           },
           "birth_name": {
             "text": "Pauloosie Jamesie Ageeagok"
+          },
+          "birth_date": {
+            "text": "November 5, 1984"
           },
           "birth_place": {
             "text": "Grise Fiord, Northwest Territories",
@@ -247,10 +246,12 @@
           "type": "web"
         },
         {
+          "url": "https://twitter.com/jsavikataaq/status/1059593119715315712",
+          "title": "Congratulations to PJ Akeeagok on your second term as @Qikiqtani_Inuit President. I’m happy we’ll continue working together to benefit Inuit in the region. Also, happy birthday!",
+          "access-date": "December 10, 2021",
+          "publisher": "Joe Savikataaq",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://gov.nu.ca/executive-and-intergovernmental-affairs/news/premier-akeeagok-announces-cabinet-portfolios",

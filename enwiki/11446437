@@ -46,7 +46,7 @@
         {
           "sentences": [
             {
-              "text": "Christina Alexandra Freeland (born August 2, 1968) is a Canadian politician serving since 2019 as the tenth deputy prime minister of Canada and since 2020 as the minister of finance.",
+              "text": "Christina Alexandra Freeland (born August 2, 1968) is a Canadian politician serving as the tenth and current deputy prime minister of Canada since 2019 and the minister of finance since 2020.",
               "links": [
                 {
                   "text": "deputy prime minister of Canada",
@@ -108,7 +108,7 @@
         {
           "sentences": [
             {
-              "text": "Born in Peace River, Alberta, Freeland studied Russian history and literature at Harvard University, and earned a master's degree in Slavonic studies from Oxford University.",
+              "text": "Born in Peace River, Alberta, Freeland completed a bachelor's degree at Harvard University, studying Russian history and literature before earning a master's degree in Slavonic studies from Oxford University.",
               "links": [
                 {
                   "type": "internal",
@@ -154,11 +154,12 @@
               }
             },
             {
-              "text": "Freeland is the author of Sale of the Century, a 2000 book about Russia's journey from Communist state rule to capitalism, and Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else in 2012.",
+              "text": "Freeland is the author of Sale of the Century, a 2000 book about Russia's journey from communist state rule to capitalism, and Plutocrats: The Rise of the New Global Super-Rich and the Fall of Everyone Else in 2012.",
               "links": [
                 {
+                  "text": "communist state",
                   "type": "internal",
-                  "page": "Communist state"
+                  "page": "communist state"
                 },
                 {
                   "text": "capitalism",
@@ -222,11 +223,6 @@
                   "text": "member of Parliament",
                   "type": "internal",
                   "page": "Member of Parliament (Canada)"
-                },
-                {
-                  "text": "Cabinet",
-                  "type": "internal",
-                  "page": "Cabinet of Canada"
                 }
               ]
             },

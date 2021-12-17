@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Krystina Helena Jaczek (born November 5, 1950) is a Canadian physician and Liberal politician, who serves as the Member of Parliament for Markham—Stouffville in the House of Commons of Canada.",
+              "text": "Krystina Helena Jaczek is a Canadian physician and Liberal politician, who serves as the Member of Parliament for Markham—Stouffville in the House of Commons of Canada.",
               "links": [
                 {
                   "type": "internal",
@@ -112,26 +112,12 @@
           "template": "post-nominals"
         },
         {
-          "year": "1950",
-          "month": "11",
-          "day": "05",
-          "template": "birth date and age"
-        },
-        {
-          "date": "October 2021",
-          "template": "fact"
-        },
-        {
           "country": "CAN",
           "list": [
             "PC",
             "MP"
           ],
           "template": "post-nominals"
-        },
-        {
-          "date": "October 2021",
-          "template": "fact"
         }
       ],
       "infoboxes": [
@@ -390,9 +376,6 @@
           },
           "birth_name": {
             "text": "Krystina Helena Jaczek"
-          },
-          "birth_date": {
-            "text": "November 5, 1950"
           },
           "birth_place": {
             "text": "London, England",

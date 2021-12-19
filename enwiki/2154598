@@ -179,11 +179,16 @@
         },
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Honourable Chief",
             "links": [
               {
                 "type": "internal",
                 "page": "The Honourable"
+              },
+              {
+                "text": "Chief",
+                "type": "internal",
+                "page": "Chief of police"
               }
             ]
           },

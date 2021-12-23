@@ -442,13 +442,10 @@
       ],
       "references": [
         {
-          "url": "https://www.instagram.com/p/CMitXbmsuXs/",
-          "title": "John Horgan on Instagram: \"My father was born in Ireland and I still have an Irish passport, so I've marked the occasion for as long as I can remember. I'll be...\"",
-          "publisher": "Instagram.com",
-          "date": "2021-03-17",
-          "access-date": "2021-11-29",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "Juan de Fuca candidates and riding profile",

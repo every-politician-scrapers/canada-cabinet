@@ -1,0 +1,91 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q14931511,monarch of Canada,Q16,Q16,,Q2558955,,,,,
+Q390776,Governor General of Canada,Q16,Q16,,Q1197847,1608,,,,Governor General of Canada
+Q839078,Prime Minister of Canada,Q16,Q16,Q3556884,Q927338,1867-07-01,,,,Prime Minister of Canada
+Q3556884,Deputy Prime Minister of Canada,Q16,Q16,,,1977-09-16,,,,Deputy Prime Minister of Canada
+Q4294939,Minister of Agriculture and Agri-Food,Q16,Q16,,,1995-01-12,,,,Minister of Agriculture and Agri-Food
+Q6866016,Minister for the purposes of the Atlantic Canada Opportunities Agency Act,Q16,Q16,,,1988-09-15,,,,Minister for the purposes of the Atlantic Canada Opportunities Agency Act
+Q56063852,Minister of Border Security and Organized Crime Reduction,,,,,2018-07-18,,,,Minister of Border Security and Organized Crime Reduction
+Q3251837,Minister of Canadian Heritage,Q16,Q16,,,1996-07-12,,,,Minister of Canadian Heritage
+Q1195049,Minister of Crown-Indigenous Relations,Q16,Q16,,,2011-05-18,,,,Minister of Crown–Indigenous Relations
+Q6865789,Minister of Democratic Institutions,Q16,Q16,,,2003-12-12,,,,Minister of Democratic Institutions
+Q85846648,Minister of Digital Government,Q16,Q16,,,,,,,Minister of Digital Government
+Q86752046,Minister of Diversity and Inclusion and Youth,,Q16,,,,,,,Minister of Housing and Diversity and Inclusion
+Q85785667,Minister of Economic Development and Official Languages,Q16,Q16,,,,,,,Minister of Economic Development and Official Languages
+Q109283894,Minister of Emergency Preparedness,Q16,,,,,,,,Minister of Emergency Preparedness
+Q85854147,Minister of Employment and Immigration,Q16,Q16,,,1977-01-01,1996,,,Minister of Employment and Immigration
+Q16931775,"Minister of Employment, Workforce, and Labour",Q16,Q16,,,1909-06-02,,,,"Minister of Employment, Workforce Development and Disability Inclusion"
+Q3251786,"Minister of Energy, Mines and Resources",Q16,Q16,,,,,,,"Minister of Energy, Mines and Resources"
+Q3251775,Minister of the Environment,Q16,Q16,,,1971-06-11,,,,Minister of Environment and Climate Change
+Q6866194,"minister of Families, Children and Social Development",Q16,Q16,,,2003-12-12,,,,"Minister of Families, Children and Social Development"
+Q3251818,Minister of Finance,Q16,Q16,,,1867,,,,Minister of Finance (Canada)
+Q3251819,Minister of Fisheries and Oceans,Q16,Q16,,,1979-04-02,,,,"Ministers of Fisheries, Oceans and the Canadian Coast Guard"
+Q541355,Minister of Foreign Affairs of Canada,Q16,Q16,,,1993-11-04,,,,Minister of Foreign Affairs (Canada)
+Q3251800,Minister of Health,Q16,Q16,,,1996-07-12,,,,Minister of Health (Canada)
+Q6866192,Minister of Human Resources Development,Q16,Q16,,,,,,,Minister of Human Resources Development
+Q3251793,"Minister of Immigration, Refugees and Citizenship",Q16,Q16,,,1994-06-30,,,,"Minister of Immigration, Refugees and Citizenship"
+Q39059620,Minister of Indigenous Services,Q16,Q16,,,2017-08-28,,,,Minister of Indigenous Services
+Q23890887,Minister of Infrastructure and Communities,Q16,Q16,,,2015,,,,Minister of Infrastructure and Communities
+Q3251779,"Minister of Innovation, Science and Industry",Q16,Q16,,,1995-03-29,,,,"Minister of Innovation, Science and Industry"
+Q16847971,Minister of Intergovernmental Affairs,Q16,Q16,,,1993-11-14,,,,"Minister of Intergovernmental Affairs, Infrastructure and Communities"
+Q3315106,Minister of the Interior,Q16,Q16,,,1867,,,,Minister of the Interior (Canada)
+Q6865892,Minister for Internal Trade,Q16,Q16,,,,,,,Minister for Internal Trade (Canada)
+Q16848986,Minister for International Development,Q16,Q16,,,1996-01-25,,,,Minister of International Development (Canada)
+Q748607,Minister of International Trade,Q16,Q16,,,1983-12-08,,,,Minister of International Trade Diversification
+Q3315120,Minister of Justice and Attorney General of Canada,Q16,Q16,,,1867,,,,Minister of Justice and Attorney General of Canada
+Q104842279,Minister of Labour,Q16,Q16,,,,,,,Minister of Labour (Canada)
+Q6866242,Minister of Manpower and Immigration,Q16,Q16,,,,,,,Minister of Manpower and Immigration
+Q109283898,Minister of Mental Health and Addictions,Q16,Q16,,,2021-10-26,,,,Minister of Mental Health and Addictions
+Q85846650,Minister of Middle Class Prosperity,Q16,Q16,,,,,,,Minister of Middle Class Prosperity
+Q6866255,Minister of Multiculturalism and Citizenship,Q16,Q16,,,1991-04-21,2015-11-04,,,Minister of Multiculturalism and Citizenship
+Q16934886,Minister of National Defence for Air,Q16,Q16,,,,,,,Minister of National Defence for Air (Canada)
+Q6866264,Minister of National Revenue,Q16,Q16,,,1927-03-21,,,,Minister of National Revenue
+Q3251824,Minister of Natural Resources,Q16,Q16,,,1995-01-12,,,,Minister of Natural Resources
+Q6866270,Minister of Northern Affairs and National Resources,Q16,Q16,,,,,,,Minister of Northern Affairs
+Q6866275,Minister of Pensions and National Health,Q16,Q16,,,1928,1944,,,Minister of Pensions and National Health (Canada)
+Q16933914,Minister of Public Safety,Q16,Q16,,,2003-12-12,,,,Minister of Public Safety
+Q6866295,Minister of Public Services and Procurement,Q16,Q16,,,1996-07-12,,,,Minister of Public Services and Procurement
+Q6866292,Minister of Public Works,Q16,Q16,,,,,,,Minister of Public Works (Canada)
+Q60771378,Minister of Rural Economic Development,Q16,Q16,,,,,,,Minister of Rural Economic Development
+Q85785685,Minister of Seniors,Q16,Q16,,,,,,,Minister of Seniors
+Q24190727,Minister of Small Business and Tourism,Q16,Q16,,,1976-09-30,,,,"Minister of International Trade, Export Promotion, Small Business and Economic Development"
+Q6866332,Minister of Sport and Persons with Disabilities,Q16,Q16,,,1961-09-29,,,,
+Q6866327,Minister of State,Q16,Q16,,,,,,,Minister of State (Canada)
+Q109292534,Minister of Tourism,,Q16,,,,,,,Minister of Tourism (Canada)
+Q3251821,Canadian Minister of Transport,Q16,Q16,,,1936-11-02,,,,Minister of Transport (Canada)
+Q3251807,Minister of Veterans Affairs,Q16,Q16,,,1944-10-18,,,,Minister of Veterans Affairs (Canada)
+Q6866422,Minister of Western Economic Diversification,Q16,Q16,,,1988-06-28,,,,Minister of Western Economic Diversification
+Q6866460,Minister responsible for the Economic Development Agency of Canada for the Regions of Quebec,Q16,Q16,,,,,,,Minister responsible for the Economic Development Agency of Canada for the Regions of Quebec
+Q16836466,Minister responsible for the Federal Economic Development Initiative for Northern Ontario,Q16,Q16,,,1999-08-03,,,,Minister responsible for the Federal Economic Development Initiative for Northern Ontario
+Q109509932,Minister responsible for the Federal Economic Development Initiative for Southern Ontario,Q16,Q16,,,,,,,
+Q6866462,Minister responsible for the Francophonie,Q16,Q16,,,1983,,,,Minister responsible for La Francophonie (Canada)
+Q6866450,Minister responsible for Official Languages,Q16,Q16,,,,,,,Minister responsible for Official Languages (Canada)
+Q6866468,"Minister for Women, Gender Equality and Youth",Q16,Q16,,,1971-06-11,,,,Minister for Women and Gender Equality and Youth
+Q107712318,Minister without portfolio,Q16,Q16,,,,,,,
+Q25525828,Minister of State (Foreign Affairs and Consular),Q16,Q16,,,,,,,
+Q86752044,Associate Minister of Finance,Q16,Q16,,,,,,,Associate Minister of Finance
+Q16821953,Associate Minister of National Defence,Q16,Q16,,,1940-07-12,,,,Associate Minister of National Defence
+Q2505890,Leader of the Government in the House of Commons,Q16,Q16,Q5261040,,1944-10-14,,,,Leader of the Government in the House of Commons (Canada)
+Q2506575,Representative of the Government in the Senate,Q16,Q16,,,1867-07-01,,,,Representative of the Government in the Senate
+Q2506685,Speaker of the House of Commons,Q16,Q16,,,,,,,Speaker of the House of Commons (Canada)
+Q2505705,Speaker of the Senate,Q16,Q16,,,1867-11-05,,,,Speaker of the Senate of Canada
+Q2961996,Chief of the Defence Staff,Q16,,,,1964,,,,Chief of the Defence Staff (Canada)
+Q6978324,National Security Advisor,Q16,,,,,,,,National Security Advisor (Canada)
+Q3564227,Auditor General of Canada,Q16,Q16,,,1878,,,,Auditor General of Canada
+Q1339242,Chief Justice of Canada,Q16,Q16,,,1875-09-30,,,,Chief Justice of Canada
+Q26186076,Governor of the Bank of Canada,Q16,Q16,,,,,,,Governor of the Bank of Canada
+Q3253692,President of the Treasury Board,Q16,Q16,,,1966-10-01,,,,President of the Treasury Board
+Q3253693,President of the Queen's Privy Council for Canada,Q16,Q16,,,1867,,,,President of the Queen's Privy Council for Canada
+Q3401750,Premier of Alberta,Q16,Q1951,,Q1512347,1905-09-02,,,,Premier of Alberta
+Q7240349,Premier of British Columbia,Q16,Q1973,,Q823227,1871-11-13,,,,Premier of British Columbia
+Q3401758,Premier of Manitoba,Q16,Q1948,,Q823214,1870-09-16,,,,Premier of Manitoba
+Q12270252,Premier of New Brunswick,Q16,Q1965,,Q822642,1867-08-16,,,,Premier of New Brunswick
+Q7240356,Premier of Newfoundland and Labrador,Q16,Q2003,,Q771758,1949-04-01,,,,Premier of Newfoundland and Labrador
+Q7240368,Premier of the Northwest Territories,Q16,Q2007,,Q903894,1897-10-07,,,,Premier of the Northwest Territories
+Q7240360,Premier of Nova Scotia,Q16,Q1952,,Q823189,1867,,,,Premier of Nova Scotia
+Q4377222,Premier of Nunavut,Q16,Q2023,,Q822637,1999-04-01,,,,Premier of Nunavut
+Q2560704,Premier of Ontario,Q16,Q1904,,Q1850322,1867-07-15,,,,Premier of Ontario
+Q7240361,Premier of Prince Edward Island,Q16,Q1978,,Q904333,1873,,,,Premier of Prince Edward Island
+Q2911019,Premier of Quebec,Q16,Q176,,Q1850358,1867-07-15,,,,Premier of Quebec
+Q6578215,Premier of Saskatchewan,Q16,Q1989,,Q1411213,1905-09-12,,,,Premier of Saskatchewan
+Q12270260,Premier of Yukon,Q16,Q2009,,Q783405,1978-11-20,,,,Premier of Yukon

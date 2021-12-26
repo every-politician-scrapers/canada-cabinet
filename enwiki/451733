@@ -574,11 +574,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Ottawa"
-              },
-              {
-                "type": "internal",
-                "page": "Ontario"
+                "page": "Ottawa, Ontario"
               }
             ]
           },

@@ -17,7 +17,7 @@ jobs:
         npm install -g wikibase-cli
     - name: install qsv
       run: |-
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
+        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
     - name: install latest PCB
       run: curl -L https://github.com/every-politician-scrapers/cabinet-template/raw/main/pcb/pcb.tgz | tar xfz -

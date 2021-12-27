@@ -1,4 +1,4 @@
-name: Compare current data
+name: Compare external data
 
 on:
   schedule:
@@ -7,37 +7,4 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: |-
-        sudo apt-get install jq moreutils
-        npm install -g wikibase-cli
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
-        sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-        bundle install
-    - name: Compare external sources to Wikidata
-      run: for comp in bin/compare-*.sh; do bash $comp; done
-    - name: Create pull request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        commit-message: Compare external sources to Wikidata
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: data-update
-        delete-branch: true
-        title: 'Compare external sources to Wikidata'
-        assignees: tmtmtmtm
-        reviewers: tmtmtmtm
-    - name: Check outputs
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+    uses: every-politician-scrapers/shared/.github/workflows/compare.yml@main

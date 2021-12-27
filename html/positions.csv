@@ -37,7 +37,9 @@ Q104842279,Minister of Labour,Q16,Q16,,,,,,,Minister of Labour (Canada)
 Q6866242,Minister of Manpower and Immigration,Q16,Q16,,,,,,,Minister of Manpower and Immigration
 Q109283898,Minister of Mental Health and Addictions,Q16,Q16,,,2021-10-26,,,,Minister of Mental Health and Addictions
 Q85846650,Minister of Middle Class Prosperity,Q16,Q16,,,,,,,Minister of Middle Class Prosperity
+Q6866245,Minister of Militia and Defence,Q16,Q16,,,,1921,,Q3315114,Minister of Militia and Defence
 Q6866255,Minister of Multiculturalism and Citizenship,Q16,Q16,,,1991-04-21,2015-11-04,,,Minister of Multiculturalism and Citizenship
+Q3315114,Minister of National Defence,Q16,Q16,,,1923,,Q6866245,,Minister of National Defence (Canada)
 Q16934886,Minister of National Defence for Air,Q16,Q16,,,,,,,Minister of National Defence for Air (Canada)
 Q6866264,Minister of National Revenue,Q16,Q16,,,1927-03-21,,,,Minister of National Revenue
 Q3251824,Minister of Natural Resources,Q16,Q16,,,1995-01-12,,,,Minister of Natural Resources
@@ -49,6 +51,7 @@ Q6866292,Minister of Public Works,Q16,Q16,,,,,,,Minister of Public Works (Canada
 Q60771378,Minister of Rural Economic Development,Q16,Q16,,,,,,,Minister of Rural Economic Development
 Q85785685,Minister of Seniors,Q16,Q16,,,,,,,Minister of Seniors
 Q24190727,Minister of Small Business and Tourism,Q16,Q16,,,1976-09-30,,,,"Minister of International Trade, Export Promotion, Small Business and Economic Development"
+Q104840604,Minister for Sport,,Q16,,,,,,,Minister for Sport (Canada)
 Q6866332,Minister of Sport and Persons with Disabilities,Q16,Q16,,,1961-09-29,,,,
 Q6866327,Minister of State,Q16,Q16,,,,,,,Minister of State (Canada)
 Q109292534,Minister of Tourism,,Q16,,,,,,,Minister of Tourism (Canada)

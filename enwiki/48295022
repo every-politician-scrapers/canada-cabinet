@@ -24,12 +24,28 @@
         {
           "sentences": [
             {
-              "text": "Gudrid \"Gudie\" Hutchings (born September 1, 1959) is a Canadian politician who has represented the riding of Long Range Mountains in the House of Commons of Canada since the 2015 federal election.",
+              "text": "Gudrid Ida \"Gudie\" Hutchings (born September 1, 1959) is a Canadian politician who has served as Minister of Rural Economic Development since October 26, 2021.",
               "links": [
                 {
-                  "text": "riding",
                   "type": "internal",
-                  "page": "Electoral district (Canada)"
+                  "page": "Minister of Rural Economic Development"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gudrid Ida",
+                  "Gudie",
+                  "Hutchings"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, Hutchings has represented Long Range Mountains in the House of Commons since the 2015 election.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
                 },
                 {
                   "text": "Long Range Mountains",
@@ -37,57 +53,14 @@
                   "page": "Long Range Mountains (electoral district)"
                 },
                 {
+                  "text": "House of Commons",
                   "type": "internal",
                   "page": "House of Commons of Canada"
                 },
                 {
-                  "text": "2015 federal election",
+                  "text": "2015 election",
                   "type": "internal",
-                  "page": "2015 Canadian federal election"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gudrid",
-                  "Gudie",
-                  "Hutchings"
-                ]
-              }
-            },
-            {
-              "text": "Hutchings is a member of the Liberal Party of Canada.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Liberal Party of Canada"
-                }
-              ]
-            },
-            {
-              "text": "Since December 2019 she has served as the Parliamentary Secretary to the Minister for Women and Gender Equality and Rural Economic Development.",
-              "links": [
-                {
-                  "text": "Parliamentary Secretary",
-                  "type": "internal",
-                  "page": "Parliamentary secretary"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister for Women and Gender Equality"
-                },
-                {
-                  "text": "Rural Economic Development",
-                  "type": "internal",
-                  "page": "Minister of Rural Economic Development"
-                }
-              ]
-            },
-            {
-              "text": "She previously served as Parliamentary Secretary to the Minister of Small Business and Tourism from December 2015 to September 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Small Business and Tourism"
+                  "page": "2015 Canadian election"
                 }
               ]
             }
@@ -117,6 +90,7 @@
         {
           "country": "CAN",
           "list": [
+            "PC",
             "MP"
           ],
           "template": "post-nominals"
@@ -163,49 +137,12 @@
               }
             ]
           },
-          "office2": {
-            "text": "Parliamentary Secretary for Small Business and Tourism",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Parliamentary Secretary"
-              },
-              {
-                "text": "Small Business and Tourism",
-                "type": "internal",
-                "page": "Minister of Small Business and Tourism"
-              }
-            ]
-          },
           "minister2": {
             "text": "Bardish Chagger",
             "links": [
               {
                 "type": "internal",
                 "page": "Bardish Chagger"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "December 2, 2015"
-          },
-          "term_end2": {
-            "text": "September 19, 2017"
-          },
-          "predecessor2": {
-            "text": "Portfolio established",
-            "formatting": {
-              "italic": [
-                "Portfolio established"
-              ]
-            }
-          },
-          "successor2": {
-            "text": "Alaina Lockhart",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alaina Lockhart"
               }
             ]
           },
@@ -226,18 +163,7 @@
             "text": "October 19, 2015"
           },
           "predecessor1": {
-            "text": "Riding established\nGerry Byrne (Humber—St. Barbe—Baie Verte)",
-            "links": [
-              {
-                "text": "Gerry Byrne",
-                "type": "internal",
-                "page": "Gerry Byrne (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "Humber—St. Barbe—Baie Verte"
-              }
-            ],
+            "text": "Riding established",
             "formatting": {
               "italic": [
                 "Riding established"
@@ -251,7 +177,7 @@
             "text": "September 1, 1959"
           },
           "birth_place": {
-            "text": "Corner Brook, Newfoundland and Labrador, Canada",
+            "text": "Corner Brook, Newfoundland and Labrador",
             "links": [
               {
                 "type": "internal",
@@ -291,14 +217,6 @@
         }
       ],
       "references": [
-        {
-          "number": "1453010163598872586",
-          "user": "Gray_Mackenzie",
-          "title": "BREAKING - Major changes in the new cabinet. 38 members, 7 who keep their job, 31 in new jobsJoly - Foreign Affai…",
-          "date": "26 October 2021",
-          "template": "citation",
-          "type": "tweet"
-        },
         {
           "template": "citation",
           "type": "inline",

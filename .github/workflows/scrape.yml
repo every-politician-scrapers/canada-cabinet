@@ -10,39 +10,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
-    - name: Install OS dependencies
-      run: sudo apt-get install jq moreutils
-    - name: Install ruby dependencies
-      run: bundle install
-    - name: install qsv
+    - name: Install dependencies
       run: |-
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
+        sudo apt-get install jq moreutils
+        npm install -g wikibase-cli
+        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-    - name: Scrape official site (mirrored earlier)
-      run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
-    - name: Get current wikidata list
-      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | sed -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/wikidata.csv
-    - name: Generate diff
-      run: bundle exec ruby bin/diff.rb | tee data/diff.csv
-    - name: Scrape list of premiers
-      run: bundle exec ruby bin/scraper/premiers-wikipedia.rb | ifne tee data/premiers-wikipedia.csv
-    - name: Generate premiers diff
-      run: bundle exec ruby bin/diff-premiers.rb | ifne tee data/diff-premiers.csv
+        bundle install
+    - name: Compare external sources to Wikidata
+      run: for comp in bin/compare-*.sh; do bash $comp; done
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Automated update
+        commit-message: Compare external sources to Wikidata
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: data-update
         delete-branch: true
-        title: 'Current member list'
+        title: 'Compare external sources to Wikidata'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs

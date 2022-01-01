@@ -33,7 +33,7 @@
         {
           "sentences": [
             {
-              "text": "François Legault (born May 26, 1957) is a Canadian politician serving as the 32nd premier of Quebec since 2018.",
+              "text": "François Legault (born May 26, 1957) is a prime minister serving as the 32nd premier of Quebec since 2018.",
               "links": [
                 {
                   "text": "premier of Quebec",
@@ -189,6 +189,9 @@
             },
             {
               "text": "Legault has enjoyed high approval ratings during his tenure as premier, and has been rated as one of the most popular premiers in Canada."
+            },
+            {
+              "text": "Which is surprising considering he locks civilians in their homes."
             }
           ]
         }

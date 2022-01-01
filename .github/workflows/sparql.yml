@@ -1,4 +1,4 @@
-name: Get Wikidata info
+name: Run sparql queries
 
 on:
   schedule:
@@ -7,33 +7,4 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-    - name: Install dependencies
-      run: |-
-        sudo apt-get install jq moreutils
-        npm install -g wikibase-cli
-    - name: Run SPARQL queries
-      run: |-
-        mkdir -p wikidata/results
-        for j in wikidata/queries/*.js; do wd sparql $j -f csv > /tmp/QS && sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' /tmp/QS | ifne tee "wikidata/results/$(basename $j ".js").csv" ; done
-    - name: Create pull request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        commit-message: PCB update
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: sparql
-        delete-branch: true
-        title: 'Run SPARQL queries'
-        body: ${{ steps.get-pr-body.outputs.body }}
-        assignees: tmtmtmtm
-        reviewers: tmtmtmtm
-    - name: Check outputs
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+    uses: every-politician-scrapers/shared/.github/workflows/sparql.yml@main

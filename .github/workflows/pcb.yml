@@ -1,4 +1,4 @@
-name: Generate current.csv
+name: Generate PCB
 
 on:
   schedule:
@@ -7,44 +7,4 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-    - name: Install dependencies
-      run: |-
-        sudo apt-get install jq moreutils
-        npm install -g wikibase-cli
-    - name: install qsv
-      run: |-
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
-        sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-    - name: install latest PCB
-      run: curl -L https://github.com/every-politician-scrapers/cabinet-template/raw/main/pcb/pcb.tgz | tar xfz -
-    - name: generate files
-      run: bash pcb/generate-html.sh | tee /tmp/PCBout.md
-    - id: get-pr-body
-      run: |
-        body=$(cat /tmp/PCBout.md)
-        body="${body//'%'/'%25'}"
-        body="${body//$'\n'/'%0A'}"
-        body="${body//$'\r'/'%0D'}"
-        echo ::set-output name=body::$body
-    - name: Create pull request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        commit-message: PCB update
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: pcbuild
-        delete-branch: true
-        title: 'Update current.csv'
-        body: ${{ steps.get-pr-body.outputs.body }}
-        assignees: tmtmtmtm
-        reviewers: tmtmtmtm
-    - name: Check outputs
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+    uses: every-politician-scrapers/shared/.github/workflows/pcb.yml@main

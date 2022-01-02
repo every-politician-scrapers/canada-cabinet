@@ -407,46 +407,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.youtube.com/watch?v=iIebH1bM7pg",
-          "title": "Minister Hajdu wishes you a Happy Indigenous Peoples Day 2019",
-          "publisher": "Employment and Social Development Canada",
-          "date": "June 21, 2019",
-          "access-date": "February 6, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Hajdu",
-          "first": "Patricia",
-          "date": "2016-06-16",
-          "title": "The Honourable Patricia A. Hajdu, Minister of Status of Women",
-          "url": "https://www.youtube.com/watch?v=kyNhgOd1Afc",
-          "url-status": "live",
-          "website": "YouTube",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.tbnewswatch.com/News/376437/PROJECTION:_First-time_candidate_Patty_Hajdu_wins_Superior-North_for_Liberals",
-          "title": "First-time candidate Patty Hajdu wins Superior-North for Liberals",
-          "website": "tbnewswatch.com",
-          "date": "19 October 2015",
-          "access-date": "28 September 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cbc.ca/news/canada/thunder-bay/thunder-bay-superior-north-goes-liberal-red-with-patty-hajdu-1.3279403",
-          "title": "Thunder Bay-Superior North goes Liberal red with Patty Hajdu",
-          "work": "CBC News",
-          "date": "20 October 2015",
-          "access-date": "28 September 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

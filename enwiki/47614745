@@ -378,40 +378,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=fdeba6f9f95343a483d85636f5046727&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=230&current200Page=1&total200Pages=2&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://pm.gc.ca/en/cabinet/honourable-david-lametti",
-          "title": "The Honourable David Lametti",
-          "last": "Office of the Prime Minister of Canada",
-          "website": "Justin Trudeau, Prime Minister of Canada",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20191213120601/https://pm.gc.ca/en/cabinet/honourable-david-lametti",
-          "archive-date": "December 13, 2019",
-          "access-date": "2020-03-25",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cipp.mcgill.ca/en/people/",
-          "website": "Centre For Intellectual Property Policy",
-          "publisher": "Pixelstream",
-          "access-date": "24 August 2015",
-          "title": "Centre for Intellectual Property Policy — People",
-          "archive-date": "September 6, 2015",
-          "archive-url": "https://web.archive.org/web/20150906130355/http://www.cipp.mcgill.ca/en/people/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

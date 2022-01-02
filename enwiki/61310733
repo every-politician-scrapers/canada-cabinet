@@ -194,33 +194,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Canada Gazette, Part I, Volume 155, Number 9",
-          "url": "https://canadagazette.gc.ca/rp-pr/p1/2021/2021-02-27/html/gh-rg-eng.html",
-          "publisher": "Government of Canada",
-          "date": "February 27, 2021",
-          "accessdate": "March 1, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://canadagazette.gc.ca/rp-pr/p1/2021/2021-04-24/html/gh-rg-eng.html",
-          "title": "Canada Gazette, Part 1, Volume 155, Number 17: GOVERNMENT HOUSE",
-          "first": "Public Works and Government Services Canada",
-          "last": "Government of Canada",
-          "date": "April 24, 2021",
-          "website": "canadagazette.gc.ca",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://canadagazette.gc.ca/rp-pr/p1/2021/2021-10-30/html/gh-rg-eng.html#he1",
-          "title": "Canada Gazette, Part I, Volume 155, Number 44: GOVERNMENT HOUSE",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

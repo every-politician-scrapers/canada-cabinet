@@ -279,31 +279,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Dooley",
-          "first": "Danette",
-          "date": "19 January 2013",
-          "title": "20 Questions: Dr. Andrew Furey",
-          "url": "https://www.pressreader.com/canada/the-telegram-st-johns/20130119/282321087367344",
-          "work": "The Telegram",
-          "location": "St. John's, Newfoundland and Labrador",
-          "access-date": "31 August 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Maher",
-          "first": "David",
-          "date": "July 26, 2020",
-          "title": "Newfoundland and Labrador Liberal leadership hopeful Andrew Furey's vision for the future, plus a glimpse at his past",
-          "url": "https://www.thetelegram.com/news/local/newfoundland-and-labrador-liberal-leadership-hopeful-andrew-fureys-vision-for-the-future-plus-a-glimpse-at-his-past-477779/",
-          "access-date": "2020-08-04",
-          "website": "The Telegram",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

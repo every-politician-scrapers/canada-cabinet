@@ -314,34 +314,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=e81dc37b08ef4fd09483ab787252e750&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=18&current200Page=1&total200Pages=1&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Gerbet, Thomas",
-          "url": "https://ici.radio-canada.ca/nouvelle/1129256/steven-guilbeault-depart-equiterre-environnementaliste-ecologiste",
-          "title": "Steven Guilbeault quitte Équiterre",
-          "work": "Radio-Canada",
-          "date": "October 11, 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author": "Valiante, Giuseppe",
-          "url": "https://globalnews.ca/news/5482859/steven-guilbeault-liberals-montreal/",
-          "title": "Steven Guilbeault, Trans Mountain opponent, nominated as Montreal Liberal candidate",
-          "work": "Global Montreal",
-          "date": "July 11, 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

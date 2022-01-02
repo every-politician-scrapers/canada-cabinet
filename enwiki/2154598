@@ -507,16 +507,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=138dc682c9184b8283a0841e542b3d97&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=118&current200Page=1&total200Pages=1&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-23",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

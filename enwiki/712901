@@ -395,24 +395,6 @@
             "text": "St. Peters Bay"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=11677",
-          "title": "Profile",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.theguardian.pe.ca/news/local/cardigan-mp-lawrence-macaulay-breaks-political-record-96426/",
-          "title": "Cardigan MP Lawrence MacAulay breaks political record",
-          "publisher": "The Charlottetown Guardian",
-          "date": "20 March 2014",
-          "access-date": "29 November 2017",
-          "author": "Sharratt, Steve",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

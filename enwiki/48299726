@@ -314,35 +314,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://edmontonjournal.com/news/politics/riding-profile-edmonton-centre",
-          "title": "Riding profile: Edmonton Centre",
-          "website": "Edmonton Journal",
-          "language": "en-CA",
-          "access-date": "2020-03-21",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

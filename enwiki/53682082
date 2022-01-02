@@ -281,47 +281,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Le vieux rêve de Mona Fortier",
-          "last": "Gratton",
-          "first": "Denis",
-          "url": "https://www.ledroit.com/chroniques/denis-gratton/le-vieux-reve-de-mona-fortier-999467ff0d339359b8fb87154cc2db25",
-          "publisher": "Le Droit",
-          "date": "April 7, 2017",
-          "access-date": "October 28, 2019}} {{in lang|fr|undefined",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "title": "Official Voting Results",
-          "publisher": "Elections Canada",
-          "accessdate": "January 23, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=8f76e405d74f46c493c20bf4a2ece2cd&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=227&current200Page=1&total200Pages=2&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-22",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Vachet",
-          "first": "Benjamin",
-          "date": "April 3, 2017",
-          "title": "Ottawa-Vanier: Mona Fortier succède à Mauril Bélanger.",
-          "url": "http://www5.tfo.org/onfr/ottawa-vanier-mona-fortier-succede-a-mauril-belanger/",
-          "access-date": "April 7, 2017",
-          "website": "TFO",
-          "language": "fr",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

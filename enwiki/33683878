@@ -286,28 +286,6 @@
             "text": "http://saskatchewan.ca/premier"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Honourable Scott Moe",
-          "url": "https://www.saskatchewan.ca/government/government-structure/cabinet/honourable-scott-moe",
-          "website": "Cabinet, Ministries, Agencies, and Other Governments",
-          "publisher": "Government of Saskatchewan",
-          "access-date": "5 April 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-10-27",
-          "title": "Sask. Election 2020: Scott Moe wins first public mandate",
-          "url": "https://leaderpost.com/news/politics/sask-election/sask-election-2020-historic-campaign-comes-to-a-close",
-          "url-status": "live",
-          "access-date": "2021-03-05",
-          "website": "Regina LeaderPost",
-          "language": "en-CA",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

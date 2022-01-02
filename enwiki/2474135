@@ -456,34 +456,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "title": "Official Voting Results",
-          "publisher": "Elections Canada",
-          "access-date": "January 23, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://m.ctv.ca/topstories/20111108/seamus-oregan-111108.html",
-          "archive-url": "https://web.archive.org/web/20120331210706/http://m.ctv.ca/topstories/20111108/seamus-oregan-111108.html",
-          "url-status": "dead",
-          "archive-date": "March 31, 2012",
-          "title": "Seamus O'Regan joining CTV National News as correspondent",
-          "publisher": "CTV News",
-          "date": "November 8, 2011",
-          "access-date": "2011-11-09",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -264,38 +264,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.journaldequebec.com/2021/09/23/la-liberale-pascale-st-onge-elue-dans-brome-missisquoi",
-          "title": "La libérale Pascale St-Onge élue dans Brome-Missisquoi",
-          "newspaper": "Le Journal de Québec",
-          "last": "Pirro",
-          "first": "Raphael",
-          "access-date": "September 23, 2021",
-          "date": "September 23, 2021",
-          "language": "fr-CA",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.lapresse.ca/actualites/politique/2021-07-17/la-leader-syndicale-pascale-st-onge-se-joint-aux-liberaux-federaux.php",
-          "title": "La leader syndicale Pascale St-Onge se joint aux libéraux fédéraux",
-          "newspaper": "La Presse",
-          "last": "Morin-Martel",
-          "first": "Florence",
-          "date": "July 17, 2021",
-          "access-date": "October 21, 2021",
-          "lang": "fr-ca",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -216,51 +216,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://nunatsiaq.com/stories/article/mlas-sworn-in-by-nunavut-commissioner/",
-          "title": "MLAs sworn in by Nunavut commissioner",
-          "access-date": "November 19, 2021",
-          "publisher": "Nunatsiaq News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/that-boy-is-going-to-be-premier-one-day-meet-nunavuts-p-j-akeeagok",
-          "title": "'That boy is going to be premier one day': Meet Nunavut's P.J. Akeeagok",
-          "access-date": "November 19, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://twitter.com/jsavikataaq/status/1059593119715315712",
-          "title": "Congratulations to PJ Akeeagok on your second term as @Qikiqtani_Inuit President. I’m happy we’ll continue working together to benefit Inuit in the region. Also, happy birthday!",
-          "access-date": "December 10, 2021",
-          "publisher": "Joe Savikataaq",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://gov.nu.ca/executive-and-intergovernmental-affairs/news/premier-akeeagok-announces-cabinet-portfolios",
-          "title": "Premier Akeeagok announces cabinet portfolios",
-          "access-date": "November 20, 2021",
-          "publisher": "Government of Nunavut",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

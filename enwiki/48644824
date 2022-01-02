@@ -232,21 +232,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.theglobeandmail.com/canada/article-legislators-pick-caroline-cochrane-as-new-premier-of-the-northwest/",
-          "title": "Legislators pick Caroline Cochrane as new premier of the Northwest Territories",
-          "access-date": "November 3, 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

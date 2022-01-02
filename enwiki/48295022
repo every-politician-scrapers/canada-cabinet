@@ -215,32 +215,6 @@
             "text": "Joseph Hutchings (divorced)"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.thewesternstar.com/News/Election-2015/2015-10-18/article-4313367/Long-Range-Mountains-candidates/1",
-          "title": "Long Range Mountains candidates",
-          "last": "Hurly",
-          "first": "Cory",
-          "date": "October 18, 2015",
-          "publisher": "The Western Star",
-          "work": "thewesternstar.com",
-          "access-date": "November 25, 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

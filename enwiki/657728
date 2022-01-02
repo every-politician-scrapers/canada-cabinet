@@ -567,45 +567,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "LeBlanc",
-          "first1": "Dominic",
-          "title": "The Hon. Dominic LeBlanc",
-          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=14335",
-          "website": "Parlinfo",
-          "publisher": "Parliament of Canada",
-          "access-date": "10 May 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cbc.ca/news/canada/new-brunswick/leblanc-eyes-liberal-leadership-1.1117264",
-          "title": "LeBlanc eyes Liberal leadership",
-          "publisher": "Canadian Broadcasting Corporation",
-          "date": "May 3, 2011",
-          "access-date": "May 16, 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Justin Trudeau's leadership bid backed by LeBlanc",
-          "url": "http://www.cbc.ca/news/politics/justin-trudeau-s-leadership-bid-backed-by-leblanc-1.1299230",
-          "access-date": "May 16, 2018",
-          "newspaper": "Canadian Broadcasting Corporation",
-          "date": "October 5, 2012",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Bardish Chagger adds government House leader to small business, tourism duties",
-          "url": "http://www.cbc.ca/news/politics/cabinet-shuffle-house-learder-1.3728243",
-          "publisher": "CBC News",
-          "date": "August 19, 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -226,16 +226,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "title": "Official Voting Results",
-          "publisher": "Elections Canada",
-          "access-date": "January 23, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

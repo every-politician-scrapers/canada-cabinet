@@ -383,64 +383,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://pm.gc.ca/sites/pm/files/media/documents/Canadian_Ministry_List_26_October_2021.pdf",
-          "title": "The Canadian Ministry (by order of precedence",
-          "access-date": "2021-10-27",
-          "archive-date": "2021-10-26",
-          "archive-url": "https://web.archive.org/web/20211026221305/https://pm.gc.ca/sites/pm/files/media/documents/Canadian_Ministry_List_26_October_2021.pdf",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "id": "no2013024417",
-          "template": "citation",
-          "type": "laf"
-        },
-        {
-          "url": "https://www.hindustantimes.com/indians-abroad/anita-anand-first-hindu-to-be-appointed-cabinet-minister-in-canada/story-jvrrn8tVMoUZAu3pUyz7jL.html",
-          "title": "Anita Anand first Hindu to be appointed cabinet minister in Canada",
-          "date": "2019-11-21",
-          "website": "Hindustan Times",
-          "language": "en",
-          "access-date": "2020-03-04",
-          "archive-date": "2020-03-03",
-          "archive-url": "https://web.archive.org/web/20200303142856/https://www.hindustantimes.com/indians-abroad/anita-anand-first-hindu-to-be-appointed-cabinet-minister-in-canada/story-jvrrn8tVMoUZAu3pUyz7jL.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.torys.com/Errors/404?item=%2fpeople%2fanand-anita&user=extranet%5cAnonymous&site=Zenith+Site",
-          "title": "404 &#124; Torys LLP",
-          "website": "www.torys.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.businessinsider.in/international/news/meet-anita-indira-anand-a-law-professor-who-became-canadas-first-hindu-minister/articleshow/72154781.cms",
-          "title": "Meet Anita Indira Anand, a law professor who became Canada's first Hindu minister",
-          "access-date": "2019-11-23",
-          "archive-date": "2020-01-29",
-          "archive-url": "https://web.archive.org/web/20200129144632/https://www.businessinsider.in/international/news/meet-anita-indira-anand-a-law-professor-who-became-canadas-first-hindu-minister/articleshow/72154781.cms",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.law.utoronto.ca/faculty-staff/full-time-faculty/anita-anand",
-          "title": "Anita Anand {{!}} University of Toronto Faculty of Law",
-          "website": "www.law.utoronto.ca",
-          "access-date": "2019-09-11",
-          "archive-date": "2019-10-01",
-          "archive-url": "https://web.archive.org/web/20191001074707/https://www.law.utoronto.ca/faculty-staff/full-time-faculty/anita-anand",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

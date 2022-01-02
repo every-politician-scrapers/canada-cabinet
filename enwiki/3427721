@@ -381,27 +381,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.hilltimes.com/2018/07/25/rodriguez-tassi-staying-government-whips-least-next-weeks/151845",
-          "title": "Rodriguez, Tassi staying as government whips for now, changes expected soon",
-          "last": "Wright Allen",
-          "first": "Samantha",
-          "date": "July 25, 2018",
-          "work": "The Hill Times",
-          "access-date": "August 2, 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=5eadfba96cd647b0a9dde486b8c1fa4e&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=129&current200Page=1&total200Pages=1&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-23",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

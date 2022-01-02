@@ -640,40 +640,6 @@
             "text": "Vectorized signature of Justin Trudeau."
           }
         }
-      ],
-      "references": [
-        {
-          "date": "May 13, 2021",
-          "title": "WE Charity: Trudeau cleared of ethics wrongdoing in political scandal",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/world-us-canada-57106948",
-          "access-date": "May 14, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Salaries?ggCheckbox=false&senateCheckbox=false&HocCheckbox=true",
-          "title": "Indemnities, Salaries and Allowances",
-          "date": "April 11, 2018",
-          "website": "Library of Parliament",
-          "archive-url": "https://web.archive.org/web/20170601232820/https://lop.parl.ca/ParlInfo/lists/Salaries.aspx?Menu=HOC-Politic&Section=03d93c58-f843-49b3-9653-84275c23f3fb",
-          "archive-date": "June 1, 2017",
-          "url-status": "live",
-          "access-date": "February 2, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Hopper",
-          "first": "Tristan",
-          "date": "September 22, 2021",
-          "title": "First Reading: The Least Popular Canadian Government Ever Elected",
-          "url": "https://nationalpost.com/news/politics/election-2021/first-reading-the-least-popular-canadian-government-ever-elected",
-          "work": "National Post",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

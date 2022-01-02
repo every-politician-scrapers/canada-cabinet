@@ -377,32 +377,6 @@
             "text": "Sarah Burton"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://thechronicleherald.ca/federal-election-2015/1317564-liberal-sean-fraser-takes-central-nova-from-the-conservatives",
-          "title": "Liberal Sean Fraser takes Central Nova from the Conservatives",
-          "work": "The Chronicle Herald",
-          "date": "October 19, 2015",
-          "access-date": "2015-11-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cbc.ca/news/canada/nova-scotia/peter-mackay-red-sean-fraser-1.3278932",
-          "title": "Peter MacKay's former riding goes to Liberal Sean Fraser",
-          "publisher": "CBC News",
-          "date": "October 19, 2015",
-          "access-date": "2015-11-08",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

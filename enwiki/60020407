@@ -218,34 +218,6 @@
             "number": 3
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Compton takes Finance, Aylward Health in new P.E.I. cabinet",
-          "first": "Kevin",
-          "last": "Yarr",
-          "newspaper": "CBC News",
-          "date": "May 9, 2019",
-          "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-cabinet-swearing-in-1.5127904",
-          "access-date": "May 9, 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://thecanadianencyclopedia.ca/en/article/dennis-king",
-          "title": "Dennis King The Canadian Encyclopedia",
-          "website": "thecanadianencyclopedia.ca",
-          "access-date": "2020-04-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://atlantic.ctvnews.ca/video?clipId=1608267",
-          "title": "Dennis King new P.E.I. PC leader - CTV News Atlantic",
-          "publisher": "CTV Atlantic",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -372,40 +372,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.youtube.com/watch?v=ziZipmsG6K8",
-          "title": "Richard Wagner sworn in as Supreme Court chief justice - YouTube",
-          "website": "www.youtube.com",
-          "access-date": "January 25, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ctvnews.ca/politics/canada-s-top-judge-is-now-governor-general-but-expert-urges-speedy-replacement-1.5277421",
-          "title": "Canada's top judge is now Governor General, but expert urges speedy replacement",
-          "author": "Graham Slaughter",
-          "date": "January 21, 2021",
-          "publisher": "CTVNEWS",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Platt",
-          "first": "Brian",
-          "user": "btaplatt",
-          "number": "1353765957462876160",
-          "date": "January 25, 2021",
-          "title": "For clarity's sake, I asked PCO to confirm Payette is fully and completely out of the role and that CJ Richard Wagner has been sworn in as administrator. PCO confirms that's the case, says Wagner was sworn in on Saturday, Jan. 23. https://t.co/hZW2cv66b4",
-          "language": "en",
-          "access-date": "June 14, 2021",
-          "archive-url": "https://web.archive.org/web/20210125180633/https://twitter.com/btaplatt/status/1353765957462876160",
-          "archive-date": "January 25, 2021",
-          "url-status": "live",
-          "template": "citation",
-          "type": "tweet"
-        }
       ]
     }
   ]

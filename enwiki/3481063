@@ -287,33 +287,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.ctvnews.ca/politics/pm-to-shuffle-cabinet-with-navdeep-bains-retiring-from-politics-1.5262884",
-          "title": "PM to shuffle cabinet with Navdeep Bains retiring from politics",
-          "date": "January 11, 2021",
-          "website": "CTVNews",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "December 8, 2006",
-          "title": "Dion Among a Dozen MPs with Dual Citizenships",
-          "url": "https://www.cbc.ca/news/canada/dion-among-a-dozen-mps-with-dual-citizenships-1.574134",
-          "work": "CBC News",
-          "access-date": "April 10, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "title": "Official Voting Results",
-          "publisher": "Elections Canada",
-          "access-date": "January 23, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -430,42 +430,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.theglobeandmail.com/news/politics/justin-trudeau-elected-liberal-leader-in-a-landslide/article11189244/",
-          "location": "Toronto",
-          "work": "The Globe and Mail",
-          "title": "Justin Trudeau elected Liberal leader in a landslide",
-          "date": "April 15, 2013",
-          "first1": "Jane",
-          "last1": "Taber",
-          "first2": "Daniel",
-          "last2": "Leblanc",
-          "access-date": "September 2, 2017",
-          "archive-url": "https://web.archive.org/web/20170506114257/http://www.theglobeandmail.com/news/politics/justin-trudeau-elected-liberal-leader-in-a-landslide/article11189244/",
-          "archive-date": "May 6, 2017",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://lop.parl.ca/sites/ParlInfo/default/en_CA/SiteInformation/parlinfoMoved",
-          "title": "ParlInfo Has Moved",
-          "website": "lop.parl.ca",
-          "access-date": "May 27, 2020",
-          "archive-url": "https://web.archive.org/web/20200511063417/https://lop.parl.ca/sites/ParlInfo/default/en_CA/SiteInformation/parlinfoMoved",
-          "archive-date": "May 11, 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

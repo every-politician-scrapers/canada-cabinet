@@ -183,63 +183,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://business.financialpost.com/news/economy/big-changes-not-likely-in-the-cards-as-the-bank-of-canadas-tiff-macklem-era-begins",
-          "title": "Big changes not in the cards for Bank of Canada as Tiff Macklem era begins",
-          "date": "June 2, 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2020-06-03/new-bank-of-canada-chief-takes-reins-under-mountain-of-debt",
-          "title": "New Bank of Canada Chief Takes Reins Under Mountain of Debt",
-          "publisher": "Bloomberg",
-          "date": "June 3, 2020",
-          "archive-url": "https://web.archive.org/web/20200603205823/https://www.bloomberg.com/news/articles/2020-06-03/new-bank-of-canada-chief-takes-reins-under-mountain-of-debt",
-          "archive-date": "2020-06-03",
-          "access-date": "2020-06-12",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bankofcanada.ca/2013/12/senior-deputy-governor-tiff-macklem-leave-may-2014/",
-          "title": "Senior Deputy Governor Tiff Macklem will leave the Bank in May 2014",
-          "website": "www.bankofcanada.ca",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.bankofcanada.ca/author/tiff-macklem/",
-          "archive-url": "https://web.archive.org/web/20130513211914/http://www.bankofcanada.ca/author/tiff-macklem/",
-          "url-status": "dead",
-          "title": "Bank of Canada - Tiff Macklem, Senior Deputy Governor",
-          "archive-date": "May 13, 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Desrosiers",
-          "first": "Éric",
-          "title": "Tiff Macklem sera le prochain gouverneur de la Banque du Canada",
-          "url": "https://www.ledevoir.com/economie/578170/tiff-macklem-sera-le-prochain-gouverneurde-la-banque-du-canada",
-          "language": "fr",
-          "newspaper": "Le Devoir",
-          "date": "2020-05-02",
-          "archive-url": "https://web.archive.org/web/20200505033910/https://www.ledevoir.com/economie/578170/tiff-macklem-sera-le-prochain-gouverneurde-la-banque-du-canada",
-          "archive-date": "2020-05-05",
-          "access-date": "2020-06-12",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bankofcanada.ca/2020/05/tiff-macklem-appointed-governor-bank-canada/",
-          "title": "Tiff Macklem Appointed Governor of the Bank of Canada",
-          "website": "www.bankofcanada.ca",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

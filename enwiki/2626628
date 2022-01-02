@@ -310,51 +310,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Search For Contributions",
-          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=57be62308a534a82962f2d03dc9694f2&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=1&current200Page=1&total200Pages=1&reportExists=True&displaySorting=True",
-          "publisher": "Elections Canada",
-          "access-date": "2021-06-23",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Former 'Canada AM' host Marci Ien new co-host of 'The Social' {{!}} Toronto Sun",
-          "url": "http://www.torontosun.com/2017/03/29/former-canada-am-host-marci-ien-new-co-host-of-the-social",
-          "language": "en-CA",
-          "date": "29 March 2017",
-          "access-date": "6 June 2017",
-          "archive-date": "13 June 2017",
-          "archive-url": "https://web.archive.org/web/20170613225359/http://www.torontosun.com/2017/03/29/former-canada-am-host-marci-ien-new-co-host-of-the-social",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Rushowy",
-          "first1": "Kristin",
-          "title": "Canada AM host Marci Ien inspired to call son Dash thanks to her own father's motivational story",
-          "url": "https://www.thestar.com/life/parent/2012/11/23/canada_am_host_marci_ien_inspired_to_call_son_dash_thanks_to_her_own_fathers_motivational_story.html",
-          "website": "thestar.com",
-          "language": "en",
-          "date": "23 November 2012",
-          "access-date": "4 September 2017",
-          "archive-date": "18 March 2018",
-          "archive-url": "https://web.archive.org/web/20180318054649/https://www.thestar.com/life/parent/2012/11/23/canada_am_host_marci_ien_inspired_to_call_son_dash_thanks_to_her_own_fathers_motivational_story.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "October 2021",
-          "template": "citation needed"
-        },
-        {
-          "date": "November 2021",
-          "template": "citation needed"
-        }
       ]
     }
   ]

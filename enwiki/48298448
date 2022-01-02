@@ -505,49 +505,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "title": "Official Voting Results",
-          "publisher": "Elections Canada",
-          "access-date": "January 23, 2021",
-          "archive-date": "April 24, 2020",
-          "archive-url": "https://web.archive.org/web/20200424102941/https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nationalpost.com/news/politics/harjit-sajjan-orders-crackdown-as-canadian-forces-facebook-page-features-racist-vulgar-comments",
-          "title": "Harjit Sajjan orders crackdown as Canadian Forces Facebook page features racist, vulgar comments",
-          "date": "April 12, 2018",
-          "first": "David",
-          "last": "Pugliese",
-          "work": "Ottawa Citizen",
-          "access-date": "August 31, 2018",
-          "archive-date": "April 30, 2021",
-          "archive-url": "https://web.archive.org/web/20210430052950/https://nationalpost.com/news/politics/harjit-sajjan-orders-crackdown-as-canadian-forces-facebook-page-features-racist-vulgar-comments",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Pugliese",
-          "first1": "David",
-          "title": "Defence Minister Harjit Sajjan released from military — so he doesn't have to take orders from generals",
-          "url": "http://news.nationalpost.com/news/canada/defence-minister-harjit-sajjan-released-from-military-so-he-doesnt-have-to-take-orders-from-generals",
-          "access-date": "11 November 2015",
-          "work": "National Post",
-          "agency": "Postmedia News",
-          "publisher": "Postmedia Network Inc.",
-          "date": "10 November 2015",
-          "archive-date": "April 30, 2021",
-          "archive-url": "https://web.archive.org/web/20210430052924/https://nationalpost.com/category/news/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

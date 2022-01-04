@@ -111,8 +111,11 @@
           "name": {
             "text": "Sean Fraser"
           },
-          "imagesize": {
-            "text": "200px"
+          "image": {
+            "text": "Sean Fraser MP September 2021.jpg"
+          },
+          "caption": {
+            "text": "Fraser in 2021"
           },
           "office": {
             "text": "Minister of Immigration, Refugees and Citizenship",

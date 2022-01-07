@@ -239,7 +239,7 @@
         {
           "sentences": [
             {
-              "text": "In both the 2019 federal election and the 2021 federal election, Trudeau secured mandates and minority governments although in both he lost the popular vote; in 2021 he received the lowest percentage of the national popular vote of a governing party in Canadian history.",
+              "text": "Trudeau lead the Liberals to consecutive minority governments in the 2019 federal election and the 2021 federal election.",
               "links": [
                 {
                   "text": "2019 federal election",
@@ -250,11 +250,6 @@
                   "text": "2021 federal election",
                   "type": "internal",
                   "page": "2021 Canadian federal election"
-                },
-                {
-                  "text": "minority governments",
-                  "type": "internal",
-                  "page": "Minority government"
                 }
               ]
             },

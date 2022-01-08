@@ -1,32 +1,30 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q162832,1st Canadian Ministry,1867-07-01,11,,,1873-11-05,11,,,Q2458227,Cabinet of Canada,,,,,,,,,Q210187,2nd Canadian Ministry
-,Q210187,2nd Canadian Ministry,1873-11-07,11,,,1878-10-08,11,,,Q2458227,Cabinet of Canada,,,,,,,Q162832,1st Canadian Ministry,Q223319,3rd Canadian Ministry
-,Q223319,3rd Canadian Ministry,1878-10-17,11,,,1891-06-06,11,,,Q2458227,Cabinet of Canada,,,,,,,Q210187,2nd Canadian Ministry,Q230732,4th Canadian Ministry
-,Q230732,4th Canadian Ministry,1891-06-16,11,,,1892-11-24,11,,,Q2458227,Cabinet of Canada,,,,,,,Q223319,3rd Canadian Ministry,Q239654,5th Canadian Ministry
-,Q239654,5th Canadian Ministry,1892-12-05,11,,,1894-12-12,11,,,Q2458227,Cabinet of Canada,,,,,,,Q230732,4th Canadian Ministry,Q246007,6th Canadian Ministry
-,Q246007,6th Canadian Ministry,1894-12-21,11,,,1896-04-27,11,,,Q2458227,Cabinet of Canada,,,,,,,Q239654,5th Canadian Ministry,Q260397,7th Canadian Ministry
-,Q260397,7th Canadian Ministry,1896-05-01,11,,,1896-07-08,11,,,Q2458227,Cabinet of Canada,,,,,,,Q246007,6th Canadian Ministry,Q270592,8th Canadian Ministry
-,Q270592,8th Canadian Ministry,1896-07-11,11,,,1911-10-06,11,,,Q2458227,Cabinet of Canada,,,,,,,Q260397,7th Canadian Ministry,Q202227,9th Canadian Ministry
-,Q202227,9th Canadian Ministry,1911-10-10,11,,,1917-10-11,11,,,Q2458227,Cabinet of Canada,,,,,,,Q270592,8th Canadian Ministry,Q164303,10th Canadian Ministry
-,Q164303,10th Canadian Ministry,1917-10-12,11,,,1920-07-10,11,,,Q2458227,Cabinet of Canada,,,,,,,Q202227,9th Canadian Ministry,Q169774,11th Canadian Ministry
-,Q169774,11th Canadian Ministry,1920-07-10,11,,,1921-12-29,11,,,Q2458227,Cabinet of Canada,,,,,,,Q164303,10th Canadian Ministry,Q171914,12th Canadian Ministry
-,Q171914,12th Canadian Ministry,1921-12-29,11,,,1926-06-28,11,,,Q2458227,Cabinet of Canada,,,,,,,Q169774,11th Canadian Ministry,Q175401,13th Canadian Ministry
-,Q175401,13th Canadian Ministry,1926-06-29,11,,,1926-09-25,11,,,Q2458227,Cabinet of Canada,,,,,,,Q171914,12th Canadian Ministry,Q187583,14th Canadian Ministry
-,Q187583,14th Canadian Ministry,1926-09-25,11,,,1930-08-07,11,,,Q2458227,Cabinet of Canada,,,,,,,Q175401,13th Canadian Ministry,Q191351,15th Canadian Ministry
-,Q191351,15th Canadian Ministry,1930-08-07,11,,,1935-10-23,11,,,Q2458227,Cabinet of Canada,,,,,,,Q187583,14th Canadian Ministry,Q194658,16th Canadian Ministry
-,Q194658,16th Canadian Ministry,1935-10-23,11,,,1948-11-15,11,,,Q2458227,Cabinet of Canada,,,,,,,Q191351,15th Canadian Ministry,Q197433,17th Canadian Ministry
-,Q197433,17th Canadian Ministry,1948-11-15,11,,,1957-06-21,11,,,Q2458227,Cabinet of Canada,,,,,,,Q194658,16th Canadian Ministry,Q200217,18th Canadian Ministry
-,Q200217,18th Canadian Ministry,1957-06-21,11,,,1963-04-22,11,,,Q2458227,Cabinet of Canada,,,,,,,Q197433,17th Canadian Ministry,Q204977,19th Canadian Ministry
-,Q204977,19th Canadian Ministry,1963-04-22,11,,,1968-04-20,11,,,Q2458227,Cabinet of Canada,,,,,,,Q200217,18th Canadian Ministry,Q210979,20th Canadian Ministry
-,Q210979,20th Canadian Ministry,1968-04-20,11,,,1979-06-04,11,,,Q2458227,Cabinet of Canada,,,,,,,Q204977,19th Canadian Ministry,Q213175,21st Canadian Ministry
-,Q213175,21st Canadian Ministry,1979-06-04,11,,,1980-03-03,11,,,Q2458227,Cabinet of Canada,,,,,,,Q210979,20th Canadian Ministry,Q214332,22nd Canadian Ministry
-,Q214332,22nd Canadian Ministry,1980-03-03,11,,,1984-06-30,11,,,Q2458227,Cabinet of Canada,,,,,,,Q213175,21st Canadian Ministry,Q215593,23rd Canadian Ministry
-,Q215593,23rd Canadian Ministry,1984-06-30,11,,,1984-09-17,11,,,Q2458227,Cabinet of Canada,,,,,,,Q214332,22nd Canadian Ministry,Q177881,24th Canadian Ministry
-,Q177881,24th Canadian Ministry,1984-09-17,11,,,1993-06-25,11,,,Q2458227,Cabinet of Canada,,,,,,,Q215593,23rd Canadian Ministry,Q217582,25th Canadian Ministry
-,Q217582,25th Canadian Ministry,1993-06-25,11,,,1993-11-04,11,,,Q2458227,Cabinet of Canada,,,,,,,Q177881,24th Canadian Ministry,Q219051,26th Canadian Ministry
-,Q219051,26th Canadian Ministry,1993-11-04,11,,,2003-12-12,11,,,Q15284625,cabinet term,,,,,Q219654,27th Canadian Ministry,Q217582,25th Canadian Ministry,Q219654,27th Canadian Ministry
-,Q219051,26th Canadian Ministry,1993-11-04,11,,,2003-12-12,11,,,Q2458227,Cabinet of Canada,,,,,Q219654,27th Canadian Ministry,Q217582,25th Canadian Ministry,Q219654,27th Canadian Ministry
-,Q219654,27th Canadian Ministry,2003-12-12,11,,,2006-02-06,11,,,Q15284625,cabinet term,,,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry
-,Q219654,27th Canadian Ministry,2003-12-12,11,,,2006-02-06,11,,,Q2458227,Cabinet of Canada,,,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry
-,Q220542,28th Canadian Ministry,2006-02-06,11,,,2015-11-04,11,,,Q2458227,Cabinet of Canada,,,Q219654,27th Canadian Ministry,Q21188948,29th Canadian Ministry,Q219654,27th Canadian Ministry,Q21188948,29th Canadian Ministry
-29,Q21188948,29th Canadian Ministry,2015-11-04,11,2015-11-04,11,,,,,Q2458227,Cabinet of Canada,,,Q220542,28th Canadian Ministry,,,Q220542,28th Canadian Ministry,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q162832,1st Canadian Ministry,1867-07-01,11,,,1873-11-05,11,,,,,,,,,Q210187,2nd Canadian Ministry
+,Q210187,2nd Canadian Ministry,1873-11-07,11,,,1878-10-08,11,,,,,,,Q162832,1st Canadian Ministry,Q223319,3rd Canadian Ministry
+,Q223319,3rd Canadian Ministry,1878-10-17,11,,,1891-06-06,11,,,,,,,Q210187,2nd Canadian Ministry,Q230732,4th Canadian Ministry
+,Q230732,4th Canadian Ministry,1891-06-16,11,,,1892-11-24,11,,,,,,,Q223319,3rd Canadian Ministry,Q239654,5th Canadian Ministry
+,Q239654,5th Canadian Ministry,1892-12-05,11,,,1894-12-12,11,,,,,,,Q230732,4th Canadian Ministry,Q246007,6th Canadian Ministry
+,Q246007,6th Canadian Ministry,1894-12-21,11,,,1896-04-27,11,,,,,,,Q239654,5th Canadian Ministry,Q260397,7th Canadian Ministry
+,Q260397,7th Canadian Ministry,1896-05-01,11,,,1896-07-08,11,,,,,,,Q246007,6th Canadian Ministry,Q270592,8th Canadian Ministry
+,Q270592,8th Canadian Ministry,1896-07-11,11,,,1911-10-06,11,,,,,,,Q260397,7th Canadian Ministry,Q202227,9th Canadian Ministry
+,Q202227,9th Canadian Ministry,1911-10-10,11,,,1917-10-11,11,,,,,,,Q270592,8th Canadian Ministry,Q164303,10th Canadian Ministry
+,Q164303,10th Canadian Ministry,1917-10-12,11,,,1920-07-10,11,,,,,,,Q202227,9th Canadian Ministry,Q169774,11th Canadian Ministry
+,Q169774,11th Canadian Ministry,1920-07-10,11,,,1921-12-29,11,,,,,,,Q164303,10th Canadian Ministry,Q171914,12th Canadian Ministry
+,Q171914,12th Canadian Ministry,1921-12-29,11,,,1926-06-28,11,,,,,,,Q169774,11th Canadian Ministry,Q175401,13th Canadian Ministry
+,Q175401,13th Canadian Ministry,1926-06-29,11,,,1926-09-25,11,,,,,,,Q171914,12th Canadian Ministry,Q187583,14th Canadian Ministry
+,Q187583,14th Canadian Ministry,1926-09-25,11,,,1930-08-07,11,,,,,,,Q175401,13th Canadian Ministry,Q191351,15th Canadian Ministry
+,Q191351,15th Canadian Ministry,1930-08-07,11,,,1935-10-23,11,,,,,,,Q187583,14th Canadian Ministry,Q194658,16th Canadian Ministry
+,Q194658,16th Canadian Ministry,1935-10-23,11,,,1948-11-15,11,,,,,,,Q191351,15th Canadian Ministry,Q197433,17th Canadian Ministry
+,Q197433,17th Canadian Ministry,1948-11-15,11,,,1957-06-21,11,,,,,,,Q194658,16th Canadian Ministry,Q200217,18th Canadian Ministry
+,Q200217,18th Canadian Ministry,1957-06-21,11,,,1963-04-22,11,,,,,,,Q197433,17th Canadian Ministry,Q204977,19th Canadian Ministry
+,Q204977,19th Canadian Ministry,1963-04-22,11,,,1968-04-20,11,,,,,,,Q200217,18th Canadian Ministry,Q210979,20th Canadian Ministry
+,Q210979,20th Canadian Ministry,1968-04-20,11,,,1979-06-04,11,,,,,,,Q204977,19th Canadian Ministry,Q213175,21st Canadian Ministry
+,Q213175,21st Canadian Ministry,1979-06-04,11,,,1980-03-03,11,,,,,,,Q210979,20th Canadian Ministry,Q214332,22nd Canadian Ministry
+,Q214332,22nd Canadian Ministry,1980-03-03,11,,,1984-06-30,11,,,,,,,Q213175,21st Canadian Ministry,Q215593,23rd Canadian Ministry
+,Q215593,23rd Canadian Ministry,1984-06-30,11,,,1984-09-17,11,,,,,,,Q214332,22nd Canadian Ministry,Q177881,24th Canadian Ministry
+,Q177881,24th Canadian Ministry,1984-09-17,11,,,1993-06-25,11,,,,,,,Q215593,23rd Canadian Ministry,Q217582,25th Canadian Ministry
+,Q217582,25th Canadian Ministry,1993-06-25,11,,,1993-11-04,11,,,,,,,Q177881,24th Canadian Ministry,Q219051,26th Canadian Ministry
+,Q219051,26th Canadian Ministry,1993-11-04,11,,,2003-12-12,11,,,,,Q219654,27th Canadian Ministry,Q217582,25th Canadian Ministry,Q219654,27th Canadian Ministry
+,Q219654,27th Canadian Ministry,2003-12-12,11,,,2006-02-06,11,,,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry,Q219051,26th Canadian Ministry,Q220542,28th Canadian Ministry
+,Q220542,28th Canadian Ministry,2006-02-06,11,,,2015-11-04,11,,,Q219654,27th Canadian Ministry,Q21188948,29th Canadian Ministry,Q219654,27th Canadian Ministry,Q21188948,29th Canadian Ministry
+29,Q21188948,29th Canadian Ministry,2015-11-04,11,2015-11-04,11,,,,,Q220542,28th Canadian Ministry,,,Q220542,28th Canadian Ministry,,

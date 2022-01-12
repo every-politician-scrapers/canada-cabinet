@@ -39,7 +39,6 @@
                   "page": "premier of Alberta"
                 },
                 {
-                  "text": "United Conservative Party (UCP)",
                   "type": "internal",
                   "page": "United Conservative Party"
                 }
@@ -51,10 +50,10 @@
               }
             },
             {
-              "text": "He was the last leader of the Alberta Progressive Conservative (PC) Party before the party's merger with the Wildrose Party and subsequent dissolution later that year.",
+              "text": "He was the last leader of the Alberta Progressive Conservative Party (PC Party) before the party merged with the Wildrose Party to form the UCP.",
               "links": [
                 {
-                  "text": "Alberta Progressive Conservative (PC) Party",
+                  "text": "Alberta Progressive Conservative Party",
                   "type": "internal",
                   "page": "Progressive Conservative Association of Alberta"
                 },
@@ -65,44 +64,7 @@
               ]
             },
             {
-              "text": "He was elected the Member of the Legislative Assembly (MLA) for Calgary-Lougheed in a by-election held on December 14, 2017.",
-              "links": [
-                {
-                  "text": "Member of the Legislative Assembly (MLA)",
-                  "type": "internal",
-                  "page": "Member of the Legislative Assembly"
-                },
-                {
-                  "text": "Calgary-Lougheed",
-                  "type": "internal",
-                  "page": "Calgary Lougheed"
-                },
-                {
-                  "text": "by-election",
-                  "type": "internal",
-                  "page": "by-election"
-                }
-              ]
-            },
-            {
-              "text": "Prior to entering Albertan provincial politics, Kenney represented the federal riding of Calgary Midnapore in the House of Commons of Canada from 1997 until 2016 (previously a single riding known as Calgary Southeast until 2015).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Calgary Midnapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "House of Commons of Canada"
-                },
-                {
-                  "type": "internal",
-                  "page": "Calgary Southeast"
-                }
-              ]
-            },
-            {
-              "text": "He served in various cabinet posts under Prime Minister Stephen Harper from 2006 to 2015.",
+              "text": "Prior to entering Alberta provincial politics, Kenney served in various cabinet posts under Prime Minister Stephen Harper from 2006 to 2015.",
               "links": [
                 {
                   "text": "Prime Minister",
@@ -166,8 +128,13 @@
               ]
             },
             {
-              "text": "He was elected to the House of Commons in the 1997 federal election for the Reform Party.",
+              "text": "Kenney was elected to the House of Commons in the 1997 federal election for the Reform Party.",
               "links": [
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
                 {
                   "text": "1997 federal election",
                   "type": "internal",
@@ -181,7 +148,7 @@
               ]
             },
             {
-              "text": "In 2000, he was re-elected as a Canadian Alliance candidate and then was re-elected five times as a candidate for the Conservative Party of Canada.",
+              "text": "In 2000, he was reelected as a Canadian Alliance candidate and then was reelected five times as a candidate for the Conservative Party of Canada.",
               "links": [
                 {
                   "text": "2000",
@@ -218,7 +185,7 @@
               ]
             },
             {
-              "text": "On January 4, 2007, he was sworn into the Privy Council as the secretary of state for multiculturalism and Canadian identity.",
+              "text": "In January 2007, he was sworn into the Privy Council as the secretary of state for multiculturalism and Canadian identity.",
               "links": [
                 {
                   "text": "Privy Council",
@@ -228,7 +195,7 @@
               ]
             },
             {
-              "text": "Kenney held the post of minister for citizenship, immigration and multiculturalism from October 30, 2008, to July 15, 2013, when he became minister of employment and social development and minister for multiculturalism.",
+              "text": "Kenney held the post of minister for citizenship, immigration and multiculturalism from October 2008, to July 2013, when he became minister of employment and social development and minister for multiculturalism.",
               "links": [
                 {
                   "text": "minister for citizenship, immigration and multiculturalism",
@@ -243,7 +210,7 @@
               ]
             },
             {
-              "text": "On February 9, 2015, he was named minister of national defence.",
+              "text": "In February 2015, he was named minister of national defence.",
               "links": [
                 {
                   "text": "minister of national defence",
@@ -264,10 +231,6 @@
                   "text": "October 2015",
                   "type": "internal",
                   "page": "2015 Canadian federal election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stephen Harper"
                 }
               ]
             }
@@ -276,7 +239,7 @@
         {
           "sentences": [
             {
-              "text": "On July 6, 2016, he announced his intention to run for the leadership of the Alberta PCs in that party's 2017 leadership election.",
+              "text": "In July 2016, Kenney announced his intention to run for the leadership of the Alberta PCs in that party's 2017 leadership election.",
               "links": [
                 {
                   "text": "2017 leadership election",
@@ -292,7 +255,10 @@
               "text": "He was elected party leader on March 18, 2017, on a platform of merging with the Wildrose Party."
             },
             {
-              "text": "He served as leader until the merger was effected on July 24, 2017, and was elected United Conservative Party leader on October 28, 2017.",
+              "text": "He served as leader until the merger was effected on July 24, 2017."
+            },
+            {
+              "text": "Kenney was then elected United Conservative Party leader on October 28, 2017.",
               "links": [
                 {
                   "text": "October 28, 2017",
@@ -306,7 +272,7 @@
         {
           "sentences": [
             {
-              "text": "On April 16, 2019, Kenney successfully led the United Conservative Party to a majority government in the 2019 Alberta general election, defeating the previous government led by Rachel Notley of the New Democratic Party with 63 seats and 54.88% of the popular vote and securing only the fifth change of government in Alberta's political history.",
+              "text": "On April 16, 2019, Kenney successfully led the United Conservative Party to a majority government in the 2019 Alberta general election, defeating the previous government led by Rachel Notley of the New Democratic Party.",
               "links": [
                 {
                   "text": "majority government",
@@ -321,23 +287,16 @@
                 {
                   "type": "internal",
                   "page": "Rachel Notley"
+                },
+                {
+                  "text": "New Democratic Party",
+                  "type": "internal",
+                  "page": "Alberta New Democratic Party"
                 }
               ]
             },
             {
-              "text": "Kenney's premiership began on April 30, 2019, as he was sworn in as the 18th premier of Alberta, forming the 30th Alberta Legislature.",
-              "links": [
-                {
-                  "text": "premiership",
-                  "type": "internal",
-                  "page": "premiership of Jason Kenney"
-                },
-                {
-                  "text": "30th Alberta Legislature",
-                  "type": "internal",
-                  "page": "30th Alberta Legislature"
-                }
-              ]
+              "text": "Two weeks later, Kenney was sworn in as premier."
             },
             {
               "text": "In 2021, Kenney has come under criticism for his handling of the COVID-19 pandemic from members within the UCP and the general public, triggering a leadership review scheduled for April 2022.",

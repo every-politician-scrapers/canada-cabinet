@@ -111,6 +111,14 @@
           "month": "7",
           "day": "31",
           "template": "birth date and age"
+        },
+        {
+          "date": "January 2021",
+          "template": "fact"
+        },
+        {
+          "date": "January 2021",
+          "template": "fact"
         }
       ],
       "infoboxes": [

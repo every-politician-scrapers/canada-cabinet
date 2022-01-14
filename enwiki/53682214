@@ -191,10 +191,9 @@
             "text": "December 16, 1969"
           },
           "birth_place": {
-            "text": "Hong Kong",
+            "text": "British Hong Kong",
             "links": [
               {
-                "text": "Hong Kong",
                 "type": "internal",
                 "page": "British Hong Kong"
               }

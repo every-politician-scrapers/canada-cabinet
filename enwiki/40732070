@@ -113,6 +113,20 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Montreal, Quebec, Joly graduated from Université de Montréal and the University of Oxford,",
+              "links": [
+                {
+                  "text": "Montreal, Quebec",
+                  "type": "internal",
+                  "page": "Montreal"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [

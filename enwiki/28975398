@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Blaine Myron Higgs (born March 1, 1954) is a Canadian politician who is the 34th and current premier of New Brunswick since 2018 and leader of the New Brunswick Progressive Conservative Party since 2016.",
+              "text": "Blaine Myron Higgs (born March 1, 1954) is a Canadian politician who is the 34th and current premier of New Brunswick since 2018 and leader of the New Brunswick Progressive Conservative Party (PC Party) since 2016.",
               "links": [
                 {
                   "text": "Canadian",
@@ -42,24 +42,37 @@
                   "Blaine Myron Higgs"
                 ]
               }
-            },
-            {
-              "text": "Higgs was re-elected to a majority government in the 2020 provincial election.",
-              "links": [
-                {
-                  "text": "2020 provincial election",
-                  "type": "internal",
-                  "page": "2020 New Brunswick general election"
-                }
-              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Higgs ran for the leadership of the New Brunswick Confederation of Regions Party in 1989.",
+              "text": "Higgs graduated from the University of New Brunswick as an engineer.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "University of New Brunswick"
+                }
+              ]
+            },
+            {
+              "text": "He then worked for 33 years for Irving Oil.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irving Oil"
+                }
+              ]
+            },
+            {
+              "text": "Higgs ran for the leadership of the anti-bilingual New Brunswick Confederation of Regions Party in 1989.",
+              "links": [
+                {
+                  "text": "bilingual",
+                  "type": "internal",
+                  "page": "Official bilingualism in Canada"
+                },
                 {
                   "type": "internal",
                   "page": "New Brunswick Confederation of Regions Party"
@@ -67,7 +80,7 @@
               ]
             },
             {
-              "text": "Higgs was first elected to the legislature in the 2010 provincial election and served as Minister of Finance from 2010 to 2014 in the government of David Alward.",
+              "text": "Higgs was first elected to the legislature in the 2010 provincial election and served as minister of finance from 2010 to 2014 in the government of David Alward.",
               "links": [
                 {
                   "text": "2010 provincial election",
@@ -77,6 +90,36 @@
                 {
                   "type": "internal",
                   "page": "David Alward"
+                }
+              ]
+            },
+            {
+              "text": "In the 2018 provincial election, Higgs narrowly carried the PCs to a minority government, despite losing the popular vote.",
+              "links": [
+                {
+                  "text": "2018 provincial election",
+                  "type": "internal",
+                  "page": "2018 New Brunswick general election"
+                },
+                {
+                  "text": "minority government",
+                  "type": "internal",
+                  "page": "minority government"
+                }
+              ]
+            },
+            {
+              "text": "Higgs and the PCs were re-elected in the 2020 provincial election, though this time with a majority government.",
+              "links": [
+                {
+                  "text": "2020 provincial election",
+                  "type": "internal",
+                  "page": "2020 New Brunswick general election"
+                },
+                {
+                  "text": "majority government",
+                  "type": "internal",
+                  "page": "majority government"
                 }
               ]
             }

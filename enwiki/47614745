@@ -68,6 +68,40 @@
                   "page": "House of Commons of Canada"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Port Colborne, Onterio, Lametti graduated from University of Toronto and studied law at McGill University, Yale University, and Exeter College, Oxford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Port Colborne"
+                },
+                {
+                  "text": "Onterio",
+                  "type": "internal",
+                  "page": "Ontario"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Toronto"
+                },
+                {
+                  "type": "internal",
+                  "page": "McGill University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yale University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Exeter College, Oxford"
+                }
+              ]
             },
             {
               "text": "Prior to entering politics, he was a professor of law at McGill University, a member of the Institute of Comparative Law, and a founding member of the Centre for Intellectual Property Policy.",

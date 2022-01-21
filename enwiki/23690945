@@ -421,6 +421,15 @@
           },
           "signature": {
             "text": "Mary May Simon Signature.png"
+          },
+          "residence": {
+            "text": "Rideau Hall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rideau Hall"
+              }
+            ]
           }
         }
       ]

@@ -605,16 +605,11 @@
             ]
           },
           "residence": {
-            "text": "Summerhill, Toronto, Ontario, Canada",
+            "text": "Summerhill, Toronto, Ontario",
             "links": [
               {
-                "text": "Summerhill",
                 "type": "internal",
                 "page": "Summerhill, Toronto"
-              },
-              {
-                "type": "internal",
-                "page": "Toronto"
               },
               {
                 "type": "internal",

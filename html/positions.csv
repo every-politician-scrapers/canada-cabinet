@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q14931511,monarch of Canada,Q16,Q16,,Q2558955,,,,,
-Q390776,Governor General of Canada,Q16,Q16,,Q1197847,1608,,,,Governor General of Canada
+Q390776,Governor General of Canada,Q16,Q16,,Q1197847,1867,,,,Governor General of Canada
 Q839078,Prime Minister of Canada,Q16,Q16,Q3556884,Q927338,1867-07-01,,,,Prime Minister of Canada
 Q3556884,Deputy Prime Minister of Canada,Q16,Q16,,,1977-09-16,,,,Deputy Prime Minister of Canada
 Q4294939,Minister of Agriculture and Agri-Food,Q16,Q16,,,1995-01-12,,,,Minister of Agriculture and Agri-Food

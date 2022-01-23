@@ -181,11 +181,15 @@
             "text": "November 2, 2021"
           },
           "deputy": {
-            "text": "Rochelle Squires Kelvin Goertzen",
+            "text": "Rochelle Squires Kelvin Goertzen Cliff Cullen",
             "links": [
               {
                 "type": "internal",
                 "page": "Rochelle Squires"
+              },
+              {
+                "type": "internal",
+                "page": "Cliff Cullen"
               }
             ]
           },

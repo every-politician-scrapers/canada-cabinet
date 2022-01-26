@@ -211,16 +211,24 @@
             "text": "Douglas Robert Ford 2018.jpg"
           },
           "alt": {
-            "text": "Ford in 2018 wearing a navy blue suit and a poppy."
+            "text": "Ford in 2018 wearing a navy blue suit and a poppy"
           },
           "caption": {
             "text": "Ford in 2018"
           },
           "office": {
-            "text": "Premier of Ontario"
-          },
-          "order": {
-            "text": "26th"
+            "text": "26th Premier of Ontario\nMinister of Intergovernmental Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of Ontario"
+              },
+              {
+                "text": "Minister of Intergovernmental Affairs",
+                "type": "internal",
+                "page": "Ministry of Intergovernmental Affairs (Ontario)"
+              }
+            ]
           },
           "term_start": {
             "text": "June 29, 2018"
@@ -262,30 +270,6 @@
             ]
           },
           "office1": {
-            "text": "Minister of Intergovernmental Affairs",
-            "links": [
-              {
-                "text": "Minister of Intergovernmental Affairs",
-                "type": "internal",
-                "page": "Ministry of Intergovernmental Affairs (Ontario)"
-              }
-            ]
-          },
-          "premier1": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "term_start1": {
-            "text": "June 29, 2018"
-          },
-          "predecessor1": {
-            "text": "Kathleen Wynne"
-          },
-          "office2": {
             "text": "Leader of the Progressive Conservative Party of Ontario",
             "links": [
               {
@@ -294,10 +278,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start1": {
             "text": "March 10, 2018"
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "Patrick Brown",
             "links": [
               {
@@ -307,10 +291,10 @@
               }
             ]
           },
-          "parliament3": {
+          "parliament2": {
             "text": "Ontario Provincial"
           },
-          "riding3": {
+          "riding2": {
             "text": "Etobicoke North",
             "links": [
               {
@@ -320,10 +304,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start2": {
             "text": "June 7, 2018"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Shafiq Qaadri",
             "links": [
               {
@@ -332,7 +316,7 @@
               }
             ]
           },
-          "office4": {
+          "office3": {
             "text": "Toronto City Councillor\nfor Ward 2 Etobicoke North",
             "links": [
               {
@@ -346,13 +330,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start3": {
             "text": "December 1, 2010"
           },
-          "term_end4": {
+          "term_end3": {
             "text": "November 30, 2014"
           },
-          "predecessor4": {
+          "predecessor3": {
             "text": "Rob Ford",
             "links": [
               {
@@ -361,7 +345,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor3": {
             "text": "Rob Ford"
           },
           "birth_name": {

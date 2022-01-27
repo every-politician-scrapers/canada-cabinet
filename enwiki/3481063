@@ -161,6 +161,9 @@
           "native_name": {
             "text": "عمر الغبرا"
           },
+          "caption": {
+            "text": "Alghabra in 2011"
+          },
           "office": {
             "text": "Minister of Transport",
             "links": [
@@ -258,7 +261,7 @@
             "text": "Al-Khobar, Saudi Arabia",
             "links": [
               {
-                "text": "Al-Khobar, Saudi Arabia",
+                "text": "Al-Khobar",
                 "type": "internal",
                 "page": "Khobar"
               }

@@ -120,16 +120,6 @@
           "template": "post-nominals"
         },
         {
-          "image": "BBQ avec Omar Alghabra.jpg",
-          "bsize": "800",
-          "cwidth": "210",
-          "cheight": "270",
-          "otop": "80",
-          "oleft": "260",
-          "location": "center",
-          "template": "css image crop"
-        },
-        {
           "year": "1969",
           "month": "10",
           "day": "24",
@@ -160,6 +150,9 @@
           },
           "native_name": {
             "text": "عمر الغبرا"
+          },
+          "image": {
+            "text": "BBQ avec Omar Alghabra (cropped).jpg"
           },
           "caption": {
             "text": "Alghabra in 2011"

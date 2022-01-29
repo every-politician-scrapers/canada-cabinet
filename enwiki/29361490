@@ -70,6 +70,11 @@
               "text": "With his brother Randy, Ford co-owns Deco Labels and Tags, a printing business operating in Canada and the United States that was founded by their father, Doug Ford Sr., who served as a Member of Provincial Parliament (MPP) from 1995 to 1999.",
               "links": [
                 {
+                  "text": "Deco Labels and Tags",
+                  "type": "internal",
+                  "page": "Deco Labels"
+                },
+                {
                   "type": "internal",
                   "page": "Doug Ford Sr."
                 },
@@ -211,24 +216,16 @@
             "text": "Douglas Robert Ford 2018.jpg"
           },
           "alt": {
-            "text": "Ford in 2018 wearing a navy blue suit and a poppy"
+            "text": "Ford in 2018 wearing a navy blue suit and a poppy."
           },
           "caption": {
             "text": "Ford in 2018"
           },
           "office": {
-            "text": "26th Premier of Ontario\nMinister of Intergovernmental Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premier of Ontario"
-              },
-              {
-                "text": "Minister of Intergovernmental Affairs",
-                "type": "internal",
-                "page": "Ministry of Intergovernmental Affairs (Ontario)"
-              }
-            ]
+            "text": "Premier of Ontario"
+          },
+          "order": {
+            "text": "26th"
           },
           "term_start": {
             "text": "June 29, 2018"
@@ -270,6 +267,30 @@
             ]
           },
           "office1": {
+            "text": "Minister of Intergovernmental Affairs",
+            "links": [
+              {
+                "text": "Minister of Intergovernmental Affairs",
+                "type": "internal",
+                "page": "Ministry of Intergovernmental Affairs (Ontario)"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Himself",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "term_start1": {
+            "text": "June 29, 2018"
+          },
+          "predecessor1": {
+            "text": "Kathleen Wynne"
+          },
+          "office2": {
             "text": "Leader of the Progressive Conservative Party of Ontario",
             "links": [
               {
@@ -278,10 +299,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "March 10, 2018"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Patrick Brown",
             "links": [
               {
@@ -291,10 +312,10 @@
               }
             ]
           },
-          "parliament2": {
+          "parliament3": {
             "text": "Ontario Provincial"
           },
-          "riding2": {
+          "riding3": {
             "text": "Etobicoke North",
             "links": [
               {
@@ -304,10 +325,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "June 7, 2018"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Shafiq Qaadri",
             "links": [
               {
@@ -316,7 +337,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Toronto City Councillor\nfor Ward 2 Etobicoke North",
             "links": [
               {
@@ -330,13 +351,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "December 1, 2010"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "November 30, 2014"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Rob Ford",
             "links": [
               {
@@ -345,7 +366,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Rob Ford"
           },
           "birth_name": {

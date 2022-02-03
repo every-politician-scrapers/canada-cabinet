@@ -74,14 +74,13 @@
         {
           "sentences": [
             {
-              "text": "Born in Port Colborne, Onterio, Lametti graduated from University of Toronto and studied law at McGill University, Yale University, and Exeter College, Oxford.",
+              "text": "Born in Port Colborne, Ontario, Lametti graduated from University of Toronto and studied law at McGill University, Yale University, and Exeter College, Oxford.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Port Colborne"
                 },
                 {
-                  "text": "Onterio",
                   "type": "internal",
                   "page": "Ontario"
                 },

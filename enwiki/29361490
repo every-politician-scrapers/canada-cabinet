@@ -218,24 +218,12 @@
           "alt": {
             "text": "Ford in 2018 wearing a navy blue suit and a poppy."
           },
-          "caption": {
-            "text": "Ford in 2018"
-          },
           "office": {
-            "text": "Premier of Ontario"
-          },
-          "order": {
-            "text": "26th"
-          },
-          "term_start": {
-            "text": "June 29, 2018"
-          },
-          "predecessor": {
-            "text": "Kathleen Wynne",
+            "text": "26th Premier of Ontario",
             "links": [
               {
                 "type": "internal",
-                "page": "Kathleen Wynne"
+                "page": "Premier of Ontario"
               }
             ]
           },
@@ -254,6 +242,18 @@
               {
                 "type": "internal",
                 "page": "Elizabeth Dowdeswell"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 29, 2018"
+          },
+          "predecessor": {
+            "text": "Kathleen Wynne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kathleen Wynne"
               }
             ]
           },
@@ -338,16 +338,11 @@
             ]
           },
           "office4": {
-            "text": "Toronto City Councillor\nfor Ward 2 Etobicoke North",
+            "text": "Member of the Toronto City Council for Ward 2 Etobicoke North",
             "links": [
               {
                 "type": "internal",
-                "page": "Toronto City Councillor"
-              },
-              {
-                "text": "Ward 2 Etobicoke North",
-                "type": "internal",
-                "page": "Ward 1 Etobicoke North"
+                "page": "Toronto City Council"
               }
             ]
           },
@@ -376,7 +371,7 @@
             "text": "November 20, 1964"
           },
           "birth_place": {
-            "text": "Etobicoke, Ontario, Canada",
+            "text": "Etobicoke, Canada",
             "links": [
               {
                 "type": "internal",
@@ -384,25 +379,9 @@
               },
               {
                 "type": "internal",
-                "page": "Ontario"
+                "page": "Canada"
               }
             ]
-          },
-          "residence": {
-            "text": "Princess Gardens, Etobicoke, Toronto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Princess Gardens"
-              },
-              {
-                "type": "internal",
-                "page": "Etobicoke"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Canadian"
           },
           "party": {
             "text": "Progressive Conservative",
@@ -414,23 +393,11 @@
               }
             ]
           },
-          "occupation": {
-            "text": "Businessman · politician"
-          },
           "spouse": {
             "text": "Karla Middlebrook"
           },
-          "alma_mater": {
-            "text": "Humber College (no degree)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Humber College"
-              }
-            ]
-          },
           "children": {
-            "text": "4 (including Krista)",
+            "text": "4, including Krista",
             "links": [
               {
                 "text": "Krista",
@@ -439,21 +406,13 @@
               }
             ]
           },
-          "mother": {
-            "text": "Ruth Diane Campbell"
-          },
-          "father": {
-            "text": "Doug Ford Sr.",
+          "relatives": {
+            "text": "Doug Ford Sr. (father) Rob Ford (brother) Michael Ford (nephew)",
             "links": [
               {
                 "type": "internal",
                 "page": "Doug Ford Sr."
-              }
-            ]
-          },
-          "relations": {
-            "text": "Rob Ford (brother)\n\nMichael Ford (nephew)",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Rob Ford"
@@ -465,8 +424,17 @@
               }
             ]
           },
+          "education": {
+            "text": "Humber College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Humber College"
+              }
+            ]
+          },
           "website": {
-            "text": "https://www.fordmpp.ca"
+            "text": "Official website"
           }
         }
       ]

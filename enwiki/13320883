@@ -263,11 +263,22 @@
           "term_start1": {
             "text": "March 18, 2019"
           },
+          "term_end1": {
+            "text": "October 26, 2021"
+          },
           "predecessor1": {
             "text": "Position created",
             "formatting": {
               "italic": [
                 "Position created"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "Position abolished",
+            "formatting": {
+              "italic": [
+                "Position abolished"
               ]
             }
           },

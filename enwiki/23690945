@@ -31,11 +31,12 @@
         {
           "sentences": [
             {
-              "text": "Mary Jeannie May Simon (Ningiukudluk; born August 21, 1947) is a Canadian civil servant, diplomat, and former broadcaster who has served as the 30th Governor General of Canada since July 26, 2021.",
+              "text": "Mary Jeannie May Simon (Ningiukudluk; born August 21, 1947) is a Canadian civil servant, diplomat, and former broadcaster who has served as the 30th governor general of Canada since July 26, 2021.",
               "links": [
                 {
+                  "text": "governor general of Canada",
                   "type": "internal",
-                  "page": "Governor General of Canada"
+                  "page": "governor general of Canada"
                 }
               ],
               "formatting": {
@@ -61,9 +62,8 @@
               "text": "She briefly worked as a producer and announcer for the CBC Northern Service in the 1970s before subsequently entering public service, serving on the board of the Northern Quebec Inuit Association and playing a key role in the Charlottetown Accord negotiations.",
               "links": [
                 {
-                  "text": "CBC Northern Service",
                   "type": "internal",
-                  "page": "CBC North"
+                  "page": "CBC Northern Service"
                 },
                 {
                   "type": "internal",
@@ -179,16 +179,15 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency the Right Honourable",
+            "text": "Her Excellency The Right Honourable",
             "links": [
               {
                 "type": "internal",
                 "page": "Her Excellency"
               },
               {
-                "text": "the Right Honourable",
                 "type": "internal",
-                "page": "the Right Honourable"
+                "page": "The Right Honourable"
               }
             ]
           },

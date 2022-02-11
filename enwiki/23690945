@@ -179,15 +179,16 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency The Right Honourable",
+            "text": "Her Excellency the Right Honourable",
             "links": [
               {
                 "type": "internal",
                 "page": "Her Excellency"
               },
               {
+                "text": "the Right Honourable",
                 "type": "internal",
-                "page": "The Right Honourable"
+                "page": "the Right Honourable"
               }
             ]
           },

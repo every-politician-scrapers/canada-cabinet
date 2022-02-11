@@ -226,7 +226,13 @@
             ]
           },
           "successor2": {
-            "text": "TBD"
+            "text": "Ruby Sahota",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ruby Sahota"
+              }
+            ]
           },
           "term_start3": {
             "text": "November 20, 2015"

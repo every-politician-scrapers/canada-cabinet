@@ -267,7 +267,7 @@
             ]
           },
           "image": {
-            "text": "John Horgan 2015.jpg"
+            "text": "File:Anne Marie Sam and John Horgan (33923774170) (cropped).jpg"
           },
           "name": {
             "text": "John Horgan"
@@ -396,6 +396,32 @@
           "predecessor2": {
             "text": "Adrian Dix"
           },
+          "office3": {
+            "text": "Member of the British Columbia Legislative Assembly\nfor Langford-Juan de Fuca\n(Juan de Fuca; 2009–2017)\n(Malahat-Juan de Fuca; 2005–2009)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British Columbia Legislative Assembly"
+              },
+              {
+                "type": "internal",
+                "page": "Langford-Juan de Fuca"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "May 17, 2005"
+          },
+          "predecessor3": {
+            "text": "Brian Kerr",
+            "links": [
+              {
+                "text": "Brian Kerr",
+                "type": "internal",
+                "page": "Brian Kerr (politician)"
+              }
+            ]
+          },
           "party": {
             "text": "British Columbia New Democratic Party",
             "links": [
@@ -432,7 +458,7 @@
             "number": 2
           },
           "caption": {
-            "text": "Horgan in 2015"
+            "text": "Horgan in 2017"
           }
         }
       ]

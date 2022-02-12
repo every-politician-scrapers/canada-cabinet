@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Scott Moe (born July 31, 1973) is a Canadian politician serving as the 15th and current premier of Saskatchewan since February 2, 2018.",
+              "text": "Scott Moe is a Canadian politician serving as the 15th and current premier of Saskatchewan since February 2, 2018.",
               "links": [
                 {
                   "text": "Canadian",
@@ -111,10 +111,6 @@
           "month": "7",
           "day": "31",
           "template": "birth date and age"
-        },
-        {
-          "date": "January 2021",
-          "template": "fact"
         },
         {
           "date": "January 2021",

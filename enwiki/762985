@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Mark Holland (born October 16, 1974) is a Canadian politician and current Leader of the Government in the House of Commons.",
+              "text": "Mark Holland (born October 16, 1974) is a Canadian politician who serves as the current leader of the Government in the House of Commons.",
               "links": [
                 {
                   "text": "Canadian",
@@ -29,7 +29,7 @@
                   "page": "Canadians"
                 },
                 {
-                  "text": "Leader of the Government in the House of Commons",
+                  "text": "leader of the Government in the House of Commons",
                   "type": "internal",
                   "page": "Leader of the Government in the House of Commons (Canada)"
                 }
@@ -133,14 +133,7 @@
         {
           "country": "CAN",
           "list": [
-            "PC"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "country": "CAN",
-          "list": [
+            "PC",
             "MP"
           ],
           "size": "100%",
@@ -155,7 +148,6 @@
         {
           "country": "CAN",
           "list": [
-            "",
             "PC",
             "MP"
           ],
@@ -177,7 +169,10 @@
             "text": "Mark Holland"
           },
           "image": {
-            "text": "Mark_podium.PNG"
+            "text": "Liberal MP Mark Holland speaks during a news conference in Toronto (cropped).jpg"
+          },
+          "caption": {
+            "text": "Holland in 2011"
           },
           "office": {
             "text": "Leader of the Government in the House of Commons",

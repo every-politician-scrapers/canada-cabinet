@@ -41,7 +41,7 @@
         {
           "sentences": [
             {
-              "text": "Carla Dawn Qualtrough  (born October 15, 1971) is a Canadian politician and former Paralympic swimmer who is the minister of employment, workforce development and disability inclusion.",
+              "text": "Carla Dawn Qualtrough  (born October 15, 1971) is a Canadian politician and former Paralympic swimmer who is the minister of employment, workforce development and disability inclusion since 2019.",
               "links": [
                 {
                   "text": "Paralympic",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "text": "She was first elected as a member of Parliament (MP) in the House of Commons of Canada to represent the federal electoral district of Delta during the 2015 federal election.",
+              "text": "Qualtrough has sat as the member of Parliament (MP) for Delta since she was first elected in 2015, as a member of the Liberal Party.",
               "links": [
                 {
                   "text": "member of Parliament",
@@ -69,41 +69,29 @@
                   "page": "Member of Parliament (Canada)"
                 },
                 {
-                  "type": "internal",
-                  "page": "House of Commons of Canada"
-                },
-                {
                   "text": "Delta",
                   "type": "internal",
                   "page": "Delta (electoral district)"
                 },
                 {
-                  "text": "2015 federal election",
+                  "text": "Liberal Party",
                   "type": "internal",
-                  "page": "2015 Canadian federal election"
+                  "page": "Liberal Party of Canada"
                 }
               ]
             },
             {
-              "text": "Qualtrough was re-elected in 2019 and 2021."
-            },
-            {
-              "text": "Previously she served as minister of public services and procurement and accessibility.",
+              "text": "She served as minister of public services and procurement and accessibility from 2017 to 2019, and minister of sport and persons with disabilities from 2015 to 2017.",
               "links": [
                 {
                   "text": "minister of public services and procurement and accessibility",
                   "type": "internal",
                   "page": "Minister of Public Services and Procurement"
-                }
-              ]
-            },
-            {
-              "text": "She played an interim role as president of the Treasury Board.",
-              "links": [
+                },
                 {
-                  "text": "president of the Treasury Board",
+                  "text": "minister of sport and persons with disabilities",
                   "type": "internal",
-                  "page": "president of the Treasury Board"
+                  "page": "Minister of Sport and Persons with Disabilities"
                 }
               ]
             }

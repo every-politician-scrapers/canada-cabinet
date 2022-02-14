@@ -289,6 +289,16 @@
                   "page": "United Nations Security Council"
                 }
               ]
+            },
+            {
+              "text": "During his third term, he has responded to the Freedom Convoy protests.",
+              "links": [
+                {
+                  "text": "Freedom Convoy protests",
+                  "type": "internal",
+                  "page": "Freedom Convoy 2022"
+                }
+              ]
             }
           ]
         }

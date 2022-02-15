@@ -187,7 +187,7 @@
         {
           "sentences": [
             {
-              "text": "As Prime Minister, major government initiatives he undertook during his first term include legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
+              "text": "As Prime Minister, major government initiatives he undertook during his first term included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
               "links": [
                 {
                   "type": "internal",
@@ -239,7 +239,7 @@
         {
           "sentences": [
             {
-              "text": "Trudeau led the Liberals to consecutive minority governments in the 2019 and 2021 federal elections.",
+              "text": "Trudeau led the Liberals to consecutive minority governments in the 2019 and 2021 federal elections, despite losing the popular vote in both elections.",
               "links": [
                 {
                   "text": "2019",
@@ -291,14 +291,23 @@
               ]
             },
             {
-              "text": "During his third term, he has responded to the Freedom Convoy protests.",
+              "text": "During his third term, he has responded to the Freedom Convoy protests, and invoked the Emergencies Act in response to the demonstrations, the first time the Act has been brought into force since it was enacted in 1988.",
               "links": [
                 {
                   "text": "Freedom Convoy protests",
                   "type": "internal",
                   "page": "Freedom Convoy 2022"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emergencies Act"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Emergencies Act"
+                ]
+              }
             }
           ]
         }
@@ -630,7 +639,7 @@
             "text": "Collège Jean-de-Brébeuf\n\nMcGill University (BA, 1994)\n\nUniversity of British Columbia (BEd, 1998)\n\nÉcole Polytechnique de Montréal (no degree)"
           },
           "salary": {
-            "text": "CA$351,200"
+            "text": "CA$370,200"
           },
           "occupation": {
             "text": "Politician · teacher"

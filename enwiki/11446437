@@ -136,7 +136,7 @@
               ]
             },
             {
-              "text": "She began her career in journalism working in a variety of editorial positions at the Financial Times, The Globe and Mail and Reuters, becoming managing director of the latter.",
+              "text": "She began her career in journalism working in editorial positions at the Financial Times, The Globe and Mail and Reuters, becoming managing director of the latter.",
               "links": [
                 {
                   "type": "internal",
@@ -259,7 +259,7 @@
               ]
             },
             {
-              "text": "She assumed her current role as deputy prime minister following the 2019 election where she also became minister of intergovernmental affairs until 2020, when she was made finance minister.",
+              "text": "She assumed her current role as deputy prime minister following the 2019 election where she also became minister of intergovernmental affairs until 2020, when she was appointed as finance minister.",
               "links": [
                 {
                   "text": "2019 election",
@@ -279,11 +279,11 @@
               ]
             },
             {
-              "text": "Political commentators have given Freeland the informal title of \"Minister of Everything,\"    an honorific previously used for powerful 20th century Liberal cabinet minister C. D. Howe.",
+              "text": "Political commentators have given Freeland the informal title of \"Minister of Everything,\"    an honorific previously used for powerful 20th century Liberal cabinet minister C.D. Howe.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "C. D. Howe"
+                  "page": "C.D. Howe"
                 }
               ]
             },
@@ -300,6 +300,10 @@
         }
       ],
       "templates": [
+        {
+          "small": "yes",
+          "template": "pp-semi-protected"
+        },
         {
           "description": "Canadian politician and journalist (born 1968)",
           "template": "short description"

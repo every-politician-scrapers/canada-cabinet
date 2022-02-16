@@ -75,8 +75,13 @@
               ]
             },
             {
-              "text": "Before entering federal politics, he served as the chief of the Toronto Police Service from 2005 until his retirement in 2015.",
+              "text": "Before entering federal politics, he served as the chief of police with the Toronto Police Service from 2005 until his retirement in 2015.",
               "links": [
+                {
+                  "text": "chief of police",
+                  "type": "internal",
+                  "page": "Toronto Chief of Police"
+                },
                 {
                   "type": "internal",
                   "page": "Toronto Police Service"
@@ -406,8 +411,9 @@
             "text": "Chief of the Toronto Police Service",
             "links": [
               {
+                "text": "Chief of the Toronto Police Service",
                 "type": "internal",
-                "page": "Toronto Police Service"
+                "page": "Toronto Chief of Police"
               }
             ]
           },

@@ -82,21 +82,7 @@
         {
           "sentences": [
             {
-              "text": "Kenney studied philosophy at the University of San Francisco, but returned to Canada without completing his degree.",
-              "links": [
-                {
-                  "text": "philosophy",
-                  "type": "internal",
-                  "page": "philosophy"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of San Francisco"
-                }
-              ]
-            },
-            {
-              "text": "In 1989, he was hired as the first executive director of the Alberta Taxpayers Association before becoming the president and chief executive officer of the Canadian Taxpayers Federation.",
+              "text": "In 1989, Kenney was hired as the first executive director of the Alberta Taxpayers Association before becoming the president and chief executive officer of the Canadian Taxpayers Federation.",
               "links": [
                 {
                   "type": "internal",

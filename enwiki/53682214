@@ -82,6 +82,16 @@
           "template": "post-nominals"
         },
         {
+          "image": "Mary Ng 2019.jpg",
+          "bsize": "400",
+          "cwidth": "150",
+          "cheight": "200",
+          "otop": "40",
+          "oleft": "130",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
           "year": "1969",
           "month": "12",
           "day": "16",
@@ -122,9 +132,6 @@
           },
           "native_name_lang": {
             "text": "zh-hant"
-          },
-          "image": {
-            "text": "Mary Ng 2019.jpg"
           },
           "caption": {
             "text": "Ng in 2019"

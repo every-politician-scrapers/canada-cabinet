@@ -6,11 +6,6 @@
 ---,John de Chastelain,Q3182811,1989-09,1993
 ->,John Rogers Anderson,Q14949491,1993->1993-01,1993->1993-12
 ->,John de Chastelain,Q3182811,1994->1994-01,1995-12
-+++,Joseph Édouard Jean Boyle,Q6170312,1996-01,1996-10-08
-+++,Larry Murray,Q6490856,1996-10-08,1997-09-17
-+++,Maurice Baril,Q604334,1997-09-17,2001-06-28
-+++,Raymond Henault,Q344404,2001-06-28,2005-06-17
-+++,Rick Hillier,Q360390,2005-06-17,2008-07-01
-+++,Walter Natynczyk,Q2420414,2008-07-01,2012-10-29
-+++,Thomas J. Lawson,Q3530771,2012-10-29,2015-07-17
+->,Jean Boyle->Joseph Édouard Jean Boyle,Q6170312,1996-01,1996-10-08
+->,Ray Henault->Raymond Henault,Q344404,2001-06-28,2005-06-17
 ->,Wayne Eyre,Q65658652,2021-02-24,2021-11-25->NULL

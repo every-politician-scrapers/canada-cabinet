@@ -1,9 +1,139 @@
 position,title
 Q843020,justice of the Supreme Court
+Q40236300,ambassador to Afghanistan
+Q40236042,ambassador to Albania
+Q40236271,ambassador to Algeria
+Q40236313,ambassador to Andorra
+Q40236005,ambassador to Angola
+Q40233437,ambassador to Argentina
+Q40236319,ambassador to Armenia
+Q40236125,ambassador to Austria
+Q40236064,ambassador to Azerbaijan
+Q40236355,ambassador to Bahrain
+Q40236069,ambassador to Belarus
+Q29511893,ambassador to Belgium
+Q40236603,ambassador to Benin
+Q40236344,ambassador to Bhutan
+Q40236137,ambassador to Bolivia
+Q40236030,ambassador to Brazil
+Q40236045,ambassador to Bulgaria
+Q40236029,ambassador to Burkina Faso
+Q40236096,ambassador to Burundi
+Q40236293,ambassador to Cambodia
+Q40235976,ambassador to Cameroon
+Q40236021,ambassador to Cape Verde
+Q40235972,ambassador to the Central African Republic
+Q40235981,ambassador to Chad
+Q40231824,ambassador to Chile
 Q40235968,ambassador to China
+Q40236276,ambassador to Colombia
+Q40236091,ambassador to the Comoros
+Q40236529,ambassador to Costa Rica
+Q40236591,ambassador to Croatia
+Q40236026,ambassador to Cuba
+Q40236576,ambassador to the Czech Republic
+Q40236560,ambassador to Côte d'Ivoire
+Q40236195,ambassador to the Democratic Republic of Congo
 Q40235985,ambassador to Denmark
+Q40236243,ambassador to Djibouti
+Q40236024,ambassador to the Dominican Republic
+Q40236386,ambassador to Ecuador
+Q40236032,ambassador to Egypt
+Q40236333,ambassador to El Salvador
+Q40236615,ambassador to Eritrea
+Q40236238,ambassador to Ethiopia
+Q40236232,ambassador to the Federated States of Micronesia
+Q40236549,ambassador to Fiji
 Q27940995,ambassador to France
-Q32208,ambassador to the United States
+Q40236202,ambassador to Gabon
+Q40236052,ambassador to Georgia
+Q40236175,ambassador to Germany
+Q40235989,ambassador to Greece
+Q40236270,ambassador to Guatemala
+Q40236010,ambassador to Guinea
+Q40236016,ambassador to Guinea-Bissau
+Q40235963,ambassador to Haiti
+Q40236537,ambassador to Honduras
+Q40236249,ambassador to Hungary
+Q40236188,ambassador to Iceland
+Q40236514,ambassador to Indonesia
+Q40236350,ambassador to Iran
+Q40236033,ambassador to Iraq
+Q40236160,ambassador to Ireland
+Q40235994,ambassador to Israel
+Q40232820,ambassador to Italy
+Q40236179,ambassador to Japan
+Q40236031,ambassador to Jordan
+Q40236165,ambassador to Kazakhstan
+Q40236082,ambassador to Korea
+Q40236374,ambassador to Kuwait
+Q40236058,ambassador to Kyrgyzstan
+Q40232549,ambassador to Laos
+Q40236034,ambassador to Lebanon
+Q40236610,ambassador to Liberia
+Q40236520,ambassador to Libya
+Q40236150,ambassador to Luxembourg
+Q40236113,ambassador to Madagascar
+Q40236027,ambassador to Mali
+Q40236226,ambassador to the Marshall Islands
+Q40236019,ambassador to Mauritania
+Q29511829,ambassador to Mexico
+Q40236397,ambassador to Moldova
+Q40236307,ambassador to Monaco
+Q40236041,ambassador to Mongolia
+Q40236035,ambassador to Morocco
+Q40236001,ambassador to Mozambique
+Q40236038,ambassador to Myanmar
+Q40236338,ambassador to Nepal
+Q40236131,ambassador to the Netherlands
+Q40236543,ambassador to Nicaragua
+Q40236028,ambassador to Niger
+Q40236272,ambassador to North Korea
+Q40236556,ambassador to Norway
+Q40236368,ambassador to Oman
+Q40236220,ambassador to Palau
+Q40236391,ambassador to Panama
+Q40236184,ambassador to Paraguay
+Q40236142,ambassador to Peru
+Q40236567,ambassador to the Philippines
+Q40236119,ambassador to Poland
+Q40236107,ambassador to Portugal
+Q40236362,ambassador to Qatar
+Q40236596,ambassador to the Republic of the Congo
+Q40236507,ambassador to Romania
+Q40235952,ambassador to the Russian Federation
+Q40236093,ambassador to Rwanda
+Q40236216,ambassador to Saudi Arabia
+Q40236020,ambassador to Senegal
+Q40236573,ambassador to Slovenia
+Q40236102,ambassador to Somalia
+Q40236259,ambassador to South Africa
+Q40236076,ambassador to South Korea
+Q40236562,ambassador to South Yemen
+Q40232073,ambassador to Spain
+Q40236281,ambassador to Sudan
+Q40236621,ambassador to Suriname
+Q40236267,ambassador to Sweden
+Q40236559,ambassador to Switzerland
+Q40768468,ambassador to Syria
+Q40236022,ambassador to Taiwan
+Q40236048,ambassador to Tajikistan
+Q40236039,ambassador to Thailand
+Q40236207,ambassador to Togo
+Q40236287,ambassador to Tunisia
+Q40236037,ambassador to Turkey
+Q40236263,ambassador to Turkmenistan
+Q40235958,ambassador to Ukraine
+Q40236379,ambassador to the United Arab Emirates
+Q32208,ambassador to the United States of America
+Q30158521,ambassador to Uruguay
+Q40236326,ambassador to Uzbekistan
+Q40236023,ambassador to the Holy See
+Q40236036,ambassador to Venezuela
+Q40236040,ambassador to Vietnam
+Q40236211,ambassador to Yemen
+Q40236044,ambassador to Yugoslavia
+Q40236273,ambassador to Zimbabwe
 Q29511881,ambassador of Canada
 Q15176422,Lieutenant Governor of Alberta
 Q6544408,Lieutenant Governor of British Columbia

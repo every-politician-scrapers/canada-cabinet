@@ -266,9 +266,6 @@
               }
             ]
           },
-          "image": {
-            "text": "Anne Marie Sam and John Horgan (33923774170) (cropped).jpg"
-          },
           "name": {
             "text": "John Horgan"
           },
@@ -281,6 +278,12 @@
                 "page": "Legislative Assembly of British Columbia"
               }
             ]
+          },
+          "image": {
+            "text": "John Horgan 2015.jpg"
+          },
+          "caption": {
+            "text": "Horgan in 2015"
           },
           "office": {
             "text": "36th Premier of British Columbia",
@@ -456,9 +459,6 @@
           "children": {
             "text": "2",
             "number": 2
-          },
-          "caption": {
-            "text": "Horgan in 2017"
           }
         }
       ]

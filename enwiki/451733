@@ -350,13 +350,13 @@
         },
         {
           "list": [
-            "The Cabinet position was titled “Minister of Infrastructure, Communities and Intergovernmental Affairs”."
+            "The Cabinet position was titled “minister of infrastructure, communities and intergovernmental affairs”."
           ],
           "template": "efn"
         },
         {
           "list": [
-            "LeBlanc succeeded Trudeau in the cabinet position, but the title was named “Minister of Intergovernmental and Northern Affairs and Internal Trade”."
+            "LeBlanc succeeded Trudeau in the Cabinet position, but with the title “minister of intergovernmental and northern affairs and internal trade”."
           ],
           "template": "efn"
         },
@@ -393,11 +393,6 @@
             "École Polytechnique de Montréal (no degree)"
           ],
           "template": "unbulleted list"
-        },
-        {
-          "amount": "371,600",
-          "link": "yes",
-          "template": "cad"
         },
         {
           "list": [
@@ -644,7 +639,7 @@
             "text": "Collège Jean-de-Brébeuf\n\nMcGill University (BA, 1994)\n\nUniversity of British Columbia (BEd, 1998)\n\nÉcole Polytechnique de Montréal (no degree)"
           },
           "salary": {
-            "text": "CA$371,600 (2021)"
+            "text": "$371,600 (2021)"
           },
           "occupation": {
             "text": "Politician · teacher"

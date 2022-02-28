@@ -64,7 +64,7 @@
               ]
             },
             {
-              "text": "She was re-elected in the 41st, 42nd, 43rd, and 44th federal elections; Murray was appointed as President of the Treasury Board and Minister of Digital Government on March 18, 2019.",
+              "text": "She was re-elected in the 41st, 42nd, 43rd, and 44th federal elections.",
               "links": [
                 {
                   "text": "41st",
@@ -85,7 +85,12 @@
                   "text": "44th federal elections",
                   "type": "internal",
                   "page": "2021 Canadian federal election"
-                },
+                }
+              ]
+            },
+            {
+              "text": "Murray was appointed as President of the Treasury Board and Minister of Digital Government on March 18, 2019.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "President of the Treasury Board"
@@ -107,7 +112,7 @@
         {
           "sentences": [
             {
-              "text": "Murray previously served as a cabinet minister in the Legislative Assembly of British Columbia, first as Minister of Water, Land, and Air Protection from 2001 to 2004 and then as Minister of Management Services until 2005.",
+              "text": "Murray previously served as a cabinet minister under the Legislative Assembly of British Columbia, first as Minister of Water, Land, and Air Protection from 2001 to 2004, and then as Minister of Management Services until 2005.",
               "links": [
                 {
                   "type": "internal",

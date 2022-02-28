@@ -301,10 +301,6 @@
       ],
       "templates": [
         {
-          "small": "yes",
-          "template": "pp-semi-protected"
-        },
-        {
           "description": "Canadian politician and journalist (born 1968)",
           "template": "short description"
         },

@@ -226,12 +226,13 @@
             ]
           },
           "office3": {
-            "text": "Government Chief Whip",
+            "text": "Chief Government Whip",
             "links": [
               {
-                "text": "Government Chief Whip",
+                "text": "Chief Government Whip",
                 "type": "internal",
-                "page": "Party Whip (Canada)"
+                "page": "Party Whip (Canada)",
+                "anchor": "List of Chief Government Whips"
               }
             ]
           },

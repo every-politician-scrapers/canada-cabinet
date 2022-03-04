@@ -45,7 +45,7 @@
               }
             },
             {
-              "text": "A member of the Liberal Party, Joly represents the Montreal area riding of Ahuntsic-Cartierville in the House of Commons, taking office as a member of Parliament (MP) following the 2015 federal election.",
+              "text": "A member of the Liberal Party, Joly represents the Montreal-area riding of Ahuntsic-Cartierville in the House of Commons, taking office as a member of Parliament (MP) following the 2015 federal election.",
               "links": [
                 {
                   "text": "Liberal Party",
@@ -144,6 +144,16 @@
           "template": "post-nominals"
         },
         {
+          "image": "Denys Shmyhal and Canadian FM Mélanie Joly Jan 17 2022 (5).jpg",
+          "bsize": "450",
+          "cwidth": "230",
+          "cheight": "280",
+          "otop": "10",
+          "oleft": "90",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
           "list": [
             "Bardish Chagger (Tourism)",
             "Marie-Claude Bibeau (La Francophonie)"
@@ -187,8 +197,8 @@
           "name": {
             "text": "Mélanie Joly"
           },
-          "image": {
-            "text": "Mélanie Joly, 2019-10-03 version 02.jpg"
+          "caption": {
+            "text": "Joly in 2022"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -464,7 +474,7 @@
             "text": "Université de Montréal (LLB)\n\nBrasenose College, Oxford (MJur)"
           },
           "occupation": {
-            "text": "Lawyer, politician"
+            "text": "Lawyer · politician"
           },
           "otherparty": {
             "text": "Vrai changement pour Montréal (municipal)",

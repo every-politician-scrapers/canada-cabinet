@@ -135,7 +135,7 @@
         {
           "sentences": [
             {
-              "text": "After a successful campaign during the 2008 federal election, he was elected to represent the riding of Papineau in the House of Commons.",
+              "text": "In the 2008 federal election, he was elected to represent the riding of Papineau in the House of Commons.",
               "links": [
                 {
                   "text": "2008 federal election",
@@ -187,7 +187,7 @@
         {
           "sentences": [
             {
-              "text": "As Prime Minister, major government initiatives he undertook during his first term included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
+              "text": "As prime minister, major government initiatives he undertook during his first term included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
               "links": [
                 {
                   "type": "internal",
@@ -239,7 +239,7 @@
         {
           "sentences": [
             {
-              "text": "Trudeau led the Liberals to consecutive minority governments in the 2019 and 2021 federal elections.",
+              "text": "Trudeau led the Liberals to consecutive minority governments in the 2019 and 2021 federal elections, although the Liberals came in second place in the national popular vote in each case.",
               "links": [
                 {
                   "text": "2019",
@@ -291,16 +291,16 @@
               ]
             },
             {
-              "text": "During his third term, he has responded to the Freedom Convoy protests, and invoked the Emergencies Act in response to the demonstrations in Ottawa, the first time the Act has been brought into force since it was enacted in 1988.",
+              "text": "During his third term, he has invoked the Emergencies Act in response to the Freedom Convoy protests, the first time the Act has been brought into force since it was enacted in 1988.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Emergencies Act"
+                },
                 {
                   "text": "Freedom Convoy protests",
                   "type": "internal",
                   "page": "Freedom Convoy 2022"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emergencies Act"
                 }
               ],
               "formatting": {

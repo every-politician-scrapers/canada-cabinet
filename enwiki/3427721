@@ -101,7 +101,7 @@
         {
           "country": "CAN",
           "list": [
-            "PC",
+            "Liberal",
             "MP"
           ],
           "template": "post-nominals"
@@ -334,6 +334,9 @@
                 "page": "Argentina"
               }
             ]
+          },
+          "nationality": {
+            "text": "Canadian · Argentine"
           },
           "party": {
             "text": "Liberal",

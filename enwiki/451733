@@ -187,7 +187,7 @@
         {
           "sentences": [
             {
-              "text": "As prime minister, major government initiatives he undertook during his first term included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
+              "text": "Major government initiatives he undertook during his first term as prime minister included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
               "links": [
                 {
                   "type": "internal",
@@ -241,6 +241,11 @@
             {
               "text": "Trudeau led the Liberals to consecutive minority governments in the 2019 and 2021 federal elections, although the Liberals came in second place in the national popular vote in each case.",
               "links": [
+                {
+                  "text": "minority governments",
+                  "type": "internal",
+                  "page": "Minority governments in Canada"
+                },
                 {
                   "text": "2019",
                   "type": "internal",

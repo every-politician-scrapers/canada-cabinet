@@ -309,7 +309,7 @@
           "template": "use canadian english"
         },
         {
-          "date": "September 2021",
+          "date": "March 2022",
           "template": "use mdy dates"
         },
         {
@@ -589,13 +589,8 @@
             "text": "Peace River, Alberta, Canada",
             "links": [
               {
-                "text": "Peace River",
                 "type": "internal",
                 "page": "Peace River, Alberta"
-              },
-              {
-                "type": "internal",
-                "page": "Alberta"
               }
             ]
           },
@@ -615,10 +610,6 @@
               {
                 "type": "internal",
                 "page": "Summerhill, Toronto"
-              },
-              {
-                "type": "internal",
-                "page": "Ontario"
               }
             ]
           },

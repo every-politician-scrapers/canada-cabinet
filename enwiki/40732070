@@ -135,6 +135,14 @@
           "template": "short description"
         },
         {
+          "date": "March 2022",
+          "template": "use canadian english"
+        },
+        {
+          "date": "March 2022",
+          "template": "use mdy dates"
+        },
+        {
           "country": "CAN",
           "list": [
             "PC",

@@ -187,7 +187,7 @@
         {
           "sentences": [
             {
-              "text": "Major government initiatives he undertook during his first term as prime minister included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax; while grappling with ethics investigations concerning the Aga Khan affair and later, the SNC-Lavalin affair.",
+              "text": "Major government initiatives he undertook during his first term as prime minister included legalizing recreational marijuana through the Cannabis Act; attempting Senate appointment reform by establishing the Independent Advisory Board for Senate Appointments and establishing the federal carbon tax.",
               "links": [
                 {
                   "type": "internal",
@@ -201,7 +201,17 @@
                   "text": "federal carbon tax",
                   "type": "internal",
                   "page": "Greenhouse Gas Pollution Pricing Act"
-                },
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Cannabis Act"
+                ]
+              }
+            },
+            {
+              "text": "He grappled with ethics investigations concerning the Aga Khan affair and later the SNC-Lavalin affair.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Aga Khan affair"
@@ -210,12 +220,7 @@
                   "type": "internal",
                   "page": "SNC-Lavalin affair"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "Cannabis Act"
-                ]
-              }
+              ]
             },
             {
               "text": "In foreign policy, Trudeau's government negotiated trade deals such as the United States-Mexico-Canada Agreement (USMCA) and the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, and signed the Paris Agreement on climate change.",

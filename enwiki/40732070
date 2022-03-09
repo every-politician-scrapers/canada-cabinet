@@ -148,18 +148,8 @@
             "PC",
             "MP"
           ],
-          "size": "100%",
+          "size": "90%",
           "template": "post-nominals"
-        },
-        {
-          "image": "Denys Shmyhal and Canadian FM Mélanie Joly Jan 17 2022 (5).jpg",
-          "bsize": "450",
-          "cwidth": "230",
-          "cheight": "280",
-          "otop": "10",
-          "oleft": "90",
-          "location": "center",
-          "template": "css image crop"
         },
         {
           "list": [
@@ -205,8 +195,11 @@
           "name": {
             "text": "Mélanie Joly"
           },
+          "image": {
+            "text": "File:Mélanie Joly, 2019-10-03 version 02.jpg"
+          },
           "caption": {
-            "text": "Joly in 2022"
+            "text": "Joly in 2019"
           },
           "office": {
             "text": "Minister of Foreign Affairs",

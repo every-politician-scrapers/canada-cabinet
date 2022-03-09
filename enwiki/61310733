@@ -95,6 +95,15 @@
           "caption": {
             "text": "Eyre as a Major-General in July 2018"
           },
+          "birth_place": {
+            "text": "Wadena, Saskatchewan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wadena, Saskatchewan"
+              }
+            ]
+          },
           "allegiance": {
             "text": "Canada"
           },

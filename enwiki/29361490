@@ -1,475 +1,53 @@
 {
-  "title": "Doug Ford",
-  "pageID": 29361490,
-  "categories": [
-    "Leaders of the Progressive Conservative Party of Ontario",
-    "1964 births",
-    "Living people",
-    "People from Etobicoke",
-    "Toronto city councillors",
-    "Businesspeople from Toronto",
-    "Canadian people of English descent",
-    "Premiers of Ontario",
-    "Ford political family"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Douglas Robert Ford Jr. (born November 20, 1964) is a Canadian businessman and politician who has served as the 26th and current premier of Ontario since June 2018 and leader of the Progressive Conservative (PC) Party since March 2018.",
-              "links": [
-                {
-                  "text": "premier of Ontario",
-                  "type": "internal",
-                  "page": "premier of Ontario"
-                },
-                {
-                  "text": "Progressive Conservative (PC) Party",
-                  "type": "internal",
-                  "page": "Progressive Conservative Party of Ontario"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Douglas Robert Ford Jr."
-                ]
-              }
-            },
-            {
-              "text": "He represents the Toronto-area riding of Etobicoke North in the Legislative Assembly of Ontario.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Toronto"
-                },
-                {
-                  "text": "riding",
-                  "type": "internal",
-                  "page": "Electoral district (Canada)"
-                },
-                {
-                  "text": "Etobicoke North",
-                  "type": "internal",
-                  "page": "Etobicoke North (provincial electoral district)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Legislative Assembly of Ontario"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "With his brother Randy, Ford co-owns Deco Labels and Tags, a printing business operating in Canada and the United States that was founded by their father, Doug Ford Sr., who served as a Member of Provincial Parliament (MPP) from 1995 to 1999.",
-              "links": [
-                {
-                  "text": "Deco Labels and Tags",
-                  "type": "internal",
-                  "page": "Deco Labels"
-                },
-                {
-                  "type": "internal",
-                  "page": "Doug Ford Sr."
-                },
-                {
-                  "text": "Member of Provincial Parliament",
-                  "type": "internal",
-                  "page": "Member of Provincial Parliament (Ontario)"
-                }
-              ]
-            },
-            {
-              "text": "Ford was a Toronto city councillor for Ward 2 Etobicoke North from 2010 to 2014 at the same time that his brother, Rob Ford, was mayor of Toronto.",
-              "links": [
-                {
-                  "text": "Toronto city councillor",
-                  "type": "internal",
-                  "page": "Toronto City Council"
-                },
-                {
-                  "text": "Ward 2 Etobicoke North",
-                  "type": "internal",
-                  "page": "Ward 1 Etobicoke North"
-                },
-                {
-                  "type": "internal",
-                  "page": "Rob Ford"
-                },
-                {
-                  "text": "mayor of Toronto",
-                  "type": "internal",
-                  "page": "mayor of Toronto"
-                }
-              ]
-            },
-            {
-              "text": "Ford ran for the 2014 Toronto mayoral election, where he placed second behind John Tory.",
-              "links": [
-                {
-                  "text": "2014 Toronto mayoral election",
-                  "type": "internal",
-                  "page": "2014 Toronto mayoral election"
-                },
-                {
-                  "type": "internal",
-                  "page": "John Tory"
-                }
-              ]
-            },
-            {
-              "text": "In 2018, Ford won the party leadership election of the PC Party and led the PCs to a majority win in the 2018 Ontario general election.",
-              "links": [
-                {
-                  "text": "party leadership election of the PC Party",
-                  "type": "internal",
-                  "page": "2018 Progressive Conservative Party of Ontario leadership election"
-                },
-                {
-                  "text": "majority",
-                  "type": "internal",
-                  "page": "majority government"
-                },
-                {
-                  "text": "2018 Ontario general election",
-                  "type": "internal",
-                  "page": "2018 Ontario general election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "26th premier of Ontario",
-          "template": "short description"
-        },
-        {
-          "template": "other people"
-        },
-        {
-          "small": "yes",
-          "template": "pp-blp"
-        },
-        {
-          "date": "April 2021",
-          "template": "use canadian english"
-        },
-        {
-          "date": "April 2018",
-          "template": "use mdy dates"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "MPP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1964",
-          "month": "11",
-          "day": "20",
-          "template": "birth date and age"
-        },
-        {
-          "template": "doug ford sidebar"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "MPP"
-          ],
-          "template": "post-nominals"
-        },
-        {
-          "list": [
-            "Douglasrobertfordjr.ogg",
-            "listen"
-          ],
-          "template": "audio-nohelp"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Doug Ford"
-          },
-          "image": {
-            "text": "Douglas Robert Ford 2018.jpg"
-          },
-          "alt": {
-            "text": "Ford in 2018 wearing a navy blue suit and a poppy."
-          },
-          "caption": {
-            "text": "Ford in 2018"
-          },
-          "office": {
-            "text": "Premier of Ontario"
-          },
-          "order": {
-            "text": "26th"
-          },
-          "term_start": {
-            "text": "June 29, 2018"
-          },
-          "predecessor": {
-            "text": "Kathleen Wynne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kathleen Wynne"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "lieutenant_governor": {
-            "text": "Elizabeth Dowdeswell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth Dowdeswell"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Christine Elliott",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christine Elliott"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Intergovernmental Affairs",
-            "links": [
-              {
-                "text": "Minister of Intergovernmental Affairs",
-                "type": "internal",
-                "page": "Ministry of Intergovernmental Affairs (Ontario)"
-              }
-            ]
-          },
-          "premier1": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "term_start1": {
-            "text": "June 29, 2018"
-          },
-          "predecessor1": {
-            "text": "Kathleen Wynne"
-          },
-          "office2": {
-            "text": "Leader of the Progressive Conservative Party of Ontario",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Conservative Party of Ontario"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "March 10, 2018"
-          },
-          "predecessor2": {
-            "text": "Patrick Brown",
-            "links": [
-              {
-                "text": "Patrick Brown",
-                "type": "internal",
-                "page": "Patrick Brown (politician)"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Ontario Provincial"
-          },
-          "riding3": {
-            "text": "Etobicoke North",
-            "links": [
-              {
-                "text": "Etobicoke North",
-                "type": "internal",
-                "page": "Etobicoke North (provincial electoral district)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "June 7, 2018"
-          },
-          "predecessor3": {
-            "text": "Shafiq Qaadri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shafiq Qaadri"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Toronto City Councillor\nfor Ward 2 Etobicoke North",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toronto City Councillor"
-              },
-              {
-                "text": "Ward 2 Etobicoke North",
-                "type": "internal",
-                "page": "Ward 1 Etobicoke North"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "December 1, 2010"
-          },
-          "term_end4": {
-            "text": "November 30, 2014"
-          },
-          "predecessor4": {
-            "text": "Rob Ford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rob Ford"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Rob Ford"
-          },
-          "birth_name": {
-            "text": "Douglas Robert Ford Jr."
-          },
-          "birth_date": {
-            "text": "November 20, 1964"
-          },
-          "birth_place": {
-            "text": "Etobicoke, Ontario, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Etobicoke"
-              },
-              {
-                "type": "internal",
-                "page": "Ontario"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Princess Gardens, Etobicoke, Toronto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Princess Gardens"
-              },
-              {
-                "type": "internal",
-                "page": "Etobicoke"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Canadian"
-          },
-          "party": {
-            "text": "Progressive Conservative",
-            "links": [
-              {
-                "text": "Progressive Conservative",
-                "type": "internal",
-                "page": "Progressive Conservative Party of Ontario"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Businessman · politician"
-          },
-          "spouse": {
-            "text": "Karla Middlebrook"
-          },
-          "alma_mater": {
-            "text": "Humber College (no degree)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Humber College"
-              }
-            ]
-          },
-          "children": {
-            "text": "4 (including Krista)",
-            "links": [
-              {
-                "text": "Krista",
-                "type": "internal",
-                "page": "Krista Ford"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Ruth Diane Campbell"
-          },
-          "father": {
-            "text": "Doug Ford Sr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Doug Ford Sr."
-              }
-            ]
-          },
-          "relations": {
-            "text": "Rob Ford (brother)\n\nMichael Ford (nephew)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rob Ford"
-              },
-              {
-                "text": "Michael Ford",
-                "type": "internal",
-                "page": "Michael Ford (Toronto politician)"
-              }
-            ]
-          },
-          "website": {
-            "text": "https://www.fordmpp.ca"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Doug Ford",
+  "image": "Douglas Robert Ford 2018.jpg",
+  "alt": "Ford in 2018 wearing a navy blue suit and a poppy.",
+  "caption": "Ford in 2018",
+  "office": "Premier of Ontario",
+  "order": "26th",
+  "term_start": "June 29, 2018",
+  "predecessor": "Kathleen Wynne",
+  "monarch": "Elizabeth II",
+  "lieutenant_governor": "Elizabeth Dowdeswell",
+  "deputy": "Christine Elliott",
+  "office1": "Minister of Intergovernmental Affairs",
+  "premier1": "Himself",
+  "term_start1": "June 29, 2018",
+  "predecessor1": "Kathleen Wynne",
+  "office2": "Leader of the Progressive Conservative Party of Ontario",
+  "term_start2": "March 10, 2018",
+  "predecessor2": "Patrick Brown",
+  "parliament3": "Ontario Provincial",
+  "riding3": "Etobicoke North",
+  "term_start3": "June 7, 2018",
+  "predecessor3": "Shafiq Qaadri",
+  "office4": "Toronto City Councillor\nfor Ward 2 Etobicoke North",
+  "term_start4": "December 1, 2010",
+  "term_end4": "November 30, 2014",
+  "predecessor4": "Rob Ford",
+  "successor4": "Rob Ford",
+  "birth_name": "Douglas Robert Ford Jr.",
+  "birth_date": "November 20, 1964",
+  "birth_place": "Etobicoke, Ontario, Canada",
+  "residence": "Princess Gardens, Etobicoke, Toronto",
+  "nationality": "Canadian",
+  "party": "Progressive Conservative",
+  "occupation": "Businessman · politician",
+  "spouse": "Karla Middlebrook",
+  "alma_mater": "Humber College (no degree)",
+  "children": "4 (including Krista)",
+  "mother": "Ruth Diane Campbell",
+  "father": "Doug Ford Sr.",
+  "relations": "Rob Ford (brother)\n\nMichael Ford (nephew)",
+  "website": "https://www.fordmpp.ca"
+}
+{
+  "name": "Ford for Leader",
+  "candidate": "Doug Ford",
+  "affiliation": "Progressive Conservative Party of Ontario",
+  "status": "Won",
+  "headquarters": "Toronto",
+  "slogan": "Strong Party, Strong Ontario",
+  "website": "fordforleader.ca"
 }

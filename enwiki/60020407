@@ -1,227 +1,25 @@
 {
-  "title": "Dennis King (politician)",
-  "pageID": 60020407,
-  "categories": [
-    "Living people",
-    "Year of birth missing (living people)",
-    "Place of birth missing (living people)",
-    "Progressive Conservative Party of Prince Edward Island MLAs",
-    "Progressive Conservative Party of Prince Edward Island leaders",
-    "1970s births",
-    "People from Kings County, Prince Edward Island"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dennis \"Denny\" King (born November 1, 1971) is the 33rd and current premier of Prince Edward Island since 2019 and current leader of the Progressive Conservative Party of Prince Edward Island.",
-              "links": [
-                {
-                  "text": "premier of Prince Edward Island",
-                  "type": "internal",
-                  "page": "premier of Prince Edward Island"
-                },
-                {
-                  "type": "internal",
-                  "page": "Progressive Conservative Party of Prince Edward Island"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dennis \"Denny\" King"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Dennis King"
-          ],
-          "template": "other people"
-        },
-        {
-          "year": "1971",
-          "month": "11",
-          "day": "1",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Jana Hemphill",
-          "from": "1999",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Dennis King"
-          },
-          "honorific-suffix": {
-            "text": "MLA",
-            "links": [
-              {
-                "text": "MLA",
-                "type": "internal",
-                "page": "Legislative Assembly of Prince Edward Island"
-              }
-            ]
-          },
-          "image": {
-            "text": "PremierDennisKing 5.5 cmsX5 cms.jpg"
-          },
-          "caption": {
-            "text": "King in 2019"
-          },
-          "monarch1": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "lieutenant_governor1": {
-            "text": "Antoinette Perry",
-            "links": [
-              {
-                "text": "Antoinette Perry",
-                "type": "internal",
-                "page": "Antoinette Perry (lieutenant governor)"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Darlene Compton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Darlene Compton"
-              }
-            ]
-          },
-          "office1": {
-            "text": "33rd Premier of Prince Edward Island",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premier of Prince Edward Island"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "May 9, 2019"
-          },
-          "predecessor1": {
-            "text": "Wade MacLauchlan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wade MacLauchlan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Legislative Assembly of Prince Edward Island for Brackley-Hunter River",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Legislative Assembly of Prince Edward Island"
-              },
-              {
-                "type": "internal",
-                "page": "Brackley-Hunter River"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "April 23, 2019"
-          },
-          "predecessor2": {
-            "text": "Riding established",
-            "formatting": {
-              "italic": [
-                "Riding established"
-              ]
-            }
-          },
-          "office3": {
-            "text": "Leader of the Progressive Conservative Party of Prince Edward Island",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Conservative Party of Prince Edward Island"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "February 9, 2019"
-          },
-          "predecessor3": {
-            "text": "James Aylward",
-            "links": [
-              {
-                "text": "James Aylward",
-                "type": "internal",
-                "page": "James Aylward (politician)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive Conservative Party of Prince Edward Island",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Conservative Party of Prince Edward Island"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 1, 1971"
-          },
-          "birth_place": {
-            "text": "Georgetown, Prince Edward Island, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Georgetown, Prince Edward Island"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Brookfield, Prince Edward Island, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brookfield, Prince Edward Island"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Jana Hemphill (m. 1999)"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Dennis King",
+  "honorific-suffix": "MLA",
+  "image": "PremierDennisKing 5.5 cmsX5 cms.jpg",
+  "caption": "King in 2019",
+  "monarch1": "Elizabeth II",
+  "lieutenant_governor1": "Antoinette Perry",
+  "deputy1": "Darlene Compton",
+  "office1": "33rd Premier of Prince Edward Island",
+  "term_start1": "May 9, 2019",
+  "predecessor1": "Wade MacLauchlan",
+  "office2": "Member of the Legislative Assembly of Prince Edward Island for Brackley-Hunter River",
+  "term_start2": "April 23, 2019",
+  "predecessor2": "Riding established",
+  "office3": "Leader of the Progressive Conservative Party of Prince Edward Island",
+  "term_start3": "February 9, 2019",
+  "predecessor3": "James Aylward",
+  "party": "Progressive Conservative Party of Prince Edward Island",
+  "birth_date": "November 1, 1971",
+  "birth_place": "Georgetown, Prince Edward Island, Canada",
+  "residence": "Brookfield, Prince Edward Island, Canada",
+  "spouse": "Jana Hemphill (m. 1999)",
+  "children": "3"
 }

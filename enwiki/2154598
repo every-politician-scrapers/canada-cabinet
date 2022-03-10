@@ -1,519 +1,58 @@
 {
-  "title": "Bill Blair (politician)",
-  "pageID": 2154598,
-  "categories": [
-    "Toronto police chiefs",
-    "University of Toronto alumni",
-    "Living people",
-    "People from Old Toronto",
-    "People from Scarborough, Toronto",
-    "1954 births",
-    "Liberal Party of Canada MPs",
-    "Members of the 29th Canadian Ministry",
-    "Members of the House of Commons of Canada from Ontario",
-    "Members of the Queen's Privy Council for Canada",
-    "21st-century Canadian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "William Sterling Blair (born April 9, 1954) is a Canadian politician and former police officer who has served as the president of the Privy Council and minister of emergency preparedness since October 26, 2021.",
-              "links": [
-                {
-                  "text": "president of the Privy Council",
-                  "type": "internal",
-                  "page": "President of the Queen's Privy Council for Canada"
-                },
-                {
-                  "text": "minister of emergency preparedness",
-                  "type": "internal",
-                  "page": "Minister of Emergency Preparedness"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "William Sterling Blair"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Liberal Party, Blair represents Scarborough Southwest in the House of Commons.",
-              "links": [
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Canada"
-                },
-                {
-                  "type": "internal",
-                  "page": "Scarborough Southwest"
-                },
-                {
-                  "text": "House of Commons",
-                  "type": "internal",
-                  "page": "House of Commons of Canada"
-                }
-              ]
-            },
-            {
-              "text": "Blair previously held the portfolios of Minister of Border Security and Organized Crime Reduction and Minister of Public Safety and Emergency Preparedness.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Border Security and Organized Crime Reduction"
-                },
-                {
-                  "text": "Minister of Public Safety and Emergency Preparedness",
-                  "type": "internal",
-                  "page": "Minister of Public Safety"
-                }
-              ]
-            },
-            {
-              "text": "Before entering federal politics, he served as the chief of police with the Toronto Police Service from 2005 until his retirement in 2015.",
-              "links": [
-                {
-                  "text": "chief of police",
-                  "type": "internal",
-                  "page": "Toronto Chief of Police"
-                },
-                {
-                  "type": "internal",
-                  "page": "Toronto Police Service"
-                }
-              ]
-            },
-            {
-              "text": "Blair's appointment as chief culminated a three-decade-long career in the police service."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Canadian politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use canadian english"
-        },
-        {
-          "date": "October 2021",
-          "template": "use mdy dates"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "PC",
-            "COM",
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1954",
-          "month": "4",
-          "day": "9",
-          "mf": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "PC",
-            "COM",
-            "MP"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "embed_title": {
-            "text": "Police Career"
-          },
-          "department": {
-            "text": "Toronto Police Service",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Toronto Police Service"
-              }
-            ]
-          },
-          "years": {
-            "text": "1975–2015"
-          },
-          "rank": {
-            "text": "Toronto Police - Chief of Police.png Chief of Police",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief of Police"
-              }
-            ]
-          },
-          "awards": {
-            "text": "Commander of the Order of Merit of the Police Forces\nPolice Exemplary Service Medal\nCommander of the Order of St. John",
-            "links": [
-              {
-                "text": "Commander of the Order of Merit of the Police Forces",
-                "type": "internal",
-                "page": "Order of Merit of the Police Forces"
-              },
-              {
-                "type": "internal",
-                "page": "Police Exemplary Service Medal"
-              },
-              {
-                "type": "internal",
-                "page": "Commander of the Order of St. John"
-              }
-            ]
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Bill Blair"
-          },
-          "image": {
-            "text": "Bill Blair - 2012 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Blair in 2012"
-          },
-          "office": {
-            "text": "President of the Privy Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the Privy Council"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "October 26, 2021"
-          },
-          "predecessor": {
-            "text": "Dominic LeBlanc",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dominic LeBlanc"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Emergency Preparedness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Emergency Preparedness"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "October 26, 2021"
-          },
-          "predecessor1": {
-            "text": "Himself (as Minister of Public Safety and Emergency Preparedness)"
-          },
-          "office2": {
-            "text": "Minister of Public Safety and Emergency Preparedness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Public Safety and Emergency Preparedness"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "November 20, 2019"
-          },
-          "term_end2": {
-            "text": "October 26, 2021"
-          },
-          "predecessor2": {
-            "text": "Ralph Goodale",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ralph Goodale"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Marco Mendicino (as Minister of Public Safety)\nHimself (as Minister of Emergency Preparedness)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marco Mendicino"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Border Security and Organized Crime Reduction",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Border Security and Organized Crime Reduction"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "July 18, 2018"
-          },
-          "term_end3": {
-            "text": "November 20, 2019"
-          },
-          "predecessor3": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor3": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "primeminister3": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Parliamentary Secretary to the Minister of Justice",
-            "links": [
-              {
-                "text": "Parliamentary Secretary to the Minister of Justice",
-                "type": "internal",
-                "page": "List of Parliamentary Secretaries of Canada",
-                "anchor": "Twenty-Ninth Canadian ministry"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Jody Wilson-Raybould",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jody Wilson-Raybould"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "January 28, 2017"
-          },
-          "term_end4": {
-            "text": "July 18, 2018"
-          },
-          "predecessor4": {
-            "text": "Sean Casey",
-            "links": [
-              {
-                "text": "Sean Casey",
-                "type": "internal",
-                "page": "Sean Casey (Canadian politician)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Marco Mendicino",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marco Mendicino"
-              }
-            ]
-          },
-          "riding5": {
-            "text": "Scarborough Southwest",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scarborough Southwest"
-              }
-            ]
-          },
-          "parliament5": {
-            "text": "Canadian"
-          },
-          "term_start5": {
-            "text": "October 19, 2015"
-          },
-          "predecessor5": {
-            "text": "Dan Harris",
-            "links": [
-              {
-                "text": "Dan Harris",
-                "type": "internal",
-                "page": "Dan Harris (politician)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Chief of the Toronto Police Service",
-            "links": [
-              {
-                "text": "Chief of the Toronto Police Service",
-                "type": "internal",
-                "page": "Toronto Chief of Police"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Mike Boyd",
-            "links": [
-              {
-                "text": "Mike Boyd",
-                "type": "internal",
-                "page": "Mike Boyd (police officer)"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Mark Saunders",
-            "links": [
-              {
-                "text": "Mark Saunders",
-                "type": "internal",
-                "page": "Mark Saunders (police chief)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "April 6, 2005"
-          },
-          "term_end6": {
-            "text": "April 25, 2015"
-          },
-          "birth_name": {
-            "text": "William Sterling Blair"
-          },
-          "birth_date": {
-            "text": "April 9, 1954"
-          },
-          "birth_place": {
-            "text": "Scarborough, Ontario, Canada",
-            "links": [
-              {
-                "text": "Scarborough",
-                "type": "internal",
-                "page": "Scarborough, Toronto"
-              },
-              {
-                "type": "internal",
-                "page": "Ontario"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Canadian",
-            "links": [
-              {
-                "text": "Canadian",
-                "type": "internal",
-                "page": "Canadians"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Susanne Blair"
-          },
-          "party": {
-            "text": "Liberal",
-            "links": [
-              {
-                "text": "Liberal",
-                "type": "internal",
-                "page": "Liberal Party of Canada"
-              }
-            ]
-          },
-          "children": {
-            "text": "2 sons; 1 daughter"
-          },
-          "residence": {
-            "text": "South Hill, Toronto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "South Hill, Toronto"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Toronto (BA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Toronto"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "embed_title": "Police Career",
+  "department": "Toronto Police Service",
+  "years": "1975–2015",
+  "rank": "Toronto Police - Chief of Police.png Chief of Police",
+  "awards": "Commander of the Order of Merit of the Police Forces\nPolice Exemplary Service Medal\nCommander of the Order of St. John"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Bill Blair",
+  "image": "Bill Blair - 2012 (cropped).jpg",
+  "caption": "Blair in 2012",
+  "office": "President of the Privy Council",
+  "primeminister": "Justin Trudeau",
+  "term_start": "October 26, 2021",
+  "predecessor": "Dominic LeBlanc",
+  "office1": "Minister of Emergency Preparedness",
+  "primeminister1": "Justin Trudeau",
+  "term_start1": "October 26, 2021",
+  "predecessor1": "Himself (as Minister of Public Safety and Emergency Preparedness)",
+  "office2": "Minister of Public Safety and Emergency Preparedness",
+  "term_start2": "November 20, 2019",
+  "term_end2": "October 26, 2021",
+  "predecessor2": "Ralph Goodale",
+  "successor2": "Marco Mendicino (as Minister of Public Safety)\nHimself (as Minister of Emergency Preparedness)",
+  "primeminister2": "Justin Trudeau",
+  "office3": "Minister of Border Security and Organized Crime Reduction",
+  "term_start3": "July 18, 2018",
+  "term_end3": "November 20, 2019",
+  "predecessor3": "Position established",
+  "successor3": "Position abolished",
+  "primeminister3": "Justin Trudeau",
+  "office4": "Parliamentary Secretary to the Minister of Justice",
+  "minister4": "Jody Wilson-Raybould",
+  "term_start4": "January 28, 2017",
+  "term_end4": "July 18, 2018",
+  "predecessor4": "Sean Casey",
+  "successor4": "Marco Mendicino",
+  "riding5": "Scarborough Southwest",
+  "parliament5": "Canadian",
+  "term_start5": "October 19, 2015",
+  "predecessor5": "Dan Harris",
+  "office6": "Chief of the Toronto Police Service",
+  "predecessor6": "Mike Boyd",
+  "successor6": "Mark Saunders",
+  "term_start6": "April 6, 2005",
+  "term_end6": "April 25, 2015",
+  "birth_name": "William Sterling Blair",
+  "birth_date": "April 9, 1954",
+  "birth_place": "Scarborough, Ontario, Canada",
+  "nationality": "Canadian",
+  "spouse": "Susanne Blair",
+  "party": "Liberal",
+  "children": "2 sons; 1 daughter",
+  "residence": "South Hill, Toronto",
+  "alma_mater": "University of Toronto (BA)"
 }

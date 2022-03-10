@@ -1,285 +1,31 @@
 {
-  "title": "Anthony Rota",
-  "pageID": 1482981,
-  "categories": [
-    "1961 births",
-    "Canadian people of Italian descent",
-    "Liberal Party of Canada MPs",
-    "Living people",
-    "Members of the House of Commons of Canada from Ontario",
-    "North Bay, Ontario city councillors",
-    "Algonquin College alumni",
-    "University of Ottawa alumni",
-    "Wilfrid Laurier University alumni",
-    "21st-century Canadian politicians",
-    "Speakers of the House of Commons of Canada"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anthony Rota (born May 15, 1961) is a Canadian politician who is the 37th and current Speaker of the House of Commons of Canada since 2019.",
-              "links": [
-                {
-                  "text": "Canadian",
-                  "type": "internal",
-                  "page": "Canadians"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Speaker of the House of Commons of Canada",
-                  "type": "internal",
-                  "page": "Speaker of the House of Commons (Canada)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Anthony Rota"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Liberal Party, he currently serves as the Member of Parliament (MP) for the riding of Nipissing—Timiskaming.",
-              "links": [
-                {
-                  "text": "Liberal Party",
-                  "type": "internal",
-                  "page": "Liberal Party of Canada"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (Canada)"
-                },
-                {
-                  "text": "riding",
-                  "type": "internal",
-                  "page": "electoral district (Canada)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nipissing—Timiskaming"
-                }
-              ]
-            },
-            {
-              "text": "He previously represented Nipissing—Timiskaming as MP from 2004 to 2011."
-            },
-            {
-              "text": "On December 5, 2019, he was elected by the House of Commons to be the Speaker in the 43rd Parliament."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Canadian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2021",
-          "template": "use mdy dates"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1961",
-          "month": "5",
-          "day": "15",
-          "template": "birth date and age"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "MP"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Anthony Rota"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "image": {
-            "text": "File:Anthony Rota.jpg"
-          },
-          "office": {
-            "text": "37th Speaker of the House of Commons of Canada",
-            "links": [
-              {
-                "text": "Speaker of the House of Commons of Canada",
-                "type": "internal",
-                "page": "Speaker of the House of Commons (Canada)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "December 5, 2019"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general": {
-            "text": "Julie Payette\n\nMary Simon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julie Payette"
-              },
-              {
-                "type": "internal",
-                "page": "Mary Simon"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Geoff Regan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Geoff Regan"
-              }
-            ]
-          },
-          "parliament1": {
-            "text": "Canadian"
-          },
-          "term_start1": {
-            "text": "October 19, 2015"
-          },
-          "predecessor1": {
-            "text": "Jay Aspin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jay Aspin"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "June 28, 2004"
-          },
-          "term_end2": {
-            "text": "May 2, 2011"
-          },
-          "predecessor2": {
-            "text": "Bob Wood",
-            "links": [
-              {
-                "text": "Bob Wood",
-                "type": "internal",
-                "page": "Bob Wood (MP)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jay Aspin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jay Aspin"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chairman of the COVID-19 Committee"
-          },
-          "term_start3": {
-            "text": "April 20, 2020"
-          },
-          "term_end3": {
-            "text": "June 18, 2020"
-          },
-          "predecessor3": {
-            "text": "Office Established"
-          },
-          "successor3": {
-            "text": "Office de-established"
-          },
-          "birth_date": {
-            "text": "May 15, 1961"
-          },
-          "birth_place": {
-            "text": "North Bay, Ontario, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "North Bay, Ontario"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Administrator, Business advisor"
-          },
-          "party": {
-            "text": "Liberal",
-            "links": [
-              {
-                "text": "Liberal",
-                "type": "internal",
-                "page": "Liberal Party of Canada"
-              }
-            ]
-          },
-          "residence": {
-            "text": "North Bay, Ontario"
-          },
-          "riding1": {
-            "text": "Nipissing—Timiskaming",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nipissing—Timiskaming"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Chantal Piché-Rota"
-          },
-          "children": {
-            "text": "Samantha"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Anthony Rota",
+  "honorific-prefix": "The Honourable",
+  "image": "File:Anthony Rota.jpg",
+  "office": "37th Speaker of the House of Commons of Canada",
+  "term_start": "December 5, 2019",
+  "monarch": "Elizabeth II",
+  "governor_general": "Julie Payette\n\nMary Simon",
+  "primeminister": "Justin Trudeau",
+  "predecessor": "Geoff Regan",
+  "parliament1": "Canadian",
+  "term_start1": "October 19, 2015",
+  "predecessor1": "Jay Aspin",
+  "term_start2": "June 28, 2004",
+  "term_end2": "May 2, 2011",
+  "predecessor2": "Bob Wood",
+  "successor2": "Jay Aspin",
+  "office3": "Chairman of the COVID-19 Committee",
+  "term_start3": "April 20, 2020",
+  "term_end3": "June 18, 2020",
+  "predecessor3": "Office Established",
+  "successor3": "Office de-established",
+  "birth_date": "May 15, 1961",
+  "birth_place": "North Bay, Ontario, Canada",
+  "profession": "Administrator, Business advisor",
+  "party": "Liberal",
+  "residence": "North Bay, Ontario",
+  "riding1": "Nipissing—Timiskaming",
+  "spouse": "Chantal Piché-Rota",
+  "children": "Samantha"
 }

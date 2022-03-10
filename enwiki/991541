@@ -1,425 +1,47 @@
 {
-  "title": "Heather Stefanson",
-  "pageID": 991541,
-  "categories": [
-    "1970 births",
-    "Living people",
-    "Members of the Executive Council of Manitoba",
-    "Politicians from Winnipeg",
-    "Progressive Conservative Party of Manitoba MLAs",
-    "University of Western Ontario alumni",
-    "Women MLAs in Manitoba",
-    "21st-century Canadian politicians",
-    "21st-century Canadian women politicians",
-    "Women government ministers of Canada",
-    "Deputy premiers of Manitoba",
-    "Premiers of Manitoba"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Heather Dorothy Stefanson (born May 11, 1970) is a Canadian politician who has served as the 24th premier of Manitoba since November 2, 2021.",
-              "links": [
-                {
-                  "text": "premier of Manitoba",
-                  "type": "internal",
-                  "page": "premier of Manitoba"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Heather Dorothy Stefanson"
-                ]
-              }
-            },
-            {
-              "text": "She is the leader of the Progressive Conservative Party of Manitoba and sits as a member of the Legislative Assembly (MLA), representing the electoral district of Tuxedo.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Conservative Party of Manitoba"
-                },
-                {
-                  "text": "Legislative Assembly",
-                  "type": "internal",
-                  "page": "Legislative Assembly of Manitoba"
-                },
-                {
-                  "text": "Tuxedo",
-                  "type": "internal",
-                  "page": "Tuxedo (Manitoba riding)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Canadian politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use canadian english"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "MLAMB"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1970",
-          "month": "05",
-          "day": "11",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "MLAMB"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Heather Stefanson"
-          },
-          "image": {
-            "text": "File:Heather Stefanson (cropped).jpg"
-          },
-          "office2": {
-            "text": "Minister of Health and Seniors Care",
-            "links": [
-              {
-                "text": "Minister of Health and Seniors Care",
-                "type": "internal",
-                "page": "Minister of Health (Manitoba)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "January 5, 2021"
-          },
-          "term_end2": {
-            "text": "August 18, 2021"
-          },
-          "premier2": {
-            "text": "Brian Pallister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brian Pallister"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Cameron Friesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cameron Friesen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Audrey Gordon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Audrey Gordon"
-              }
-            ]
-          },
-          "office": {
-            "text": "Premier of Manitoba"
-          },
-          "order": {
-            "text": "24th"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "lieutenant_governor": {
-            "text": "Janice Filmon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janice Filmon"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "November 2, 2021"
-          },
-          "deputy": {
-            "text": "Rochelle Squires Kelvin Goertzen Cliff Cullen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rochelle Squires"
-              },
-              {
-                "type": "internal",
-                "page": "Cliff Cullen"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Kelvin Goertzen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kelvin Goertzen"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Leader of the Progressive Conservative Party of Manitoba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Progressive Conservative Party of Manitoba"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "October 30, 2021"
-          },
-          "predecessor1": {
-            "text": "Kelvin Goertzen (interim)"
-          },
-          "office3": {
-            "text": "7th Deputy Premier of Manitoba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Premier of Manitoba"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "May 3, 2016"
-          },
-          "term_end3": {
-            "text": "January 5, 2021"
-          },
-          "premier3": {
-            "text": "Brian Pallister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brian Pallister"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Kerri Irvin-Ross",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kerri Irvin-Ross"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Kelvin Goertzen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kelvin Goertzen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Families",
-            "links": [
-              {
-                "text": "Minister of Families",
-                "type": "internal",
-                "page": "Minister of Families (Manitoba)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "August 1, 2018"
-          },
-          "term_end4": {
-            "text": "January 5, 2021"
-          },
-          "premier4": {
-            "text": "Brian Pallister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brian Pallister"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Scott Fielding",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Scott Fielding"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Rochelle Squires",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rochelle Squires"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Justice Attorney General of Manitoba",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice and Attorney General (Manitoba)"
-              },
-              {
-                "type": "internal",
-                "page": "Attorney General of Manitoba"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "May 3, 2016"
-          },
-          "term_end5": {
-            "text": "August 1, 2018"
-          },
-          "premier5": {
-            "text": "Brian Pallister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brian Pallister"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Gord Mackintosh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gord Mackintosh"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Cliff Cullen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cliff Cullen"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Legislative Assembly of Manitoba for Tuxedo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Legislative Assembly of Manitoba"
-              },
-              {
-                "text": "Tuxedo",
-                "type": "internal",
-                "page": "Tuxedo (electoral district)"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Gary Filmon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gary Filmon"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "November 21, 2000"
-          },
-          "birth_date": {
-            "text": "May 11, 1970"
-          },
-          "birth_place": {
-            "text": "Winnipeg, Manitoba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Winnipeg"
-              },
-              {
-                "type": "internal",
-                "page": "Manitoba"
-              }
-            ]
-          },
-          "party": {
-            "text": "Progressive Conservative",
-            "links": [
-              {
-                "text": "Progressive Conservative",
-                "type": "internal",
-                "page": "Progressive Conservative Party of Manitoba"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Western Ontario (BA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Western Ontario"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Stefanson in 2016"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Heather Stefanson",
+  "image": "File:Heather Stefanson (cropped).jpg",
+  "office2": "Minister of Health and Seniors Care",
+  "term_start2": "January 5, 2021",
+  "term_end2": "August 18, 2021",
+  "premier2": "Brian Pallister",
+  "predecessor2": "Cameron Friesen",
+  "successor2": "Audrey Gordon",
+  "office": "Premier of Manitoba",
+  "order": "24th",
+  "monarch": "Elizabeth II",
+  "lieutenant_governor": "Janice Filmon",
+  "term_start": "November 2, 2021",
+  "deputy": "Rochelle Squires Kelvin Goertzen Cliff Cullen",
+  "predecessor": "Kelvin Goertzen",
+  "office1": "Leader of the Progressive Conservative Party of Manitoba",
+  "term_start1": "October 30, 2021",
+  "predecessor1": "Kelvin Goertzen (interim)",
+  "office3": "7th Deputy Premier of Manitoba",
+  "term_start3": "May 3, 2016",
+  "term_end3": "January 5, 2021",
+  "premier3": "Brian Pallister",
+  "predecessor3": "Kerri Irvin-Ross",
+  "successor3": "Kelvin Goertzen",
+  "office4": "Minister of Families",
+  "term_start4": "August 1, 2018",
+  "term_end4": "January 5, 2021",
+  "premier4": "Brian Pallister",
+  "predecessor4": "Scott Fielding",
+  "successor4": "Rochelle Squires",
+  "office5": "Minister of Justice Attorney General of Manitoba",
+  "term_start5": "May 3, 2016",
+  "term_end5": "August 1, 2018",
+  "premier5": "Brian Pallister",
+  "predecessor5": "Gord Mackintosh",
+  "successor5": "Cliff Cullen",
+  "office6": "Member of the Legislative Assembly of Manitoba for Tuxedo",
+  "predecessor6": "Gary Filmon",
+  "term_start6": "November 21, 2000",
+  "birth_date": "May 11, 1970",
+  "birth_place": "Winnipeg, Manitoba",
+  "party": "Progressive Conservative",
+  "alma_mater": "University of Western Ontario (BA)",
+  "caption": "Stefanson in 2016"
 }

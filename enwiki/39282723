@@ -1,189 +1,22 @@
 {
-  "title": "Tiff Macklem",
-  "pageID": 39282723,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "Governors of the Bank of Canada",
-    "Academics from Montreal",
-    "Queen's University at Kingston alumni",
-    "University of Western Ontario alumni",
-    "Canadian economists",
-    "Canadian university and college faculty deans",
-    "University of Toronto faculty",
-    "Business school deans",
-    "Writers from Montreal"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Richard Tiffany \"Tiff\" Macklem (born 1961) is a Canadian banker and economist who serves as the 10th and current governor of the Bank of Canada.",
-              "links": [
-                {
-                  "text": "governor of the Bank of Canada",
-                  "type": "internal",
-                  "page": "governor of the Bank of Canada"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Richard Tiffany",
-                  "Tiff",
-                  "Macklem"
-                ]
-              }
-            },
-            {
-              "text": "He was also the former Dean of the Rotman School of Management and had previously served as the Senior Deputy Governor of the Bank of Canada.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rotman School of Management"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bank of Canada"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Governor of the Bank of Canada",
-          "template": "short description"
-        },
-        {
-          "date": "March 2021",
-          "template": "use canadian english"
-        },
-        {
-          "date": "April 2013",
-          "template": "use mdy dates"
-        },
-        {
-          "birth_year": "1961",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tiff Macklem"
-          },
-          "image": {
-            "text": "File:Tiff Macklem 2018.jpg"
-          },
-          "order": {
-            "text": "10th"
-          },
-          "office": {
-            "text": "Governor of the Bank of Canada"
-          },
-          "term_start": {
-            "text": "June 3, 2020"
-          },
-          "predecessor": {
-            "text": "Stephen Poloz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Poloz"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Senior Deputy Governor of the Bank of Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bank of Canada"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "July 1, 2010"
-          },
-          "term_end1": {
-            "text": "May 1, 2014"
-          },
-          "office2": {
-            "text": "Associate Deputy Minister of Finance",
-            "links": [
-              {
-                "text": "Associate Deputy Minister of Finance",
-                "type": "internal",
-                "page": "Department of Finance Canada"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end2": {
-            "text": "June 30, 2010"
-          },
-          "office3": {
-            "text": "Deputy Governor of the Bank of Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bank of Canada"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "December 2004"
-          },
-          "term_end3": {
-            "text": "2007",
-            "number": 2007
-          },
-          "birth_name": {
-            "text": "Richard Tiffany Macklem"
-          },
-          "birth_date": {
-            "text": "1961 (age 61)"
-          },
-          "birth_place": {
-            "text": "Montreal, Quebec, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Montreal"
-              },
-              {
-                "type": "internal",
-                "page": "Quebec"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rosemary"
-          },
-          "education": {
-            "text": "Queen's University University of Western Ontario",
-            "links": [
-              {
-                "text": "Queen's University",
-                "type": "internal",
-                "page": "Queen's University at Kingston"
-              },
-              {
-                "type": "internal",
-                "page": "University of Western Ontario"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tiff Macklem",
+  "image": "File:Tiff Macklem 2018.jpg",
+  "order": "10th",
+  "office": "Governor of the Bank of Canada",
+  "term_start": "June 3, 2020",
+  "predecessor": "Stephen Poloz",
+  "office1": "Senior Deputy Governor of the Bank of Canada",
+  "term_start1": "July 1, 2010",
+  "term_end1": "May 1, 2014",
+  "office2": "Associate Deputy Minister of Finance",
+  "term_start2": "2007",
+  "term_end2": "June 30, 2010",
+  "office3": "Deputy Governor of the Bank of Canada",
+  "term_start3": "December 2004",
+  "term_end3": "2007",
+  "birth_name": "Richard Tiffany Macklem",
+  "birth_date": "1961 (age 61)",
+  "birth_place": "Montreal, Quebec, Canada",
+  "spouse": "Rosemary",
+  "education": "Queen's University University of Western Ontario"
 }

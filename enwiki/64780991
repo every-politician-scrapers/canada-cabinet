@@ -1,87 +1,9 @@
 {
-  "title": "Karen Hogan",
-  "pageID": 64780991,
-  "categories": [
-    "Year of birth missing (living people)",
-    "Living people",
-    "Canadian accountants",
-    "Canadian auditors",
-    "21st-century Canadian civil servants"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Karen Hogan is the current Auditor General of Canada.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Auditor General of Canada"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Karen Hogan"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Government official",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Karen Hogan"
-          },
-          "office": {
-            "text": "15th Auditor General of Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Auditor General of Canada"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "June 20, 2020"
-          },
-          "predecessor": {
-            "text": "Sylvain Ricard"
-          },
-          "alma_mater": {
-            "text": "Concordia University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Concordia University"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Karen Hogan",
+  "office": "15th Auditor General of Canada",
+  "primeminister": "Justin Trudeau",
+  "term_start": "June 20, 2020",
+  "predecessor": "Sylvain Ricard",
+  "alma_mater": "Concordia University",
+  "children": "2"
 }

@@ -1,437 +1,50 @@
 {
-  "title": "Mary Simon",
-  "pageID": 23690945,
-  "categories": [
-    "Ambassadors of Canada to Denmark",
-    "1947 births",
-    "Living people",
-    "People from Nunavik",
-    "Ambassadors of Canada to Denmark",
-    "Canadian women ambassadors",
-    "Chancellors of Trent University",
-    "Royal Canadian Geographical Society fellows",
-    "Companions of the Order of Canada",
-    "Dames of Justice of the Order of St John",
-    "Officers of the National Order of Quebec",
-    "Recipients of Nersornaat",
-    "Indspire Awards",
-    "Canadian Inuit women",
-    "Inuit from Quebec",
-    "Canadian indigenous women academics",
-    "Canadian women viceroys",
-    "Governors General of Canada",
-    "Anglophone Quebec people",
-    "Canadian people of English descent"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mary Jeannie May Simon (Ningiukudluk; born August 21, 1947) is a Canadian civil servant, diplomat, and former broadcaster who has served as the 30th governor general of Canada since July 26, 2021.",
-              "links": [
-                {
-                  "text": "governor general of Canada",
-                  "type": "internal",
-                  "page": "governor general of Canada"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mary Jeannie May Simon"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Simon was born in Kangiqsualujjuaq, Quebec.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kangiqsualujjuaq"
-                }
-              ]
-            },
-            {
-              "text": "She briefly worked as a producer and announcer for the CBC Northern Service in the 1970s before subsequently entering public service, serving on the board of the Northern Quebec Inuit Association and playing a key role in the Charlottetown Accord negotiations.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "CBC Northern Service"
-                },
-                {
-                  "type": "internal",
-                  "page": "Northern Quebec Inuit Association"
-                },
-                {
-                  "type": "internal",
-                  "page": "Charlottetown Accord"
-                }
-              ]
-            },
-            {
-              "text": "Simon was Canada's first ambassador for circumpolar affairs from 1994 to 2004, as well as a lead negotiator for the creation of the Arctic Council.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Arctic Council"
-                }
-              ]
-            },
-            {
-              "text": "She also served as the Canadian ambassador to Denmark from 1999 to 2002."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On July 6, 2021, Prime Minister Justin Trudeau announced that Queen Elizabeth II had approved the appointment of Simon as the next governor general of Canada.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Justin Trudeau"
-                },
-                {
-                  "type": "internal",
-                  "page": "Queen Elizabeth II"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "30th and current governor general of Canada",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the Scottish poet",
-            "Mary Symon"
-          ],
-          "template": "for"
-        },
-        {
-          "date": "August 2021",
-          "template": "use canadian english"
-        },
-        {
-          "date": "August 2021",
-          "template": "use mdy dates"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "CC",
-            "CMM",
-            "COM",
-            "OQ",
-            "CD",
-            "FRCGS"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1947",
-          "month": "8",
-          "day": "21",
-          "mf": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Robert Otis",
-          "from": "March 27, 1967",
-          "template": "marriage"
-        },
-        {
-          "spouse": "Whit Fraser",
-          "from": "1994",
-          "template": "marriage"
-        },
-        {
-          "country": "CAN",
-          "list": [
-            "CC",
-            "CMM",
-            "COM",
-            "OQ",
-            "CD",
-            "FRCGS"
-          ],
-          "template": "post-nominals"
-        },
-        {
-          "list": [
-            "In her first speech as Governor General, Simon said that her Inuktitut name \"Ningiukudluk\" means \"bossy little old lady\"."
-          ],
-          "template": "efn"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency the Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              },
-              {
-                "text": "the Right Honourable",
-                "type": "internal",
-                "page": "the Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mary Simon"
-          },
-          "native_name": {
-            "text": "Ningiukudluk"
-          },
-          "image": {
-            "text": "Mary Simon GG Announcement 2.png"
-          },
-          "alt": {
-            "text": "Simon wearing a dark suit"
-          },
-          "caption": {
-            "text": "Simon in 2021"
-          },
-          "order": {
-            "text": "30th"
-          },
-          "office": {
-            "text": "Governor General of Canada"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Justin Trudeau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justin Trudeau"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "July 26, 2021"
-          },
-          "predecessor": {
-            "text": "Julie Payette",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julie Payette"
-              }
-            ]
-          },
-          "office2": {
-            "text": "13th President of the Inuit Tapiriit Kanatami",
-            "links": [
-              {
-                "text": "President of the Inuit Tapiriit Kanatami",
-                "type": "internal",
-                "page": "Inuit Tapiriit Kanatami",
-                "anchor": "Presidents of Inuit Tapiriit Kanatami"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end2": {
-            "text": "2012",
-            "number": 2012
-          },
-          "predecessor2": {
-            "text": "Jose Kusugak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jose Kusugak"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Terry Audla"
-          },
-          "primeminister3": {
-            "text": "Jean Chrétien",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean Chrétien"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "August 11, 1999"
-          },
-          "term_end3": {
-            "text": "January 15, 2002"
-          },
-          "predecessor3": {
-            "text": "Brian Baker",
-            "links": [
-              {
-                "text": "Brian Baker",
-                "type": "internal",
-                "page": "Brian Baker (diplomat)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Alfonso Gagliano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfonso Gagliano"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Canadian Ambassador for Circumpolar Affairs",
-            "links": [
-              {
-                "text": "Canadian Ambassador for Circumpolar Affairs",
-                "type": "internal",
-                "page": "Lists of ambassadors of Canada"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jean Chrétien",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean Chrétien"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "October 31, 1994"
-          },
-          "term_end4": {
-            "text": "January 19, 2004"
-          },
-          "predecessor4": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Jack Anawak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jack Anawak"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Chair of the Inuit Circumpolar Conference",
-            "links": [
-              {
-                "text": "Inuit Circumpolar Conference",
-                "type": "internal",
-                "page": "Inuit Circumpolar Council"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1986",
-            "number": 1986
-          },
-          "term_end5": {
-            "text": "1992",
-            "number": 1992
-          },
-          "president5": {
-            "text": "Rhoda Inukshuk \n\nJohn Amagoalik\n\nRosemarie Kuptana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rosemarie Kuptana"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Mary Jeannie May"
-          },
-          "birth_date": {
-            "text": "August 21, 1947"
-          },
-          "birth_place": {
-            "text": "Kangiqsualujjuaq, Quebec, Canada",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kangiqsualujjuaq"
-              },
-              {
-                "type": "internal",
-                "page": "Quebec"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Robert Otis (m. March 27, 1967)\n\nGeorge Simon\n\nWhit Fraser (m. 1994)"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "relatives": {
-            "text": "Johnny May (brother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johnny May"
-              }
-            ]
-          },
-          "education": {
-            "text": "Kuujjuaq Federal Day School\nFort Carson High School"
-          },
-          "occupation": {
-            "text": "Broadcaster · public servant · diplomat"
-          },
-          "signature": {
-            "text": "Mary May Simon Signature.png"
-          },
-          "residence": {
-            "text": "Rideau Hall",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rideau Hall"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Her Excellency the Right Honourable",
+  "name": "Mary Simon",
+  "native_name": "Ningiukudluk",
+  "image": "Mary Simon GG Announcement 2.png",
+  "alt": "Simon wearing a dark suit",
+  "caption": "Simon in 2021",
+  "order": "30th",
+  "office": "Governor General of Canada",
+  "monarch": "Elizabeth II",
+  "primeminister": "Justin Trudeau",
+  "term_start": "July 26, 2021",
+  "predecessor": "Julie Payette",
+  "office2": "13th President of the Inuit Tapiriit Kanatami",
+  "term_start2": "2006",
+  "term_end2": "2012",
+  "predecessor2": "Jose Kusugak",
+  "successor2": "Terry Audla",
+  "primeminister3": "Jean Chrétien",
+  "term_start3": "August 11, 1999",
+  "term_end3": "January 15, 2002",
+  "predecessor3": "Brian Baker",
+  "successor3": "Alfonso Gagliano",
+  "office4": "Canadian Ambassador for Circumpolar Affairs",
+  "primeminister4": "Jean Chrétien",
+  "term_start4": "October 31, 1994",
+  "term_end4": "January 19, 2004",
+  "predecessor4": "Position established",
+  "successor4": "Jack Anawak",
+  "office5": "Chair of the Inuit Circumpolar Conference",
+  "term_start5": "1986",
+  "term_end5": "1992",
+  "president5": "Rhoda Inukshuk \n\nJohn Amagoalik\n\nRosemarie Kuptana",
+  "birth_name": "Mary Jeannie May",
+  "birth_date": "August 21, 1947",
+  "birth_place": "Kangiqsualujjuaq, Quebec, Canada",
+  "spouse": "Robert Otis (m. March 27, 1967)\n\nGeorge Simon\n\nWhit Fraser (m. 1994)",
+  "children": "3",
+  "relatives": "Johnny May (brother)",
+  "education": "Kuujjuaq Federal Day School\nFort Carson High School",
+  "occupation": "Broadcaster · public servant · diplomat",
+  "signature": "Mary May Simon Signature.png",
+  "residence": "Rideau Hall"
+}
+{
+  "image": "Badge of the Governor-General of Canada.svg",
+  "name": "Mary Simon\n(2021–present)",
+  "dipstyle": "Her Excellency the Right Honourable\n\nSon Excellence la très honorable",
+  "offstyle": "Your Excellency\n\nVotre Excellence"
 }

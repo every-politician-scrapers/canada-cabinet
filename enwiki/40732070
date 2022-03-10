@@ -148,7 +148,7 @@
             "PC",
             "MP"
           ],
-          "size": "90%",
+          "size": "100",
           "template": "post-nominals"
         },
         {
@@ -196,10 +196,10 @@
             "text": "Mélanie Joly"
           },
           "image": {
-            "text": "File:Mélanie Joly, 2019-10-03 version 02.jpg"
+            "text": "Joly cropped.jpg"
           },
           "caption": {
-            "text": "Joly in 2019"
+            "text": "Joly in 2022"
           },
           "office": {
             "text": "Minister of Foreign Affairs",

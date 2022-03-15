@@ -1,0 +1,183 @@
+id,name,relationship,relative,relativename
+Q1249752,Mel Lastman,child,Q16728342,Dale Lastman
+Q128529,Paul Martin,father,Q524772,Paul Joseph James Martin
+Q128529,Paul Martin,spouse,Q3481745,Sheila Martin
+Q128543,Jean Chrétien,child,Q21483285,Hubert Chrétien
+Q128543,Jean Chrétien,child,Q5478272,France Chrétien Desmarais
+Q128543,Jean Chrétien,child,Q6836336,Michel Chrétien
+Q128543,Jean Chrétien,father,Q96241739,Willie Chrétien
+Q128543,Jean Chrétien,mother,Q96241812,Marie Boisvert
+Q128543,Jean Chrétien,relative,Q3420759,Raymond Chrétien
+Q128543,Jean Chrétien,sibling,Q3309276,Michel Chrétien
+Q128543,Jean Chrétien,spouse,Q2837024,Aline Chrétien
+Q128574,Joe Clark,child,Q5052592,Catherine Clark
+Q128574,Joe Clark,spouse,Q4410540,Maureen McTeer
+Q128933,Michaëlle Jean,spouse,Q3087911,Jean-Daniel Lafond
+Q1382032,Frank Mahovlich,sibling,Q432389,Peter Mahovlich
+Q1607747,Amir Khadir,spouse,Q71977944,Nimâ Machouf
+Q16243873,Hélène David,father,Q3370985,Paul David
+Q16243873,Hélène David,mother,Q58468244,Nellie Maillard
+Q16243873,Hélène David,sibling,Q2093379,Pierre David
+Q16243873,Hélène David,sibling,Q2958279,Charles-Philippe David
+Q16243873,Hélène David,sibling,Q3086459,Françoise David
+Q16536539,Catherine Dorion,father,Q74032615,Louis Dorion
+Q16536539,Catherine Dorion,mother,Q74033024,Claudette Brasseur
+Q1677183,Jack Ramsay,child,Q100390635,John G. Ramsay
+Q169303,Rob Ford,father,Q5300479,Doug Ford Sr.
+Q169303,Rob Ford,relative,Q24663887,Michael Ford
+Q169303,Rob Ford,sibling,Q39503265,Kathy Stirpe
+Q169303,Rob Ford,sibling,Q39503489,Randy Ford
+Q169303,Rob Ford,sibling,Q5300478,Doug Ford
+Q169303,Rob Ford,spouse,Q39503985,Renata Ford
+Q17305769,Arnold Chan,spouse,Q45311888,Jean Yip
+Q1840895,Erin O'Toole,father,Q14949607,John O'Toole
+Q1849355,Mike Scott,partner,Q2935027,Camille O'Sullivan
+Q1849355,Mike Scott,spouse,Q11281593,Megumi Igarashi
+Q1873388,Lucien Bouchard,sibling,Q3123783,Gérard Bouchard
+Q1892814,Thomas Mulcair,father,Q67152995,Harry Donnelly Mulcair
+Q1892814,Thomas Mulcair,mother,Q67153065,Jeanne Hurtubise
+Q1892814,Thomas Mulcair,spouse,Q5052876,Catherine Pinhas
+Q19880417,Karen McPherson,spouse,Q6211300,Joe McPherson
+Q205319,Gilles Duceppe,child,Q72194331,Alexis Brunelle-Duceppe
+Q205319,Gilles Duceppe,father,Q3171833,Jean Duceppe
+Q206,Stephen Harper,spouse,Q3218812,Laureen Harper
+Q20682472,Jonathan Vance,father,Q15993600,Jack Vance
+Q2086479,Helena Guergis,spouse,Q3417573,Rahim Jaffer
+Q21160212,Gary Anandasangaree,father,Q3535025,V. Anandasangaree
+Q21167969,Marilène Gill,spouse,Q21284594,Xavier Barsalou-Duval
+Q21284594,Xavier Barsalou-Duval,spouse,Q21167969,Marilène Gill
+Q21335996,Catherine McKenna,spouse,Q18686354,Scott Gilmore
+Q21336246,Harjit Sajjan,spouse,Q22639327,Kuljit Kaur
+Q21356553,Marie-Claude Bibeau,spouse,Q652759,Bernard Sévigny
+Q21642319,Daniel Blaikie,father,Q2903125,Bill Blaikie
+Q21964347,Caroline Mulroney,father,Q128563,Brian Mulroney
+Q21964347,Caroline Mulroney,mother,Q3313820,Mila Mulroney
+Q21964347,Caroline Mulroney,relative,Q22905984,Jessica Mulroney
+Q21964347,Caroline Mulroney,sibling,Q367056,Ben Mulroney
+Q22442799,Marc Serré,father,Q5516666,Gaetan Serré
+Q236482,Adrienne Clarkson,father,Q8017050,William Poy
+Q236482,Adrienne Clarkson,sibling,Q9385301,Neville Poy
+Q236482,Adrienne Clarkson,spouse,Q13522460,Stephen Clarkson
+Q236482,Adrienne Clarkson,spouse,Q981841,John R. Saul
+Q256249,Pauline Marois,spouse,Q2977031,Claude Blanchet
+Q2604970,Alexa McDonough,father,Q6662738,Lloyd Shaw
+Q2604970,Alexa McDonough,partner,Q1175435,David MacDonald
+Q276205,Sheila Copps,father,Q7925819,Victor Copps
+Q276205,Sheila Copps,mother,Q5549729,Geraldine Copps
+Q27680102,Renée Dupuis,partner,Q1694899,Pierre Morency
+Q27680102,Renée Dupuis,spouse,Q1694899,Pierre Morency
+Q2833494,Alexandre Boulerice,father,Q3158348,Jacques Boulerice
+Q28835038,Madeleine Bélanger,child,Q3180694,Johanne Gonthier
+Q28835038,Madeleine Bélanger,spouse,Q59783264,Fabien Bélanger
+Q2903125,Bill Blaikie,child,Q21642319,Daniel Blaikie
+Q2907803,Bob Runciman,spouse,Q108887419,Jeannette Runciman
+Q2977054,Claude Boucher,child,Q3591989,Étienne-Alexis Boucher
+Q30094708,Rafah DiCostanzo,spouse,Q47535973,John DiConstanzo
+Q3017694,David Collenette,spouse,Q17037385,Penny Collenette
+Q3022854,Denis Paradis,sibling,Q3386510,Pierre Paradis
+Q3026209,Diane Finley,spouse,Q5300472,Doug Finley
+Q3034854,Dominic LeBlanc,father,Q927934,Roméo LeBlanc
+Q3034943,Dominique Anglade,father,Q1508785,Georges Anglade
+Q3034943,Dominique Anglade,spouse,Q16217605,Helge Seetzen
+Q3086459,Françoise David,father,Q3370985,Paul David
+Q3086459,Françoise David,mother,Q58468244,Nellie Maillard
+Q3086459,Françoise David,sibling,Q16243873,Hélène David
+Q3086459,Françoise David,sibling,Q2093379,Pierre David
+Q3086459,Françoise David,sibling,Q2958279,Charles-Philippe David
+Q3099714,Justin Trudeau,father,Q8619,Pierre Trudeau
+Q3099714,Justin Trudeau,mother,Q3290526,Margaret Trudeau
+Q3099714,Justin Trudeau,sibling,Q4720909,Alexandre Trudeau
+Q3099714,Justin Trudeau,sibling,Q5232929,Michel Trudeau
+Q3099714,Justin Trudeau,spouse,Q3788185,Sophie Grégoire
+Q3101057,Geoff Regan,father,Q247524,Gerald Regan
+Q3101057,Geoff Regan,sibling,Q1710153,Laura Regan
+Q3101057,Geoff Regan,spouse,Q6386259,Kelly Regan
+Q3101084,Geoffrey Kelley,child,Q60833305,Gregory Kelley
+Q3106095,Gilles Bernier,child,Q516940,Maxime Bernier
+Q311684,Michael Ignatieff,father,Q500237,George Ignatieff
+Q311684,Michael Ignatieff,mother,Q110384411,Alison Grant
+Q317842,Jack Layton,spouse,Q3350703,Olivia Chow
+Q3179947,Jody Carr,sibling,Q3157141,Jack Carr
+Q3180694,Johanne Gonthier,mother,Q28835038,Madeleine Bélanger
+Q3189174,Julie Boulet,sibling,Q57514843,Jean Boulet
+Q3193323,Karine Vallières,father,Q3574167,Yvon Vallières
+Q3242560,Lisette Lapointe,spouse,Q1393455,Jacques Parizeau
+Q3262931,Louis Plamondon,sibling,Q591655,Luc Plamondon
+Q3264840,Luc Harvey,child,Q17485986,Magali Harvey
+Q3289311,Marcel Proulx,relative,Q5338905,Edmond Proulx
+Q3289311,Marcel Proulx,relative,Q6080948,Isidore Proulx
+Q3290485,Margaret Delisle,sibling,Q743225,Michael Fortier
+Q3293420,Mario Dumont,spouse,Q16663022,Marie-Claude Barrette
+Q3309730,Michel Gauthier,father,Q3184279,Joseph-Georges Gauthier
+Q3320871,Monique Jérôme-Forget,spouse,Q1153616,Claude Forget
+Q3341082,Nicole Léger,father,Q3289184,Marcel Léger
+Q3341504,Niki Ashton,father,Q7611822,Steve Ashton
+Q3350703,Olivia Chow,spouse,Q317842,Jack Layton
+Q3367236,Pascal-Pierre Paillé,father,Q3310496,Michel Paillé
+Q3383756,Pierre Arcand,sibling,Q3370497,Paul Arcand
+Q3383756,Pierre Arcand,spouse,Q3035049,Dominique Chaloult
+Q3385672,Pierre Karl Péladeau,father,Q3386717,Pierre Péladeau
+Q3385672,Pierre Karl Péladeau,spouse,Q3189271,Julie Snyder
+Q3386510,Pierre Paradis,sibling,Q3022854,Denis Paradis
+Q3417573,Rahim Jaffer,spouse,Q2086479,Helena Guergis
+Q3431309,Richard Wagner,father,Q2978274,Claude Wagner
+Q3441197,Romeo Saganash,child,Q102407100,Maïtée Labrecque-Saganas
+Q3479234,Serge Cardin,sibling,Q3308737,Michel-André Cardin
+Q3481750,Sheila Finestone,father,Q1945178,Monroe Abbey
+Q3501650,Stéphane Bédard,father,Q117141,Marc-André Bédard
+Q3561548,Vivian Barbot,father,Q16002951,Clément Barbot
+Q3573412,Yves-François Blanchet,spouse,Q90259141,Nancy Déziel
+Q3574167,Yvon Vallières,child,Q3193323,Karine Vallières
+Q366456,Stéphane Dion,father,Q3270913,Léon Dion
+Q366456,Stéphane Dion,spouse,Q6154564,Janine Krieber
+Q41564,David Johnston,spouse,Q14949441,Sharon Johnston
+Q45311888,Jean Yip,spouse,Q17305769,Arnold Chan
+Q4684985,Adrian Dix,spouse,Q19894620,Renée Sarojini Saklikar
+Q4890173,Benoît Serré,sibling,Q5516666,Gaetan Serré
+Q48966,Jean Charest,spouse,Q3311609,Michèle Dionne
+Q4899314,Bev Desjarlais,spouse,Q4932272,Bob Desjarlais
+Q516940,Maxime Bernier,father,Q3106095,Gilles Bernier
+Q517540,Lawrence Cannon,father,Q106866291,Louis Cannon
+Q517540,Lawrence Cannon,relative,Q2959189,Charles Gavan Power
+Q517540,Lawrence Cannon,relative,Q3568890,William Power
+Q5300478,Doug Ford,child,Q6437678,Krista Haynes
+Q5300478,Doug Ford,father,Q5300479,Doug Ford Sr.
+Q5300478,Doug Ford,sibling,Q169303,Rob Ford
+Q5300478,Doug Ford,sibling,Q39503265,Kathy Stirpe
+Q5300478,Doug Ford,sibling,Q39503489,Randy Ford
+Q5386756,Eric Hoskins,spouse,Q7408709,Samantha Nutt
+Q548048,Belinda Stronach,father,Q84699,Frank Stronach
+Q548048,Belinda Stronach,spouse,Q318403,Johann Olav Koss
+Q5539530,George Furey,child,Q98098468,Andrew Furey
+Q56871253,Caroline Proulx,father,Q16266531,Jacques Proulx
+Q56871253,Caroline Proulx,relative,Q3106466,Gilles Proulx
+Q574359,Bernard Landry,spouse,Q2956318,Chantal Renaud
+Q574359,Bernard Landry,spouse,Q3259653,Lorraine Laporte-Landry
+Q57514843,Jean Boulet,sibling,Q3189174,Julie Boulet
+Q5761100,Hilary Weston,spouse,Q1491812,Galen Weston
+Q6122681,Jagmeet Singh,sibling,Q54862585,Gurratan Singh
+Q63565674,Paul Manly,father,Q6138866,James Manly
+Q6387442,Ken Cheveldayoff,sibling,Q637302,Kevin Cheveldayoff
+Q67442310,Anita Anand,sibling,Q28823540,Sonia Anand
+Q6780723,Mary Simon,spouse,Q107443528,Whit Fraser
+Q7129736,Pana Merchant,spouse,Q4773084,Anthony Merchant
+Q716246,Peter MacKay,spouse,Q447592,Nazanin Afshin-Jam
+Q717744,Ed Broadbent,spouse,Q434183,Ellen Meiksins Wood
+Q72194331,Alexis Brunelle-Duceppe,father,Q205319,Gilles Duceppe
+Q7279347,Rachel Notley,father,Q5596382,Grant Notley
+Q739820,Ken Dryden,father,Q6939214,Murray Dryden
+Q743225,Michael Fortier,sibling,Q3290485,Margaret Delisle
+Q7937899,Vivienne Poy,father,Q10898425,Richard Charles Lee
+Q7937899,Vivienne Poy,spouse,Q9385301,Neville Poy
+Q872073,David Kilgour,sibling,Q5530135,Geills Turner
+Q888208,Bob Rae,spouse,Q4792163,Arlene Perly Rae
+Q930026,Rosalie Abella,spouse,Q356337,Irving Abella
+Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Q9682,Elizabeth II,father,Q280856,George VI
+Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Q98098468,Andrew Furey,father,Q5539530,George Furey

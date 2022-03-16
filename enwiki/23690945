@@ -1,5 +1,5 @@
 {
-  "honorific-prefix": "Her Excellency the Right Honourable",
+  "honorific_prefix": "Her Excellency the Right Honourable",
   "name": "Mary Simon",
   "native_name": "Ningiukudluk",
   "image": "Mary Simon GG Announcement 2.png",
@@ -37,10 +37,10 @@
   "spouse": "Robert Otis (m. March 27, 1967)\n\nGeorge Simon\n\nWhit Fraser (m. 1994)",
   "children": "3",
   "relatives": "Johnny May (brother)",
+  "residence": "Rideau Hall",
   "education": "Kuujjuaq Federal Day School\nFort Carson High School",
   "occupation": "Broadcaster · public servant · diplomat",
-  "signature": "Mary May Simon Signature.png",
-  "residence": "Rideau Hall"
+  "signature": "Mary May Simon Signature.png"
 }
 {
   "image": "Badge of the Governor-General of Canada.svg",

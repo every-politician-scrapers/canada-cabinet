@@ -132,7 +132,7 @@ GEM
     wikisnakker (0.9.1)
       require_all
       yajl-ruby
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
 
 PLATFORMS
   x86_64-darwin-17

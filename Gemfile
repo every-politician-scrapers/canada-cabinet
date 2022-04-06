@@ -6,7 +6,7 @@ ruby '~> 2.6.0'
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
-gem 'every-politician-scraper', '0.4.2', github: 'tmtmtmtm/every-politician-scraper', branch: 'main'
+gem 'every-politician-scraper', '0.5.1', github: 'tmtmtmtm/every-politician-scraper', branch: 'main'
 gem 'open-uri-cached'
 gem 'pry'
 gem 'rake'

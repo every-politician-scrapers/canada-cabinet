@@ -1,51 +1,49 @@
 @@,item,itemlabel,startdate,enddate,riding,ridinglabel,party,partylabel
-+++,Q56749931,Andrea Anderson-Mason,,,Q2960932,Fundy-The Isles-Saint John West,Q3366632,Progressive Conservative
-+++,Q99337130,Arlene Dunn,,,Q3463898,Saint John Harbour,Q3366632,Progressive Conservative
-+++,Q18149585,Benoît Bourque,,,Q3195267,Kent South,Q2867848,Liberal
-+++,Q99496241,Bill Hogan,,,Q16256540,Carleton,Q3366632,Progressive Conservative
-->,Q18167984,Bill Oliver,2020-10-07,,NULL->Q16989122,NULL->Kings Centre,NULL->Q3366632,NULL->Progressive Conservative
-+++,Q2905723,Blaine Higgs,,,Q3414719,Quispamsis,Q3366632,Progressive Conservative
-+++,Q2926414,Bruce Fitch,,,Q3433524,Riverview,Q3366632,Progressive Conservative
----,Q749772,Chris Collins,2014,,,,,
-+++,Q18149930,Chuck Chiasson,,,Q3113468,Victoria-La Vallée,Q2867848,Liberal
-+++,Q62609137,Daniel Allain,,,Q17090780,Moncton East,Q3366632,Progressive Conservative
-+++,Q18164931,Daniel Guitard,,,Q3341339,Restigouche-Chaleur,Q2867848,Liberal
-+++,Q950184,David Coon,,,Q16981383,Fredericton South,Q3366821,Green
-+++,Q3022774,Denis Landry,,,Q16253549,Bathurst East-Nepisiguit-Saint-Isidore,Q2867848,Liberal
-+++,Q3034840,Dominic Cardy,,,Q16981385,Fredericton West-Hanwell,Q3366632,Progressive Conservative
-+++,Q3037187,Dorothy Shephard,,,Q3463899,Saint John Lancaster,Q3366632,Progressive Conservative
-+++,Q105038341,Eric Mallet,,,Q3216887,Shippagan-Lamèque-Miscou,Q2867848,Liberal
-+++,Q18168079,Ernie Steeves,,,Q47462543,Moncton Northwest,Q3366632,Progressive Conservative
-+++,Q18165811,Francine Landry,,,Q3275450,Madawaska Les Lacs-Edmundston,Q2867848,Liberal
-+++,Q18150265,Gary Crossman,,,Q16983208,Hampton,Q3366632,Progressive Conservative
-+++,Q18167937,Gilles LePage,,,Q7316116,Restigouche West,Q2867848,Liberal
-+++,Q3108698,Glen Savoie,,,Q3463893,Saint John East,Q3366632,Progressive Conservative
-+++,Q99337790,Greg Turner,,,Q47462432,Moncton South,Q3366632,Progressive Conservative
-+++,Q3121527,Guy Arseneault,,,Q16256328,Campbellton-Dalhousie,Q2867848,Liberal
-+++,Q56744315,Isabelle Thériault,,,Q2937885,Caraquet,Q2867848,Liberal
-+++,Q60734152,Jacques LeBlanc,,,Q3481698,Shediac-Beaubassin-Cap-Pelé,Q2867848,Liberal
-+++,Q3160637,Jake Stewart,,,Q3315869,Southwest Miramichi-Bay du Vin,Q3366632,Progressive Conservative
-+++,Q3164924,Jean-Claude D'Amours,,,Q3048153,Edmundston-Madawaska Centre,Q2867848,Liberal
-+++,Q18149828,Jeff Carr,,,Q281399,New Maryland-Sunbury,Q3366632,Progressive Conservative
-+++,Q99472134,Jill Green,,,Q5499248,Fredericton North,Q3366632,Progressive Conservative
-+++,Q99337138,Kathy Bockus,,,Q2960928,Saint Croix,Q3366632,Progressive Conservative
-+++,Q56809099,Keith Chiasson,,,Q3536142,Tracadie-Sheila,Q2867848,Liberal
-+++,Q56749848,Kevin Arseneau,,,Q3439665,Kent North,Q3366821,Green
-+++,Q3199717,Kris Austin,,,Q16981388,Fredericton-Grand Lake,Q3366632,Progressive Conservative
-+++,Q18164963,Lisa Harris,,,Q2879404,Miramichi Bay-Neguac,Q2867848,Liberal
-+++,Q99472210,Margaret Johnson,,,Q16955881,Carleton-Victoria,Q3366632,Progressive Conservative
-+++,Q56751774,Mary Wilson,,,Q17052880,Oromocto-Lincoln-Fredericton,Q3366632,Progressive Conservative
-+++,Q56744330,Megan Mitton,,,Q3515350,Memramcook-Tantramar,Q3366821,Green
-+++,Q56744334,Michelle Conroy,,,,,Q17090633,Miramichi
-+++,Q60734149,Mike Holland,,,Q2830904,Albert,Q3366632,Progressive Conservative
-+++,Q99337137,René Legacy,,,Q16950560,Bathurst West-Beresford,Q2867848,Liberal
-+++,Q104551133,Richard Ames,,,Q17059436,Carleton-York,Q3366632,Progressive Conservative
-+++,Q56809125,Rob McKee,,,Q17090768,Moncton Centre,Q2867848,Liberal
+->,Q56749931,Andrea Anderson-Mason,2020-09-28,,Q2960932,Fundy-The Isles-Saint John West,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337130,Arlene Dunn,2020-09-28,,Q3463898,Saint John Harbour,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18149585,Benoît Bourque,2020-09-28,,Q3195267,Kent South,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q99496241,Bill Hogan,2020-09-28,,Q16256540,Carleton,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
++++,Q18167984,Bill Oliver,,,Q16989122,Kings Centre,Q3366632,Progressive Conservative
+->,Q2905723,Blaine Higgs,2020-09-28,,Q3414719,Quispamsis,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18149930,Chuck Chiasson,2020-09-28,,Q3113468,Grand Falls-Drummond-Saint-André->Victoria-La Vallée,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q62609137,Daniel Allain,2020-09-28,,Q17090780,Moncton East,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18164931,Daniel Guitard,2020-09-28,,Q3341339,Nigadoo-Chaleur->Restigouche-Chaleur,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q950184,David Coon,2020-09-28,,Q16981383,Fredericton South,Q3366821,Green Party of New Brunswick->Green
+->,Q3022774,Denis Landry,2020-09-28,,Q16253549,Bathurst East-Nepisiguit-Saint-Isidore,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q3034840,Dominic Cardy,2020-09-28,,Q16981385,Fredericton West-Hanwell,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3037187,Dorothy Shephard,2020-09-28,,Q3463899,Saint John Lancaster,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q105038341,Eric Mallet,2020-09-28,,Q3216887,Shippagan-Lamèque-Miscou,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q18168079,Ernie Steeves,2020-09-28,,Q47462543,Moncton Northwest,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18165811,Francine Landry,2020-09-28,,Q3275450,Madawaska-les-Lacs->Madawaska Les Lacs-Edmundston,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q18150265,Gary Crossman,2020-09-28,,Q16983208,Hampton,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18167937,Gilles LePage,2020-09-28,,Q7316116,Restigouche West,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q3108698,Glen Savoie,2020-09-28,,Q3463893,Saint John East,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337790,Greg Turner,2020-09-28,,Q47462432,Moncton South,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3121527,Guy Arseneault,2020-09-28,,Q16256328,Campbellton-Dalhousie,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q56744315,Isabelle Thériault,2020-09-28,,Q2937885,Caraquet,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q60734152,Jacques LeBlanc,2020-09-28,,Q3481698,Shediac-Cap-Pelé->Shediac-Beaubassin-Cap-Pelé,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q3160637,Jake Stewart,2020-09-28,,Q3315869,Southwest Miramichi-Bay du Vin,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3164924,Jean-Claude D'Amours,2020-09-28,,Q3048153,Edmundston-Saint Basile->Edmundston-Madawaska Centre,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q18149828,Jeff Carr,2020-09-28,,Q281399,New Maryland-Sunbury West->New Maryland-Sunbury,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99472134,Jill Green,2020-09-28,,Q5499248,Fredericton North,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337138,Kathy Bockus,2020-09-28,,Q2960928,Charlotte-Campobello->Saint Croix,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q56809099,Keith Chiasson,2020-09-28,,Q3536142,Tracadie-Sheila,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q56749848,Kevin Arseneau,2020-09-28,,Q3439665,Kent North,Q3366821,Green Party of New Brunswick->Green
+->,Q3199717,Kris Austin,2020-09-28,,Q16981388,Fredericton-Grand Lake,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q18164963,Lisa Harris,2020-09-28,,Q2879404,Miramichi Bay-Neguac,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q99472210,Margaret Johnson,2020-09-28,,Q16955881,Carleton-Victoria,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q56751774,Mary Wilson,2020-09-28,,Q17052880,Oromocto-Lincoln-Fredericton,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q56744330,Megan Mitton,2020-09-28,,Q3515350,Tantramar->Memramcook-Tantramar,Q3366821,Green Party of New Brunswick->Green
+->,Q60734149,Mike Holland,2020-09-28,,Q2830904,Albert,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q2926414,Ralph Bruce Fitch->Bruce Fitch,2020-09-28,,Q3433524,Riverview,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337137,René Legacy,2020-09-28,,Q16950560,Bathurst West-Beresford,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q104551133,Richard Ames,2020-09-28,,Q17059436,York->Carleton-York,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q56809125,Rob McKee,2020-09-28,,Q17090768,Moncton Centre,Q2867848,New Brunswick Liberal Association->Liberal
 ->,Q56749889,Robert Gauvin,2020-09-14,,Q17093013,Shediac Bay-Dieppe,NULL->Q2867848,NULL->Liberal
-+++,Q3439270,Roger Melanson,,,Q3027487,Dieppe,Q2867848,Liberal
-+++,Q3442799,Ross Wetmore,,,Q16981570,Gagetown-Petitcodiac,Q3366632,Progressive Conservative
-+++,Q99337140,Ryan Cullins,,,Q16981389,Fredericton-York,Q3366632,Progressive Conservative
-+++,Q3481980,Sherry Wilson,,,Q17090787,Moncton Southwest,Q3366632,Progressive Conservative
-+++,Q99337131,Tammy Scott-Wallace,,,Q3197087,Sussex-Fundy-St. Martins,Q3366632,Progressive Conservative
-+++,Q3142247,Ted Flemming,,,Q3442975,Rothesay,Q3366632,Progressive Conservative
-+++,Q3538587,Trevor Holder,,,Q3463902,Portland-Simonds,Q3366632,Progressive Conservative
+->,Q3439270,Roger Melanson,2020-09-28,,Q3027487,Dieppe Centre-Lewisville->Dieppe,Q2867848,New Brunswick Liberal Association->Liberal
+->,Q3442799,Ross Wetmore,2020-09-28,,Q16981570,Gagetown-Petitcodiac,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337140,Ryan Cullins,2020-09-28,,Q16981389,Fredericton-York,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3481980,Sherry Wilson,2020-09-28,,Q17090787,Moncton Southwest,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q99337131,Tammy Scott-Wallace,2020-09-28,,Q3197087,Kings East->Sussex-Fundy-St. Martins,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3142247,Ted Flemming,2020-09-28,,Q3442975,Rothesay,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative
+->,Q3538587,Trevor Holder,2020-09-28,,Q3463902,Saint John Portland->Portland-Simonds,Q3366632,Progressive Conservative Party of New Brunswick->Progressive Conservative

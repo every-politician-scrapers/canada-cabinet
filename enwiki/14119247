@@ -1,7 +1,6 @@
 {
   "honorific-prefix": "Her Honour the Honourable",
   "name": "Judy Foote",
-  "image": "Judy Foote.jpg",
   "image_size": "150px",
   "office": "14th [[Lieutenant Governor of Newfoundland and Labrador|Lieutenant Governor of\nNewfoundland and Labrador]]",
   "monarch": "Elizabeth II",
@@ -45,13 +44,11 @@
   "website": "http://www.govhouse.nl.ca"
 }
 {
-  "image": "Badge of the Lieutenant Governor of Newfoundland and Labrador.svg",
   "name": "Judy Foote\n(2018–present)",
   "dipstyle": "Her Honour the Honourable\n\nSon Honneur l'honorable",
   "offstyle": "Your Honour\n\nVotre Honneur"
 }
 {
-  "image": "Coat of arms of Judy Foote.svg",
   "escutcheon": "Azure on a lozenge fesswise conjoined with a fillet cross and a fillet saltire Argent and environed by dog paw prints Or, a boar passant Azure armed and unguled Gules.",
   "crest": "A black spruce proper charged with a butterfly Or embellished Azure and flanked by two daffodils all issuant from a rocky mount prope.",
   "supporters": "Two doves proper each charged on its shoulder with a cross-crosslet Azure, resting its interior claw on a lyre Or set on a closed book lying flat its spine outwards and standing on a rocky mount set with grass proper and issuant from a bar wavy Azure.",

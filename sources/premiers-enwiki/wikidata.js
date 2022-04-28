@@ -1,7 +1,3 @@
-const fs = require('fs');
-let rawmeta = fs.readFileSync('meta.json');
-let meta = JSON.parse(rawmeta);
-
 module.exports = function () {
   return `SELECT DISTINCT ?province ?provinceLabel ?position ?positionLabel ?person ?personLabel ?start
          (STRAFTER(STR(?held), '/statement/') AS ?psid)

@@ -2,7 +2,7 @@ name: Generate PCB
 
 on:
   schedule:
-    - cron:  '44 3 * * *'
+    - cron:  '14 2 * * *'
   workflow_dispatch: {}
 
 jobs:

@@ -1,7 +1,8 @@
 {
   "honorific-prefix": "The Honourable",
   "name": "Chrystia Freeland",
-  "office": "10th Deputy Prime Minister of Canada",
+  "order": "10th",
+  "office": "Deputy Prime Minister of Canada",
   "primeminister": "Justin Trudeau",
   "term_start": "November 20, 2019",
   "predecessor": "Anne McLellan",

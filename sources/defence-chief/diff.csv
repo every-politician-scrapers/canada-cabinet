@@ -1,10 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Jean Victor Allard->Jean-Victor Allard,Q3170066,1966-07->1966,1969
-->,Jacques Dextraze->Jacques Alfred Dextraze,Q3158743,1972,1977
-+++,Paul David Manson,Q16095747,1986,1989
-+++,John de Chastelain,Q3182811,1989,1993-01
----,John de Chastelain,Q3182811,1989-09,1993
-->,John Rogers Anderson,Q14949491,1993->1993-01,1993->1993-12
-->,John de Chastelain,Q3182811,1994->1994-01,1995-12
-->,Jean Boyle->Joseph Édouard Jean Boyle,Q6170312,1996-01,1996-10-08
-->,Ray Henault->Raymond Henault,Q344404,2001-06-28,2005-06-17
+@@,item,itemlabel,startdate,enddate
+->,Q344404,Ray Henault->Raymond Henault,2001-06-28,2005-06-17

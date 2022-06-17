@@ -1,12 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Hiram Blanchard,Q3136197,1867-07-04,1867-09-30->1867-11-07
-->,William Annand,Q3568392,1867-11-07,1875-05-08->1875-05-11
-->,Philip Carteret Hill,Q3378986,1875-05-11,1878-10-15->1878-10-22
-->,Simon Hugh Holmes,Q3484303,1878-10-22,1882-05-23->1882-05-25
-->,John Sparrow David Thompson,Q128686,1882-05-25,1882-07-18->1882-08-03
-->,William Thomas Pipes,Q3568997,1882-08-03,1884-07-15->1884-07-28
-->,William Stevens Fielding,Q3568973,1884-07-28,1896-07-18->1896-07-20
-->,Angus Lewis Macdonald->Angus L. Macdonald,Q2849816,1933-09-05,1940-07-10
-->,Angus Lewis Macdonald->Angus L. Macdonald,Q2849816,1945-09-08,1954-04-13
-->,Harold Connolly,Q1585862,1954-04-14->1954-04-13,1954-09-29->1954-09-30
-->,John Hamm->John F. Hamm,Q3181686,1999-08-16,2006-02-24
+@@,item,itemlabel,startdate,enddate
+->,Q3181686,John Hamm->John F. Hamm,1999-08-16,2006-02-24

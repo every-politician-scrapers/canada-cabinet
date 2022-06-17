@@ -31,10 +31,10 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: 7d77e30b4a0fa37819b463e1ff434d86e2db59e9
+  revision: 6637d7758cb65bcf87433457fcbb09feccf18523
   branch: main
   specs:
-    every-politician-scraper (0.5.2)
+    every-politician-scraper (0.7.0)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -46,7 +46,7 @@ GEM
     daff (1.3.27)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    excon (0.92.2)
+    excon (0.92.3)
     faraday (0.17.5)
       multipart-post (>= 1.2, < 3)
     faraday-cookie_jar (0.0.7)
@@ -57,10 +57,10 @@ GEM
     field_serializer (0.3.0)
     hashie (3.6.0)
     http-accept (1.7.0)
-    http-cookie (1.0.4)
+    http-cookie (1.0.5)
       domain_name (~> 0.5)
     httpclient (2.8.3)
-    json (2.6.1)
+    json (2.6.2)
     kwalify (0.7.2)
     mediawiki_api (0.7.1)
       faraday (~> 0.9, >= 0.9.0)
@@ -78,7 +78,7 @@ GEM
       racc (~> 1.4)
     open-uri-cached (1.0.0)
     parallel (1.22.1)
-    parser (3.1.1.0)
+    parser (3.1.2.0)
       ast (~> 2.4.1)
     pry (0.14.1)
       coderay (~> 1.1)
@@ -86,11 +86,11 @@ GEM
     racc (1.6.0)
     rainbow (3.1.1)
     rake (13.0.6)
-    reek (6.1.0)
+    reek (6.1.1)
       kwalify (~> 0.7.0)
       parser (~> 3.1.0)
       rainbow (>= 2.0, < 4.0)
-    regexp_parser (2.3.0)
+    regexp_parser (2.5.0)
     require_all (3.0.0)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
@@ -107,7 +107,7 @@ GEM
       rubocop-ast (>= 0.6.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 2.0)
-    rubocop-ast (1.17.0)
+    rubocop-ast (1.18.0)
       parser (>= 3.1.1.0)
     ruby-progressbar (1.11.0)
     scraped (0.5.0)
@@ -122,7 +122,7 @@ GEM
       sqlite3
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.8.1)
+    unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     wikidata-client (0.0.12)
       excon (~> 0.40)
@@ -132,14 +132,14 @@ GEM
     wikisnakker (0.9.1)
       require_all
       yajl-ruby
-    yajl-ruby (1.4.2)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   x86_64-darwin-17
   x86_64-linux
 
 DEPENDENCIES
-  every-politician-scraper (= 0.5.2)!
+  every-politician-scraper (= 0.7.0)!
   open-uri-cached
   pry
   rake

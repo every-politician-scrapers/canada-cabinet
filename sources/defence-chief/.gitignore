@@ -1,3 +1,4 @@
 *.js
 add_named_ref.sh
+run-comparison.sh
 diff.rb

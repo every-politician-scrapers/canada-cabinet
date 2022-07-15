@@ -1,50 +1,10 @@
 name: Compare external data
 
 on:
-  workflow_call: {}
+  schedule:
+    - cron:  '14 3 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: |-
-        sudo apt-get install jq moreutils
-        npm install -g wikibase-cli
-        curl -L https://github.com/every-politician-scrapers/shared/raw/main/bin/qsv -o /usr/local/bin/qsv
-        chmod 755 /usr/local/bin/qsv
-        bundle install
-    - name: Compare external sources to Wikidata
-      id: run-comp
-      run: |-
-        shopt -s globstar nullglob
-        (for comp in **/compare*.sh; do echo "# $comp" && echo "\`\`\`" && bash $comp; echo "\`\`\`"; done) 2>&1 | tee /tmp/OUTPUT
-        body=$(cat /tmp/OUTPUT)
-        body="${body//'%'/'%25'}"
-        body="${body//$'\n'/'%0A'}"
-        body="${body//$'\r'/'%0D'}"
-        echo ::set-output name=body::$body
-    - name: Create pull request
-      id: cpr
-      uses: peter-evans/create-pull-request@v3
-      with:
-        commit-message: Compare external sources to Wikidata
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: compare
-        delete-branch: true
-        title: 'Compare external sources to Wikidata'
-        body: ${{ steps.run-comp.outputs.body }}
-        assignees: tmtmtmtm
-        reviewers: tmtmtmtm
-    - name: Check outputs
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+    uses: every-politician-scrapers/shared/.github/workflows/compare.yml@main

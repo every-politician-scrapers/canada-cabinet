@@ -6,7 +6,7 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 # Only compare IDs, not names, as those differ between WP/WD
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     super
     # super.reject { |name| name.to_s == 'personLabel' }

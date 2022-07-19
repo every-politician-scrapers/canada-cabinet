@@ -1,0 +1,387 @@
+{
+  "title": "Caroline Cochrane",
+  "pageID": 48644824,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Canadian female first ministers",
+    "Canadian Métis people",
+    "Members of the Executive Council of the Northwest Territories",
+    "Members of the Legislative Assembly of the Northwest Territories",
+    "People from Flin Flon",
+    "Premiers of the Northwest Territories",
+    "Women government ministers of Canada",
+    "Women MLAs in the Northwest Territories",
+    "21st-century Canadian women politicians",
+    "Female heads of government"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Caroline Cochrane (born December 5, 1960) is a Canadian politician, who is the 13th and current premier of the Northwest Territories.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "text": "premier of the Northwest Territories",
+                  "type": "internal",
+                  "page": "premier of the Northwest Territories"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Caroline Cochrane"
+                ]
+              }
+            },
+            {
+              "text": "She is one of two currently serving female premiers in Canada and the second female premier of the Northwest Territories after Nellie Cournoyea, who served from 1991 to 1995.",
+              "links": [
+                {
+                  "text": "female premiers in Canada",
+                  "type": "internal",
+                  "page": "List of female first ministers in Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nellie Cournoyea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was formerly known as Caroline Cochrane-Johnson.",
+              "formatting": {
+                "bold": [
+                  "Caroline Cochrane-Johnson"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1960",
+          "month": "12",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Caroline Cochrane"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "Legislative Assembly of the Northwest Territories"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 5, 1960"
+          },
+          "birth_place": {
+            "text": "Flin Flon, Manitoba, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Flin Flon"
+              },
+              {
+                "type": "internal",
+                "page": "Manitoba"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Yellowknife, Northwest Territories",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yellowknife"
+              },
+              {
+                "type": "internal",
+                "page": "Northwest Territories"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Commissioner"
+          },
+          "1namedata1": {
+            "text": "Margaret Thom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margaret Thom"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Diane Archie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diane Archie"
+              }
+            ]
+          },
+          "office1": {
+            "text": "13th Premier of the Northwest Territories",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of the Northwest Territories"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 24, 2019"
+          },
+          "predecessor1": {
+            "text": "Bob McLeod",
+            "links": [
+              {
+                "text": "Bob McLeod",
+                "type": "internal",
+                "page": "Bob McLeod (politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Legislative Assembly of the Northwest Territories",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legislative Assembly of the Northwest Territories"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 23, 2015"
+          },
+          "constituency2": {
+            "text": "Range Lake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Range Lake"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Daryl Dolynny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daryl Dolynny"
+              }
+            ]
+          },
+          "party": {
+            "text": "non-partisan\nconsensus government",
+            "links": [
+              {
+                "text": "consensus government",
+                "type": "internal",
+                "page": "consensus government"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.theglobeandmail.com/canada/article-legislators-pick-caroline-cochrane-as-new-premier-of-the-northwest/",
+          "title": "Legislators pick Caroline Cochrane as new premier of the Northwest Territories",
+          "access-date": "November 3, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cochrane was born in Flin Flon, Manitoba, in 1960 and moved with her family to Yellowknife in 1963, where she grew up.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Flin Flon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Manitoba"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yellowknife"
+                }
+              ]
+            },
+            {
+              "text": "She was first elected to the Legislative Assembly of the Northwest Territories in the 2015 election, representing the electoral district of Range Lake.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of the Northwest Territories"
+                },
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Northwest Territories general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Range Lake"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to her election to the legislature, Cochrane was CEO of the Centre for Northern Families, a social-service agency administered by the Yellowknife Women's Society in Yellowknife.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yellowknife"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2019, Cochrane defeated three other candidates after three rounds of secret-ballot votes and was elected Premier of the Northwest Territories.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Premier of the Northwest Territories"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/caroline-cochrane",
+          "title": "Caroline Cochrane &#124; the Canadian Encyclopedia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Caroline Cochrane",
+          "date": "September 11, 2019",
+          "publisher": "NNSL News",
+          "url": "https://nnsl.com/territory-candidates/caroline-cochrane/",
+          "accessdate": "October 24, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.huffingtonpost.ca/entry/caroline-cochrane-nwt-premier_ca_5db203b1e4b00448c945a960",
+          "title": "New N.W.T. Premier Chosen Under Territory's 'Consensus' System",
+          "date": "October 24, 2019",
+          "website": "HuffPost",
+          "access-date": "November 3, 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "northwest territories mlas"
+        },
+        {
+          "template": "nwtpremiers"
+        },
+        {
+          "template": "first ministers of canada"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "northwestterritories-politician-stub"
+        }
+      ]
+    }
+  ]
+}

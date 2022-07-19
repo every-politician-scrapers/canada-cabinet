@@ -1,0 +1,642 @@
+{
+  "title": "Geneviève Guilbault",
+  "pageID": 55423136,
+  "categories": [
+    "Living people",
+    "Coalition Avenir Québec MNAs",
+    "People from Longueuil",
+    "Women MNAs in Quebec",
+    "21st-century Canadian politicians",
+    "1982 births",
+    "Deputy premiers of Quebec",
+    "Members of the Executive Council of Quebec",
+    "Women government ministers of Canada",
+    "Université Laval alumni",
+    "21st-century Canadian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Geneviève Guilbault (born November 4, 1982) is a Canadian politician, who was elected to the National Assembly of Quebec in a by-election held in the electoral district Louis-Hébert on October 2, 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Quebec"
+                },
+                {
+                  "text": "by-election",
+                  "type": "internal",
+                  "page": "by-election"
+                },
+                {
+                  "text": "Louis-Hébert",
+                  "type": "internal",
+                  "page": "Louis-Hébert (provincial electoral district)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Geneviève Guilbault"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Coalition Avenir Québec.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Coalition Avenir Québec"
+                }
+              ]
+            },
+            {
+              "text": "On October 18, 2018 she was appointed Deputy Premier and Minister of Public Safety.",
+              "links": [
+                {
+                  "text": "Deputy Premier",
+                  "type": "internal",
+                  "page": "Deputy Premier of Quebec"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to her election to the legislature, she worked as a communications officer for the provincial coroner's office.",
+              "links": [
+                {
+                  "text": "coroner",
+                  "type": "internal",
+                  "page": "coroner"
+                }
+              ]
+            },
+            {
+              "text": "She had previously planned to run for the CAQ in the electoral district of Charlesbourg in the 2018 provincial election, but was selected as the by-election candidate in Louis-Hébert after the party's original candidate, Normand Sauvageau, resigned.",
+              "links": [
+                {
+                  "text": "Charlesbourg",
+                  "type": "internal",
+                  "page": "Charlesbourg (provincial electoral district)"
+                },
+                {
+                  "text": "2018 provincial election",
+                  "type": "internal",
+                  "page": "2018 Quebec general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2013",
+          "template": "use canadian english"
+        },
+        {
+          "year": "1982",
+          "month": "11",
+          "day": "4",
+          "mf": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1982",
+            "month": "11",
+            "date": "4",
+            "mf": "yes",
+            "template": "birth date",
+            "text": "November 4, 1982"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Geneviève Guilbault"
+          },
+          "birth_date": {
+            "text": "November 4, 1982"
+          },
+          "birth_place": {
+            "text": "Greenfield Park, Quebec, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greenfield Park, Quebec"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Communications Officer, Political Advisor"
+          },
+          "party": {
+            "text": "Coalition Avenir Québec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition Avenir Québec"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Quebec Liberal Party\n(before 2006)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quebec Liberal Party"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Saint-Augustin-de-Desmaures",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint-Augustin-de-Desmaures"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MNA",
+            "links": [
+              {
+                "text": "MNA",
+                "type": "internal",
+                "page": "National Assembly of Quebec"
+              }
+            ]
+          },
+          "office": {
+            "text": "Deputy Premier of Quebec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Premier of Quebec"
+              }
+            ]
+          },
+          "premier": {
+            "text": "François Legault",
+            "links": [
+              {
+                "type": "internal",
+                "page": "François Legault"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dominique Anglade",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dominique Anglade"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 18, 2018"
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Quebec for Louis-Hébert",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Quebec"
+              },
+              {
+                "text": "Louis-Hébert",
+                "type": "internal",
+                "page": "Louis-Hébert (provincial electoral district)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 2, 2017"
+          },
+          "predecessor1": {
+            "text": "Sam Hamad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Hamad"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Université Laval",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université Laval"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.assnat.qc.ca/en/deputes/guilbault-genevieve-16885/biographie.html",
+          "title": "Geneviève Guilbault - National Assembly of Québec",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Geneviève Guilbault - National Assembly of Québec",
+          "url": "http://www.assnat.qc.ca/en/deputes/guilbault-genevieve-16885/index.html",
+          "access-date": "2022-01-26",
+          "website": "www.assnat.qc.ca",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "QC",
+            "2018"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "template": "canelec/top"
+        },
+        {
+          "list": [
+            "QC",
+            "CAQ",
+            "Geneviève Guilbault",
+            "16,248",
+            "44.59",
+            "-6.45"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Liberal",
+            "Julie-Maude Perron",
+            "9,700",
+            "26.62",
+            "+7.91"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "PQ",
+            "Normand Beauregard",
+            "4,529",
+            "12.43",
+            "-3.83"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "QS",
+            "Guillaume Boivin",
+            "4,030",
+            "11.06",
+            "+5.85"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Conservative (2009)",
+            "Natalie Bjerke",
+            "841",
+            "2.31",
+            "-1.81"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Green",
+            "Daydree Vendette",
+            "550",
+            "1.51",
+            "-0.55"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "NDP",
+            "Caroline Côté",
+            "276",
+            "0.76",
+            "-0.59"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Independent",
+            "Vincent Bégin",
+            "244",
+            "0.67",
+            "-0.24"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Équipe autonomiste",
+            "Jean-Luc Rouckout",
+            "22",
+            "0.06",
+            "-0.02"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "36,440",
+            "98.76"
+          ],
+          "template": "canelec/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "456",
+            "1.24"
+          ],
+          "template": "canelec/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "36,896",
+            "80.52"
+          ],
+          "template": "canelec/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "45,821"
+          ],
+          "template": "canelec/total"
+        },
+        {
+          "list": [
+            "QC",
+            "October 2, 2017",
+            "Louis-Hébert (provincial electoral district)",
+            "Louis-Hébert"
+          ],
+          "reason": "Resignation of Sam Hamad",
+          "percent": "yes",
+          "change": "yes",
+          "by": "yes",
+          "template": "canelec/top"
+        },
+        {
+          "list": [
+            "QC",
+            "CAQ",
+            "Geneviève Guilbault",
+            "12,091",
+            "51.04",
+            "+25.12"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Liberal",
+            "Ihssane El Ghernati",
+            "4,433",
+            "18.71",
+            "-30.51"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "PQ",
+            "Normand Beauregard",
+            "3,852",
+            "16.26",
+            "-2.11"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Québec solidaire",
+            "Guillaume Boivin",
+            "1,235",
+            "5.21",
+            "+0.27"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Conservative (2009)",
+            "Sylvie Asselin",
+            "976",
+            "4.12",
+            "+3.29"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Green",
+            "Alex Tyrrell",
+            "487",
+            "2.06",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "NDP",
+            "Denis Blanchette",
+            "319",
+            "1.35",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Independent",
+            "Vincent Bégin",
+            "215",
+            "0.91",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "Option nationale",
+            "Martin St-Louis",
+            "61",
+            "0.26",
+            "-0.45"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "QC",
+            "EA",
+            "Jean-Luc Rouckout",
+            "18",
+            "0.08",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "23,687",
+            "99.20"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "190",
+            "0.80"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "23,877",
+            "52.43"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Electors on the lists",
+            "45,540",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "QC",
+            "CAQ",
+            "Liberal",
+            "+27.82"
+          ],
+          "template": "canelec/gain"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "ministry": "François_Legault",
+          "template": "canadian cabinet member navigational box header"
+        },
+        {
+          "post2preceded": "Dominique Anglade",
+          "post2": "Deputy Premier of Quebec",
+          "post2years": "October 18, 2018&ndash;present",
+          "post2followed": "Incumbent",
+          "post1preceded": "Martin Coiteux",
+          "post1": "Minister of Public Security",
+          "post1years": "October 18, 2018&ndash;present",
+          "post1followed": "Incumbent",
+          "template": "ministry box cabinet posts"
+        },
+        {
+          "template": "quebec mnas"
+        },
+        {
+          "template": "legault ministry"
+        },
+        {
+          "template": "quebec-mna-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Bill Oliver (politician)",
+  "pageID": 43935775,
+  "categories": [
+    "Living people",
+    "Progressive Conservative Party of New Brunswick MLAs",
+    "People from Kings County, New Brunswick",
+    "21st-century Canadian politicians",
+    "Members of the Executive Council of New Brunswick",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William George Oliver is a Canadian politician, who was elected to the Legislative Assembly of New Brunswick in the 2014 provincial election.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of New Brunswick"
+                },
+                {
+                  "text": "2014 provincial election",
+                  "type": "internal",
+                  "page": "2014 New Brunswick general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "William George Oliver"
+                ]
+              }
+            },
+            {
+              "text": "He represents the electoral district of Kings Centre as a member of the Progressive Conservatives.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kings Centre"
+                },
+                {
+                  "text": "Progressive Conservatives",
+                  "type": "internal",
+                  "page": "Progressive Conservative Party of New Brunswick"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Oliver served as a Minister in the Higgs administration."
+            },
+            {
+              "text": "He was re-elected in the 2018 and 2020 provincial elections."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Bill Oliver"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "New Brunswick Legislative Assembly"
+              }
+            ]
+          },
+          "image": {
+            "text": "Bill_Oliver.jpg"
+          },
+          "office1": {
+            "text": "Speaker of the Legislative Assembly of New Brunswick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Legislative Assembly of New Brunswick"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 7, 2020"
+          },
+          "predecessor1": {
+            "text": "Daniel Guitard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Guitard"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Transportation and Infrastructure",
+            "links": [
+              {
+                "text": "Minister of Transportation and Infrastructure",
+                "type": "internal",
+                "page": "Minister of the Department of Transportation and Infrastructure (New Brunswick)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 9, 2018"
+          },
+          "term_end2": {
+            "text": "September 29, 2020"
+          },
+          "premier2": {
+            "text": "Blaine Higgs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Blaine Higgs"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Denis Landry",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denis Landry"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jill Green",
+            "links": [
+              {
+                "text": "Jill Green",
+                "type": "internal",
+                "page": "Jill Green (politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the\nNew Brunswick Legislative Assembly\nfor Kings Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Brunswick Legislative Assembly"
+              },
+              {
+                "type": "internal",
+                "page": "Kings Centre"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "September 22, 2014"
+          },
+          "predecessor3": {
+            "text": "District created"
+          },
+          "party": {
+            "text": "Progressive Conservative",
+            "links": [
+              {
+                "text": "Progressive Conservative",
+                "type": "internal",
+                "page": "Progressive Conservative Party of New Brunswick"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "new brunswick mlas"
+        },
+        {
+          "template": "higgs ministry"
+        },
+        {
+          "template": "newbrunswick-mla-stub"
+        }
+      ]
+    }
+  ]
+}

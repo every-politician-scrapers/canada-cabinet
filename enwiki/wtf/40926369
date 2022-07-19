@@ -1,0 +1,639 @@
+{
+  "title": "Paul Quassa",
+  "pageID": 40926369,
+  "categories": [
+    "Living people",
+    "1952 births",
+    "Members of the Executive Council of Nunavut",
+    "Members of the Legislative Assembly of Nunavut",
+    "Inuit from the Northwest Territories",
+    "Inuit politicians",
+    "People from Igloolik",
+    "21st-century Canadian politicians",
+    "Premiers of Nunavut",
+    "Inuit from Nunavut",
+    "Speakers of the Legislative Assembly of Nunavut"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paul Aarulaaq Quassa (born January 12, 1952) is a Canadian politician who served as the fourth premier of Nunavut from November 2017 to June 2018.",
+              "links": [
+                {
+                  "text": "premier of Nunavut",
+                  "type": "internal",
+                  "page": "premier of Nunavut"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paul Aarulaaq Quassa"
+                ]
+              }
+            },
+            {
+              "text": "He served as a Member of the Legislative Assembly of Nunavut, representing Aggu from 2013 until 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Nunavut"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aggu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "An Inuk, Quassa became involved in Inuit politics at the age of 20, and was one of the chief negotiators of the Nunavut Land Claims Agreement that created the modern territory of Nunavut.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inuk"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nunavut Land Claims Agreement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nunavut"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "MLANU"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1952",
+            "month": "1",
+            "date": "12",
+            "template": "birth date",
+            "text": "January 12, 1952"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Paul Quassa"
+          },
+          "birth_date": {
+            "text": "January 12, 1952"
+          },
+          "birth_place": {
+            "text": "Igloolik, Northwest Territories (now Nunavut)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igloolik"
+              },
+              {
+                "type": "internal",
+                "page": "Northwest Territories"
+              },
+              {
+                "type": "internal",
+                "page": "Nunavut"
+              }
+            ]
+          },
+          "office": {
+            "text": "4th Premier of Nunavut",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of Nunavut"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "November 21, 2017"
+          },
+          "term_end": {
+            "text": "June 14, 2018"
+          },
+          "1blankname": {
+            "text": "Commissioner"
+          },
+          "1namedata": {
+            "text": "Nellie Kusugak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nellie Kusugak"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Peter Taptuna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Taptuna"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Joe Savikataaq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joe Savikataaq"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Legislative Assembly of Nunavut\nfor Aggu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legislative Assembly of Nunavut"
+              },
+              {
+                "type": "internal",
+                "page": "Aggu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 28, 2013"
+          },
+          "term_end2": {
+            "text": "August 13, 2021"
+          },
+          "predecessor2": {
+            "text": "district created",
+            "formatting": {
+              "italic": [
+                "district created"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Joanna Quassa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joanna Quassa"
+              }
+            ]
+          },
+          "office3": {
+            "text": "11th Speaker of the Legislative Assembly of Nunavut",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Legislative Assembly of Nunavut"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Simeon Mikkungwak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simeon Mikkungwak"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Tony Akoak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Akoak"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "February 26, 2020"
+          },
+          "term_end3": {
+            "text": "August 13, 2021"
+          },
+          "party": {
+            "text": "non-partisan\nconsensus government",
+            "links": [
+              {
+                "text": "consensus government",
+                "type": "internal",
+                "page": "consensus government"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Joanna Quassa (sister in-law)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joanna Quassa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "indigenous land claims negotiator, journalist and MLA in Nunavut",
+            "links": [
+              {
+                "text": "journalist",
+                "type": "internal",
+                "page": "Journalism"
+              },
+              {
+                "text": "MLA in Nunavut",
+                "type": "internal",
+                "page": "Legislative Assembly of Nunavut"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Quassa was born in Manitok, a hunting camp near Igloolik.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Igloolik"
+                }
+              ]
+            },
+            {
+              "text": "Born in an igloo, he was raised for the first years of his life in what he described as \"the Inuit traditional way of life\", part of the last generation to do so."
+            },
+            {
+              "text": "At the age of six, he was taken to a Canadian Indian residential school in Churchill, Manitoba.",
+              "links": [
+                {
+                  "text": "Canadian Indian residential school",
+                  "type": "internal",
+                  "page": "Canadian Indian residential school system"
+                },
+                {
+                  "type": "internal",
+                  "page": "Churchill, Manitoba"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Paul Quassa will be Nunavut's next premier",
+          "date": "17 November 2017",
+          "newspaper": "CBC News",
+          "url": "https://www.cbc.ca/news/canada/north/nunavut-leadership-forum-2017-1.4406369",
+          "archive-url": "https://web.archive.org/web/20180118213222/https://www.cbc.ca/news/canada/north/nunavut-leadership-forum-2017-1.4406369",
+          "archive-date": "18 January 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "25 November 2017",
+          "newspaper": "Maclean's",
+          "title": "Meet Paul Quassa, Nunavut's new premier",
+          "url": "https://www.macleans.ca/news/canada/meet-paul-quassa-nunavuts-new-premier/",
+          "archive-url": "https://web.archive.org/web/20171214120624/https://www.macleans.ca/news/canada/meet-paul-quassa-nunavuts-new-premier/",
+          "archive-date": "14 December 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Land claims work",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He returned to Igloolik in 1972 to work on land claims and served as president of the Tunngavik Federation of Nunavut in the early 1990s.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tunngavik Federation of Nunavut"
+                }
+              ]
+            },
+            {
+              "text": "He was one of the negotiators of, and a signatory of, the Nunavut Land Claims Agreement settlement that led to the establishment of Nunavut."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was dropped from the presidency of TFN in 1992 following allegations of sexual assault against a woman, but received a discharge in court and was subsequently reinstated as president of the organization and the successor Nunavut Tunngavik Incorporated.",
+              "links": [
+                {
+                  "text": "sexual assault",
+                  "type": "internal",
+                  "page": "sexual assault"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nunavut Tunngavik Incorporated"
+                }
+              ]
+            },
+            {
+              "text": "Quassa also worked as a journalist with CBC North and Isuma Productions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CBC North"
+                },
+                {
+                  "type": "internal",
+                  "page": "Isuma"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Ottawa awards management rights in massive territorial land claim",
+          "newspaper": "Montreal Gazette",
+          "date": "27 March 1990",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Inuit land negotiator charged in assault",
+          "date": "31 January 1992",
+          "newspaper": "Edmonton Journal",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Discharge on sex assault sparks outcry by Inuit",
+          "date": "27 February 1992",
+          "newspaper": "Hamilton Spectator",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Inuit challenge federal gun-control law: Legislation 'designed for southern Canada' violates right to hunt without permit, leaders say",
+          "date": "22 June 2000",
+          "newspaper": "Montreal Gazette",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Weber",
+          "first": "Bob",
+          "date": "17 November 2017",
+          "title": "Longtime Inuit politician Paul Quassa chosen as new premier of Nunavut",
+          "url": "https://www.ctvnews.ca/politics/longtime-inuit-politician-paul-quassa-chosen-as-new-premier-of-nunavut-1.3683252",
+          "archive-date": "1 December 2017",
+          "archive-url": "https://web.archive.org/web/20171201082136/https://www.ctvnews.ca/politics/longtime-inuit-politician-paul-quassa-chosen-as-new-premier-of-nunavut-1.3683252",
+          "newspaper": "CTV News",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "First elected to the Legislative Assembly of Nunavut in the 2013 election, he represents the electoral district of Aggu.",
+              "links": [
+                {
+                  "text": "2013 election",
+                  "type": "internal",
+                  "page": "2013 Nunavut general election"
+                }
+              ]
+            },
+            {
+              "text": "He served in the Executive Council of Nunavut as Minister of Education during the 4th Legislative Assembly of Nunavut.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Executive Council of Nunavut"
+                },
+                {
+                  "text": "4th Legislative Assembly of Nunavut",
+                  "type": "internal",
+                  "page": "4th Legislative Assembly of Nunavut"
+                }
+              ]
+            },
+            {
+              "text": "As Education Minister, he unsuccessfully attempted to introduce bilingual education in schools, in both English and Inuktitut.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inuktitut"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was reelected in the 2017 election, and was subsequently selected as premier at the Nunavut Leadership Forum under the territory's consensus government system.",
+              "links": [
+                {
+                  "text": "2017 election",
+                  "type": "internal",
+                  "page": "2017 Nunavut general election"
+                },
+                {
+                  "text": "consensus government",
+                  "type": "internal",
+                  "page": "consensus government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "2 seats tied, Eva Aariak loses in Nunavut election",
+          "date": "27 October 2013",
+          "url": "https://www.cbc.ca/news/canada/north/nunavutvotes2013/2-seats-tied-eva-aariak-loses-in-nunavut-election-1.2253663",
+          "archive-url": "https://web.archive.org/web/20131029073534/http://www.cbc.ca/news/canada/north/nunavutvotes2013/2-seats-tied-eva-aariak-loses-in-nunavut-election-1.2253663",
+          "archive-date": "29 October 2013",
+          "newspaper": "CBC News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "'Very representative': Paul Quassa calls selection of 19 Inuit law students 'successful'",
+          "date": "13 September 2017",
+          "url": "https://www.cbc.ca/news/canada/north/nunavut-education-minister-defends-law-program-admissions-1.4288601",
+          "archive-url": "https://web.archive.org/web/20170918204445/http://www.cbc.ca/news/canada/north/nunavut-education-minister-defends-law-program-admissions-1.4288601",
+          "archive-date": "18 September 2017",
+          "newspaper": "CBC North",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Vote of no confidence",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On June 14, 2018, he lost a non-confidence vote by 16-3, with two abstentions."
+            },
+            {
+              "text": "The motion of no-confidence was tabled by MLA John Main, in response to what Main described as an \"autocratic style\" of leadership, and wider criticism by MLAs of the spending decisions made by Quassa's government.",
+              "links": [
+                {
+                  "text": "motion of no-confidence",
+                  "type": "internal",
+                  "page": "motion of no-confidence"
+                },
+                {
+                  "text": "John Main",
+                  "type": "internal",
+                  "page": "John Main (politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Quassa was replaced as Premier by former deputy premier Joe Savikataaq.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joe Savikataaq"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On February 26, 2020, he was selected as the new Speaker of the Legislative Assembly of Nunavut following the resignation of Simeon Mikkungwak from the legislature the previous day.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Legislative Assembly of Nunavut"
+                },
+                {
+                  "type": "internal",
+                  "page": "Simeon Mikkungwak"
+                }
+              ]
+            },
+            {
+              "text": "He did not seek re-election in 2021."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Brown",
+          "first": "Beth",
+          "title": "Nunavut premier removed by non-confidence vote",
+          "date": "14 June 2018",
+          "url": "https://nunatsiaq.com/stories/article/65674nunavut_premier_voted_out_in_motion_of_non-confidence",
+          "archive-url": "https://web.archive.org/web/20180717173552/http://nunatsiaq.com/stories/article/65674nunavut_premier_voted_out_in_motion_of_non-confidence",
+          "archive-date": "17 July 2018",
+          "newspaper": "Nunatsiaq News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Weber",
+          "first": "Bob",
+          "title": "After Paul Quassa ejected, Nunavut chooses deputy as new premier",
+          "date": "14 June 2018",
+          "url": "https://www.ctvnews.ca/canada/after-paul-quassa-ejected-nunavut-chooses-deputy-as-new-premier-1.3972943",
+          "archive-url": "https://web.archive.org/web/20180615205348/https://www.ctvnews.ca/canada/after-paul-quassa-ejected-nunavut-chooses-deputy-as-new-premier-1.3972943",
+          "archive-date": "15 June 2018",
+          "newspaper": "CTV News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "nupremiers"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

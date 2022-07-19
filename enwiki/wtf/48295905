@@ -1,0 +1,599 @@
+{
+  "title": "Sean Fraser (politician)",
+  "pageID": 48295905,
+  "categories": [
+    "1984 births",
+    "Schulich School of Law alumni",
+    "Leiden University alumni",
+    "Liberal Party of Canada MPs",
+    "Living people",
+    "Members of the 29th Canadian Ministry",
+    "Members of the House of Commons of Canada from Nova Scotia",
+    "Members of the Queen's Privy Council for Canada",
+    "People from Antigonish, Nova Scotia",
+    "St. Francis Xavier University alumni",
+    "21st-century Canadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sean Simon Andrew Fraser (born June 1, 1984) is a Canadian politician who has served as the minister of immigration, refugees and citizenship since October 26, 2021.",
+              "links": [
+                {
+                  "text": "minister of immigration, refugees and citizenship",
+                  "type": "internal",
+                  "page": "Minister of Immigration, Refugees and Citizenship"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sean Simon Andrew Fraser"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, Fraser has represented the riding of Central Nova in the House of Commons of Canada since the 2015 federal election.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Nova"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
+                {
+                  "text": "2015 federal election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician (born 1984)",
+          "template": "short description"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "mf": "yes",
+          "year": "1984",
+          "month": "6",
+          "day": "1",
+          "template": "birth date and age"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Sean Fraser"
+          },
+          "image": {
+            "text": "Sean Fraser MP September 2021.jpg"
+          },
+          "caption": {
+            "text": "Fraser in 2021"
+          },
+          "office": {
+            "text": "Minister of Immigration, Refugees and Citizenship",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Immigration, Refugees and Citizenship"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "predecessor": {
+            "text": "Marco Mendicino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marco Mendicino"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Parliamentary Secretary to the Minister of Finance",
+            "links": [
+              {
+                "text": "Parliamentary Secretary",
+                "type": "internal",
+                "page": "List of Parliamentary Secretaries of Canada"
+              },
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Canada)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "December 12, 2019"
+          },
+          "term_end1": {
+            "text": "October 26, 2021"
+          },
+          "minister1": {
+            "text": "Bill Morneau Chrystia Freeland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Morneau"
+              },
+              {
+                "type": "internal",
+                "page": "Chrystia Freeland"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Joël Lightbound",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joël Lightbound"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Terry Beech",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terry Beech"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Parliamentary Secretary to the Minister of Middle Class Prosperity",
+            "links": [
+              {
+                "text": "Parliamentary Secretary",
+                "type": "internal",
+                "page": "List of Parliamentary Secretaries of Canada"
+              },
+              {
+                "type": "internal",
+                "page": "Minister of Middle Class Prosperity"
+              }
+            ]
+          },
+          "minister2": {
+            "text": "Mona Fortier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mona Fortier"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 12, 2019"
+          },
+          "term_end2": {
+            "text": "October 26, 2021"
+          },
+          "predecessor2": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Position abolished",
+            "formatting": {
+              "italic": [
+                "Position abolished"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Parliamentary Secretary to the Minister of Environment and Climate Change",
+            "links": [
+              {
+                "text": "Parliamentary Secretary",
+                "type": "internal",
+                "page": "List of Parliamentary Secretaries of Canada"
+              },
+              {
+                "type": "internal",
+                "page": "Minister of Environment and Climate Change"
+              }
+            ]
+          },
+          "minister3": {
+            "text": "Catherine McKenna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Catherine McKenna"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "August 31, 2018"
+          },
+          "term_end3": {
+            "text": "September 11, 2019"
+          },
+          "predecessor3": {
+            "text": "Jonathan Wilkinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jonathan Wilkinson"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Peter Schiefke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Schiefke"
+              }
+            ]
+          },
+          "riding4": {
+            "text": "Central Nova",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Nova"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Canadian"
+          },
+          "term_start4": {
+            "text": "October 19, 2015"
+          },
+          "predecessor4": {
+            "text": "Peter MacKay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter MacKay"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Sean Simon Andrew Fraser"
+          },
+          "birth_date": {
+            "text": "June 1, 1984"
+          },
+          "birth_place": {
+            "text": "Antigonish, Nova Scotia, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antigonish, Nova Scotia"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "alma_mater": {
+            "text": "St. Francis Xavier University (BSc)\nDalhousie University (LLB)\nLeiden University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St. Francis Xavier University"
+              },
+              {
+                "type": "internal",
+                "page": "BSc"
+              },
+              {
+                "type": "internal",
+                "page": "Dalhousie University"
+              },
+              {
+                "type": "internal",
+                "page": "LLB"
+              },
+              {
+                "type": "internal",
+                "page": "Leiden University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "New Glasgow, Nova Scotia",
+            "links": [
+              {
+                "text": "New Glasgow",
+                "type": "internal",
+                "page": "New Glasgow, Nova Scotia"
+              },
+              {
+                "type": "internal",
+                "page": "Nova Scotia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sarah Burton"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://thechronicleherald.ca/federal-election-2015/1317564-liberal-sean-fraser-takes-central-nova-from-the-conservatives",
+          "title": "Liberal Sean Fraser takes Central Nova from the Conservatives",
+          "work": "The Chronicle Herald",
+          "date": "October 19, 2015",
+          "access-date": "2015-11-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.cbc.ca/news/canada/nova-scotia/peter-mackay-red-sean-fraser-1.3278932",
+          "title": "Peter MacKay's former riding goes to Liberal Sean Fraser",
+          "publisher": "CBC News",
+          "date": "October 19, 2015",
+          "access-date": "2015-11-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raised in Merigomish in Pictou County, Nova Scotia, Fraser earned a Bachelor of Science degree at St. Francis Xavier University in 2006.",
+              "links": [
+                {
+                  "text": "Merigomish",
+                  "type": "internal",
+                  "page": "Merigomish, Nova Scotia"
+                },
+                {
+                  "text": "Pictou County, Nova Scotia",
+                  "type": "internal",
+                  "page": "Pictou County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Science"
+                },
+                {
+                  "type": "internal",
+                  "page": "St. Francis Xavier University"
+                }
+              ]
+            },
+            {
+              "text": "He then studied law at Dalhousie University and at Leiden University in the Netherlands, graduating in 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dalhousie University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leiden University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Netherlands"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Legal career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He spent three years working in Calgary as an associate at Blake, Cassels & Graydon LLP, and also did work related to the Promotion of Access to Information Act for a NGO in South Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Calgary"
+                },
+                {
+                  "text": "''Promotion of Access to Information Act''",
+                  "type": "internal",
+                  "page": "Promotion of Access to Information Act, 2000"
+                },
+                {
+                  "type": "internal",
+                  "page": "NGO"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Africa"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Promotion of Access to Information Act"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fraser was selected as \"Best Orator\" and was a finalist for \"Rising Star\" during Macleans 12th annual Parliamentarians of the Year award.",
+              "links": [
+                {
+                  "text": "Macleans",
+                  "type": "internal",
+                  "page": "Maclean's"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The winners of the Maclean's Parliamentarians of the Year Awards - Macleans.ca",
+          "url": "https://www.macleans.ca/politics/ottawa/the-winners-of-the-macleans-parliamentarians-of-the-year-awards/",
+          "access-date": "2021-01-13",
+          "website": "www.macleans.ca",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The finalists for the Maclean's Parliamentarians of the Year Awards - Macleans.ca",
+          "url": "https://www.macleans.ca/politics/ottawa/the-finalists-for-the-macleans-parliamentarians-of-the-year-awards/",
+          "access-date": "2021-01-13",
+          "website": "www.macleans.ca",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "canadian federal election, 2021/central nova"
+        },
+        {
+          "template": "canadian federal election, 2019/central nova"
+        },
+        {
+          "template": "canadian federal election, 2015/central nova"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "18472",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "cancabinet"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "title": "Nils Clarke",
+  "pageID": 52221294,
+  "categories": [
+    "Yukon Liberal Party MLAs",
+    "Living people",
+    "Politicians from Whitehorse",
+    "21st-century Canadian politicians",
+    "Speakers of the Yukon Legislative Assembly",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nils Clarke is a Canadian politician, who was elected to the Legislative Assembly of Yukon in the 2016 election.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Yukon"
+                },
+                {
+                  "text": "2016 election",
+                  "type": "internal",
+                  "page": "2016 Yukon general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nils Clarke"
+                ]
+              }
+            },
+            {
+              "text": "He represents the electoral district of Riverdale North as a member of the Yukon Liberal Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riverdale North"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yukon Liberal Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Clarke was a lawyer in the Yukon for 24 years, eventually becoming executive director of the Yukon Legal Services Society (Legal Aid)."
+            },
+            {
+              "text": "He holds a B.A. from the University of Toronto and an LL.B. from the University of British Columbia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Toronto"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of British Columbia"
+                }
+              ]
+            },
+            {
+              "text": "Clarke was admitted to both the Law Society of Upper Canada and the Law Society of Yukon in 1992.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Law Society of Upper Canada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected on November 7, 2016 as part of the election of the Yukon Liberal Party to a majority government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yukon Liberal Party"
+                }
+              ]
+            },
+            {
+              "text": "On January 12, 2017, he was sworn in as the 12th Speaker of the Yukon Legislative Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Speaker of the Yukon Legislative Assembly"
+                }
+              ]
+            },
+            {
+              "text": "As Speaker, he is also Chair of the Members’ Services Board."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On May 3rd, 2021, Clarke was named the Minister of Highways and Public Works and the Minister of Environment of Yukon."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Nils Clarke"
+          },
+          "honorific-suffix": {
+            "text": "MLA",
+            "links": [
+              {
+                "text": "MLA",
+                "type": "internal",
+                "page": "Yukon Legislative Assembly"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Speaker of the Yukon Legislative Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the Yukon Legislative Assembly"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 12, 2017"
+          },
+          "term_end1": {
+            "text": "May 11, 2021"
+          },
+          "premier1": {
+            "text": "Sandy Silver",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sandy Silver"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Patti McLeod",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patti McLeod"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jeremy Harper",
+            "links": [
+              {
+                "text": "Jeremy Harper",
+                "type": "internal",
+                "page": "Jeremy Harper (politician)"
+              }
+            ]
+          },
+          "assembly2": {
+            "text": "Yukon Legislative"
+          },
+          "constituency_am2": {
+            "text": "Riverdale North",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riverdale North"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 7, 2016"
+          },
+          "predecessor2": {
+            "text": "Scott Kent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scott Kent"
+              }
+            ]
+          },
+          "party": {
+            "text": "Yukon Liberal Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yukon Liberal Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "yukon general election, 2021/riverdale north"
+        }
+      ]
+    },
+    {
+      "title": "2016 general election",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "!align=left colspan=3|Total",
+              "formatting": {
+                "bold": [
+                  "Total"
+                ]
+              }
+            },
+            {
+              "text": "!align=right|1117"
+            },
+            {
+              "text": "!align=right|100.0%"
+            },
+            {
+              "text": "!align=right| &ndash;"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "title": "Riverdale North",
+          "template": "election box begin"
+        },
+        {
+          "list": [
+            "YT",
+            "Liberal",
+            "Nils Clarke",
+            "486",
+            "43.5%",
+            "+14.2%"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "YT",
+            "NDP",
+            "Rod Snow",
+            "337",
+            "30.2%",
+            "+0.2%"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "YT",
+            "Yukon",
+            "Mark Beese",
+            "258",
+            "23.1%",
+            "-14.0%"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "YT",
+            "Green",
+            "Kristina Calhoun",
+            "36",
+            "3.2%",
+            "-0.3%"
+          ],
+          "template": "canelec"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "yukon mlas"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "yukon-politician-stub"
+        }
+      ]
+    }
+  ]
+}

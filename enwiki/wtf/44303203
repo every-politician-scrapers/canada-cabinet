@@ -1,0 +1,300 @@
+{
+  "title": "François Paradis",
+  "pageID": 44303203,
+  "categories": [
+    "Living people",
+    "Coalition Avenir Québec MNAs",
+    "French Quebecers",
+    "Canadian television hosts",
+    "People from Lévis, Quebec",
+    "Politicians from Quebec City",
+    "People from Sorel-Tracy",
+    "21st-century Canadian politicians",
+    "1957 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joseph Louis François Paradis is a Canadian politician, who was elected to the National Assembly of Quebec in a byelection on October 20, 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Quebec"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joseph Louis François Paradis"
+                ]
+              }
+            },
+            {
+              "text": "He represents the electoral district of Lévis as a member of the Coalition Avenir Québec.",
+              "links": [
+                {
+                  "text": "Lévis",
+                  "type": "internal",
+                  "page": "Lévis (provincial electoral district)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Coalition Avenir Québec"
+                }
+              ]
+            },
+            {
+              "text": "After the 2018 Quebec general election Paradis was elected President of the National Assembly of Quebec.",
+              "links": [
+                {
+                  "text": "2018 Quebec general election",
+                  "type": "internal",
+                  "page": "2018 Quebec general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the National Assembly of Quebec"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to his election to the legislature, Paradis worked for TVA, where he was a host of Café show, L'enfer ou le Paradis, Première ligne and TVA en direct.com.",
+              "links": [
+                {
+                  "text": "TVA",
+                  "type": "internal",
+                  "page": "TVA (Canadian TV network)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Café show",
+                  "L'enfer ou le Paradis",
+                  "Première ligne",
+                  "TVA en direct.com"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2014",
+          "template": "use canadian english"
+        },
+        {
+          "spouse": "Anne Gingras",
+          "from": "July 23, 1994",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "François Paradis"
+          },
+          "image": {
+            "text": "File:Francois_Paradis.JPG"
+          },
+          "birth_date": {
+            "text": "March 26, 1957"
+          },
+          "birth_place": {
+            "text": "Sorel-Tracy, Quebec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sorel-Tracy"
+              },
+              {
+                "type": "internal",
+                "page": "Quebec"
+              }
+            ]
+          },
+          "profession": {
+            "text": "television journalist"
+          },
+          "party": {
+            "text": "Coalition Avenir Québec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coalition Avenir Québec"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Lévis, Quebec",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lévis, Quebec"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MNA",
+            "links": [
+              {
+                "text": "MNA",
+                "type": "internal",
+                "page": "National Assembly of Quebec"
+              }
+            ]
+          },
+          "office": {
+            "text": "46th President of the National Assembly",
+            "links": [
+              {
+                "text": "President of the National Assembly",
+                "type": "internal",
+                "page": "President of the National Assembly of Quebec"
+              }
+            ]
+          },
+          "premier": {
+            "text": "François Legault",
+            "links": [
+              {
+                "type": "internal",
+                "page": "François Legault"
+              }
+            ]
+          },
+          "lieutenant_governor": {
+            "text": "J. Michel Doyon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "J. Michel Doyon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "November 26, 2018"
+          },
+          "predecessor": {
+            "text": "Jacques Chagnon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacques Chagnon"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the National Assembly of Quebec for Lévis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Quebec"
+              },
+              {
+                "text": "Lévis",
+                "type": "internal",
+                "page": "Lévis (provincial electoral district)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 20, 2014"
+          },
+          "predecessor1": {
+            "text": "Christian Dubé",
+            "links": [
+              {
+                "text": "Christian Dubé",
+                "type": "internal",
+                "page": "Christian Dubé (politician)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anne Gingras (m. July 23, 1994)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Bulletin de mariage",
+          "url": "https://www.genealogiequebec.com/membership/fr/voir?id=H%3A%2FMariages%2F1994%2F06-1110%2F94-110457.jpg",
+          "publisher": "Ministry of Health and Social Services",
+          "date": "July 23, 1994",
+          "access-date": "March 26, 2020",
+          "language": "fr",
+          "via": "Institut généalogique Drouin",
+          "url-access": "subscription",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "paradis-francois-15725"
+          ],
+          "template": "quebecmnabio"
+        },
+        {
+          "template": "quebec mnas"
+        },
+        {
+          "template": "quebec-mna-stub"
+        }
+      ]
+    }
+  ]
+}

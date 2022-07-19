@@ -1,0 +1,734 @@
+{
+  "title": "Ginette Petitpas Taylor",
+  "pageID": 48296739,
+  "categories": [
+    "1960s births",
+    "Living people",
+    "Members of the House of Commons of Canada from New Brunswick",
+    "Members of the Queen's Privy Council for Canada",
+    "Members of the 29th Canadian Ministry",
+    "Liberal Party of Canada MPs",
+    "Women government ministers of Canada",
+    "Women in New Brunswick politics",
+    "Canadian Ministers of Health",
+    "Women members of the House of Commons of Canada",
+    "Canadian social workers",
+    "Acadian people",
+    "Université de Moncton alumni",
+    "People from Dieppe, New Brunswick",
+    "People from Moncton",
+    "21st-century Canadian politicians",
+    "21st-century Canadian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marie Ginette Petitpas Taylor (born 1968 or 1969) is a Canadian politician who was elected to represent the riding of Moncton—Riverview—Dieppe in the House of Commons of Canada in the 2019 federal election.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "text": "riding",
+                  "type": "internal",
+                  "page": "electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moncton—Riverview—Dieppe"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
+                {
+                  "text": "2019 federal election",
+                  "type": "internal",
+                  "page": "2019 Canadian federal election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marie Ginette Petitpas Taylor"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Liberal Party of Canada and a former Minister of Health, and is a member of the Canadian Branch of the Commonwealth Parliamentary Association as well as the Canadian NATO Parliamentary Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Health (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "age": "48",
+          "year": "2017",
+          "month": "9",
+          "day": "6",
+          "mos": "1",
+          "template": "birth based on age as of date"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ginette Petitpas Taylor"
+          },
+          "image": {
+            "text": "GinettePT.jpg"
+          },
+          "office": {
+            "text": "Minister of Official Languages",
+            "links": [
+              {
+                "text": "Minister of Official Languages",
+                "type": "internal",
+                "page": "Minister responsible for Official Languages (Canada)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "predecessor": {
+            "text": "Mélanie Joly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mélanie Joly"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister responsible for the Atlantic Canada Opportunities Agency",
+            "links": [
+              {
+                "text": "Minister responsible for the Atlantic Canada Opportunities Agency",
+                "type": "internal",
+                "page": "Minister for the purposes of the Atlantic Canada Opportunities Agency Act"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 26, 2021"
+          },
+          "predecessor1": {
+            "text": "Mélanie Joly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mélanie Joly"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Government Whip",
+            "links": [
+              {
+                "text": "Deputy Government Whip",
+                "type": "internal",
+                "page": "Party Whip (Canada)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 20, 2019"
+          },
+          "term_end2": {
+            "text": "October 26, 2021"
+          },
+          "predecessor2": {
+            "text": "Linda Lapointe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linda Lapointe"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ruby Sahota",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ruby Sahota"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "November 20, 2015"
+          },
+          "term_end3": {
+            "text": "January 29, 2017"
+          },
+          "predecessor3": {
+            "text": "Dave MacKenzie",
+            "links": [
+              {
+                "text": "Dave MacKenzie",
+                "type": "internal",
+                "page": "Dave MacKenzie (politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Filomena Tassi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filomena Tassi"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Minister of Health (Canada)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "August 28, 2017"
+          },
+          "term_end4": {
+            "text": "November 20, 2019"
+          },
+          "predecessor4": {
+            "text": "Jane Philpott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jane Philpott"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Patty Hajdu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patty Hajdu"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Parliamentary Secretary to the Minister of Finance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Secretary"
+              },
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Minister of Finance (Canada)"
+              }
+            ]
+          },
+          "minister5": {
+            "text": "Bill Morneau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Morneau"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "January 30, 2017"
+          },
+          "term_end5": {
+            "text": "August 28, 2017"
+          },
+          "predecessor5": {
+            "text": "François-Philippe Champagne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "François-Philippe Champagne"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Joël Lightbound",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joël Lightbound"
+              }
+            ]
+          },
+          "riding6": {
+            "text": "Moncton—Riverview—Dieppe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moncton—Riverview—Dieppe"
+              }
+            ]
+          },
+          "parliament6": {
+            "text": "Canadian"
+          },
+          "term_start6": {
+            "text": "October 19, 2015"
+          },
+          "predecessor6": {
+            "text": "Robert Goguen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert Goguen"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1969 (age 48)"
+          },
+          "birth_place": {
+            "text": "Dieppe, New Brunswick, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dieppe, New Brunswick"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Université de Moncton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Université de Moncton"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Moncton, New Brunswick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moncton"
+              },
+              {
+                "type": "internal",
+                "page": "New Brunswick"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New health minister praised by rivals and Liberals, but has a steep learning curve ahead, says critic",
+          "url": "https://www.hilltimes.com/2017/09/06/new-health-minister-praised-rivals-liberals-steep-learning-curve-ahead-says-critic/118061",
+          "publisher": "Hill Times",
+          "last": "Guly",
+          "first": "Christopher",
+          "date": "September 6, 2017",
+          "quote": "said the 48-year-old, Dieppe, N.B. born-and-raised Ms. Petitpas Taylor",
+          "access-date": "September 21, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
+          "title": "Official Voting Results",
+          "publisher": "Elections Canada",
+          "access-date": "January 23, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://huddle.today/ginette-petitpas-taylor-wins-second-term-in-moncton-riverview-dieppe/",
+          "title": "Ginette Petitpas Taylor Wins Second Term In Moncton-Riverview-Dieppe",
+          "date": "22 October 2019",
+          "work": "huddle.today",
+          "access-date": "7 November 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ourcommons.ca/Parliamentarians/en/members/Ginette-Petitpas-Taylor(88364)/CurrentRoles",
+          "title": "The Honourable Ginette Petitpas Taylor - Roles - House of Commons of Canada",
+          "website": "www.ourcommons.ca",
+          "language": "en",
+          "access-date": "2019-03-19",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Petitpas Taylor grew up in Dieppe and graduated from the Université de Moncton with a bachelor's degree in social work.",
+              "links": [
+                {
+                  "text": "Dieppe",
+                  "type": "internal",
+                  "page": "Dieppe, New Brunswick"
+                },
+                {
+                  "type": "internal",
+                  "page": "Université de Moncton"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Meet Ginette Petitpas Taylor",
+          "url": "https://gpetitpastaylor.liberal.ca/biography/",
+          "website": "Ginette Petitpas Taylor, your Member of Parliament for Moncton-Riverview-Dieppe",
+          "publisher": "Liberal Party of Canada",
+          "access-date": "4 May 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Before politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 2004 to 2008, she was the chairwoman of the New Brunswick Advisory Council on the Status of Women, and has held a variety of other positions, including the coordinator for the Victim's Services Program of the local detachment of the Royal Canadian Mounted Police.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Brunswick"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Canadian Mounted Police"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She won the Liberal Party's nomination for Moncton—Riverview—Dieppe on March 28, 2015, and won the riding in the election held on October 19, 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moncton—Riverview—Dieppe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 2, 2015, Prime Minister Justin Trudeau announced the appointment of Petitpas Taylor as deputy government whip.",
+              "links": [
+                {
+                  "text": "whip",
+                  "type": "internal",
+                  "page": "Whip (politics)"
+                }
+              ]
+            },
+            {
+              "text": "On February 15, 2016, Petitpas Taylor was sworn in as a Member of the Queen's Privy Council for Canada according to her duties as Deputy Government Whip.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen's Privy Council for Canada"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She then succeeded Jane Philpott as Minister of Health in a cabinet shuffle on August 28, 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jane Philpott"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Health (Canada)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was re-elected in the 2019 federal election, and appointed Deputy Government Whip (for the second time) as well as a member of the Board of Internal Economy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Board of Internal Economy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://ginglelive.com/share.php?id=10490&thumb=342",
+          "title": "The Honourable Ginette Petitpas Taylor being sworn in to the Privy Council at Rideau Hall",
+          "website": "ginglelive.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Roles - Hon. Ginette Petitpas Taylor Current and Past",
+          "url": "https://www.ourcommons.ca/members/en/ginette-petitpas-taylor(88364)/roles",
+          "website": "Members of Parliament",
+          "publisher": "Parliament of Canada",
+          "access-date": "25 April 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thestar.com/news/canada/2017/08/28/seamus-oregan-to-be-named-veterans-minister-as-trudeau-shuffles-cabinet.html",
+          "title": "Trudeau shuffles ministers, overhauls Indigenous Affairs, brings friend O'Regan into cabinet &#124; The Star",
+          "website": "thestar.com",
+          "first1": "Tonda",
+          "last1": "MacCharles",
+          "first2": "Bruce",
+          "last2": "Campion-Smith",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Zimonjic",
+          "first1": "Peter",
+          "title": "Who's who in Prime Minister Justin Trudeau's cabinet shuffle",
+          "url": "http://www.cbc.ca/news/politics/federal-trudeau-cabinet-shuffle-bios-photos-who-1.4265394",
+          "publisher": "CBC",
+          "date": "28 August 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "canadian federal election, 2021/moncton—riverview—dieppe"
+        },
+        {
+          "template": "canadian federal election, 2019/moncton—riverview—dieppe"
+        },
+        {
+          "template": "canadian federal election, 2015/moncton—riverview—dieppe"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "18463",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "cancabinet"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        },
+        {
+          "template": "ca-ministers of health"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official Website",
+            "links": [
+              {
+                "text": "Official Website",
+                "type": "external",
+                "site": "http://ginettepetitpastaylor.liberal.ca/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Official Website",
+            "links": [
+              {
+                "text": "Official Website",
+                "type": "external",
+                "site": "http://ginettepetitpastaylor.liberal.ca/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

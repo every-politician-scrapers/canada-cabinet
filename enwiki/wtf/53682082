@@ -1,0 +1,413 @@
+{
+  "title": "Mona Fortier",
+  "pageID": 53682082,
+  "categories": [
+    "Living people",
+    "Women members of the House of Commons of Canada",
+    "Franco-Ontarian people",
+    "Liberal Party of Canada MPs",
+    "Members of the House of Commons of Canada from Ontario",
+    "Women government ministers of Canada",
+    "Members of the 29th Canadian Ministry",
+    "Members of the Queen's Privy Council for Canada",
+    "Women in Ontario politics",
+    "21st-century Canadian politicians",
+    "21st-century Canadian women politicians",
+    "Politicians from Ottawa",
+    "University of Ottawa alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mona N. Fortier is a Canadian politician who has served as the president of the Treasury Board since October 26, 2021.",
+              "links": [
+                {
+                  "text": "Canadian",
+                  "type": "internal",
+                  "page": "Canadians"
+                },
+                {
+                  "text": "president of the Treasury Board",
+                  "type": "internal",
+                  "page": "president of the Treasury Board"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mona N. Fortier"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, Fortier has represented the electoral district of Ottawa—Vanier since winning the 3 April 2017 by-election.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "electoral district",
+                  "type": "internal",
+                  "page": "Electoral district (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ottawa—Vanier"
+                },
+                {
+                  "text": "3 April 2017 by-election",
+                  "type": "internal",
+                  "page": "2017 Ottawa—Vanier federal by-election"
+                }
+              ]
+            },
+            {
+              "text": "She previously served as the associate minister of finance and minister of middle class prosperity.",
+              "links": [
+                {
+                  "text": "associate minister of finance",
+                  "type": "internal",
+                  "page": "Associate Minister of Finance"
+                },
+                {
+                  "text": "minister of middle class prosperity",
+                  "type": "internal",
+                  "page": "Minister of Middle Class Prosperity"
+                }
+              ]
+            },
+            {
+              "text": "Prior to her election, Fortier worked as director of communications for La Cité Collégiale in Ottawa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La Cité Collégiale"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "May 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "age": "44",
+          "year": "2017",
+          "month": "4",
+          "day": "7",
+          "mos": "1",
+          "template": "birth based on age as of date"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "PC",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mona Fortier"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "PC MP",
+            "links": [
+              {
+                "text": "PC",
+                "type": "internal",
+                "page": "Queen's Privy Council for Canada"
+              },
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (Canada)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1973 (age 44)"
+          },
+          "birth_place": {
+            "text": "Ottawa, Ontario, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ottawa"
+              },
+              {
+                "type": "internal",
+                "page": "Ontario"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Beacon Hill South, Ottawa",
+            "links": [
+              {
+                "text": "Beacon Hill",
+                "type": "internal",
+                "page": "Beacon Hill, Ottawa"
+              },
+              {
+                "type": "internal",
+                "page": "Ottawa"
+              }
+            ]
+          },
+          "office": {
+            "text": "President of the Treasury Board",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Treasury Board"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jean-Yves Duclos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jean-Yves Duclos"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Middle Class Prosperity\nAssociate Minister of Finance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Middle Class Prosperity"
+              },
+              {
+                "type": "internal",
+                "page": "Associate Minister of Finance"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "November 20, 2019"
+          },
+          "term_end1": {
+            "text": "October 26, 2021"
+          },
+          "primeminister1": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Position created",
+            "formatting": {
+              "italic": [
+                "Position created"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "Randy Boissonault (Associate Minister of Finance)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Randy Boissonault"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Canadian"
+          },
+          "riding2": {
+            "text": "Ottawa—Vanier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ottawa—Vanier"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 3, 2017"
+          },
+          "predecessor2": {
+            "text": "Mauril Bélanger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mauril Bélanger"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Le vieux rêve de Mona Fortier",
+          "last": "Gratton",
+          "first": "Denis",
+          "url": "https://www.ledroit.com/chroniques/denis-gratton/le-vieux-reve-de-mona-fortier-999467ff0d339359b8fb87154cc2db25",
+          "publisher": "Le Droit",
+          "date": "April 7, 2017",
+          "access-date": "October 28, 2019}} {{in lang|fr|undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elections.ca/res/rep/off/ovr2019app/51/table12E.html",
+          "title": "Official Voting Results",
+          "publisher": "Elections Canada",
+          "accessdate": "January 23, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Search For Contributions",
+          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=8f76e405d74f46c493c20bf4a2ece2cd&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=227&current200Page=1&total200Pages=2&reportExists=True&displaySorting=True",
+          "publisher": "Elections Canada",
+          "access-date": "2021-06-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Vachet",
+          "first": "Benjamin",
+          "date": "April 3, 2017",
+          "title": "Ottawa-Vanier: Mona Fortier succède à Mauril Bélanger.",
+          "url": "http://www5.tfo.org/onfr/ottawa-vanier-mona-fortier-succede-a-mauril-belanger/",
+          "access-date": "April 7, 2017",
+          "website": "TFO",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "canadian federal election, 2019/ottawa—vanier"
+        },
+        {
+          "template": "canadian federal by-election, april 3, 2017/ottawa—vanier"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "18741",
+          "template": "canparlbio"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        },
+        {
+          "template": "ca-presidents of the treasury board"
+        },
+        {
+          "template": "liberal-ontario-mp-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official Website",
+            "links": [
+              {
+                "text": "Official Website",
+                "type": "external",
+                "site": "https://mfortier.liberal.ca/"
+              }
+            ]
+          },
+          {
+            "text": "Bio & mandate from the Prime Minister",
+            "links": [
+              {
+                "text": "Bio & mandate from the Prime Minister",
+                "type": "external",
+                "site": "https://pm.gc.ca/en/cabinet/honourable-mona-fortier"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

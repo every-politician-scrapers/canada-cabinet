@@ -1,0 +1,1358 @@
+{
+  "title": "Pablo Rodriguez (Canadian politician)",
+  "pageID": 3427721,
+  "categories": [
+    "1967 births",
+    "Canadian people of Argentine descent",
+    "Argentine emigrants to Canada",
+    "Francophone Quebec people",
+    "Liberal Party of Canada MPs",
+    "Living people",
+    "Members of the House of Commons of Canada from Quebec",
+    "Naturalized citizens of Canada",
+    "People from San Miguel de Tucumán",
+    "Politicians from Montreal",
+    "Université de Sherbrooke alumni",
+    "21st-century Canadian politicians",
+    "Members of the Queen's Privy Council for Canada",
+    "Members of the 29th Canadian Ministry"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Pablo Rodríguez (born June 21, 1967) is a Canadian politician who has served as the minister of Canadian heritage since 2021.",
+              "links": [
+                {
+                  "text": "minister of Canadian heritage",
+                  "type": "internal",
+                  "page": "Minister of Canadian Heritage"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Pablo Rodríguez"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Liberal Party, he represents Honoré-Mercier in the House of Commons.",
+              "links": [
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "text": "Honoré-Mercier",
+                  "type": "internal",
+                  "page": "Honoré-Mercier (electoral district)"
+                },
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                }
+              ]
+            },
+            {
+              "text": "Rodriguez previously served as the Government Chief Whip, Minister of Canadian Heritage and Multiculturalism and Leader of the Government in the House of Commons.",
+              "links": [
+                {
+                  "text": "Government Chief Whip",
+                  "type": "internal",
+                  "page": "Chief Whip"
+                },
+                {
+                  "text": "Leader of the Government in the House of Commons",
+                  "type": "internal",
+                  "page": "Leader of the Government in the House of Commons (Canada)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Canadian politician",
+          "template": "short description"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "Liberal",
+            "PC",
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "year": "1967",
+          "month": "06",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "Liberal",
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Pablo Rodriguez"
+          },
+          "image": {
+            "text": "File:IC Pablo Rodriguez.JPG"
+          },
+          "office": {
+            "text": "Minister of Canadian Heritage\n(Canadian Heritage and Multiculturalism; 2018–2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Canadian Heritage"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 26, 2021"
+          },
+          "predecessor": {
+            "text": "Steven Guilbeault",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Guilbeault"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "July 18, 2018"
+          },
+          "term_end1": {
+            "text": "November 20, 2019"
+          },
+          "predecessor1": {
+            "text": "Mélanie Joly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mélanie Joly"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Steven Guilbeault (Canadian Heritage)\nMarco Mendicino (Multiculturalism)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Guilbeault"
+              },
+              {
+                "type": "internal",
+                "page": "Marco Mendicino"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the Government in the House of Commons",
+            "links": [
+              {
+                "text": "Leader of the Government in the House of Commons",
+                "type": "internal",
+                "page": "Leader of the Government in the House of Commons (Canada)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "November 20, 2019"
+          },
+          "term_end2": {
+            "text": "October 26, 2021"
+          },
+          "predecessor2": {
+            "text": "Bardish Chagger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bardish Chagger"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mark Holland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Holland"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chief Government Whip",
+            "links": [
+              {
+                "text": "Chief Government Whip",
+                "type": "internal",
+                "page": "Party Whip (Canada)",
+                "anchor": "List of Chief Government Whips"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Justin Trudeau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Trudeau"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 30, 2017"
+          },
+          "term_end3": {
+            "text": "August 31, 2018"
+          },
+          "predecessor3": {
+            "text": "Andrew Leslie",
+            "links": [
+              {
+                "text": "Andrew Leslie",
+                "type": "internal",
+                "page": "Andrew Leslie (general)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Mark Holland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Holland"
+              }
+            ]
+          },
+          "riding4": {
+            "text": "Honoré-Mercier",
+            "links": [
+              {
+                "text": "Honoré-Mercier",
+                "type": "internal",
+                "page": "Honoré-Mercier (electoral district)"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Canadian"
+          },
+          "term_start4": {
+            "text": "October 19, 2015"
+          },
+          "predecessor4": {
+            "text": "Paulina Ayala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulina Ayala"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "June 28, 2004"
+          },
+          "term_end5": {
+            "text": "May 2, 2011"
+          },
+          "predecessor5": {
+            "text": "Yvon Charbonneau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yvon Charbonneau"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Paulina Ayala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulina Ayala"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 21, 1967"
+          },
+          "birth_place": {
+            "text": "San Miguel de Tucumán, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Miguel de Tucumán"
+              },
+              {
+                "type": "internal",
+                "page": "Argentina"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Canadian · Argentine"
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party of Canada"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Roxane Hardy"
+          },
+          "residence": {
+            "text": "Notre-Dame-de-Grâce, Montreal, Quebec, Canada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Notre-Dame-de-Grâce"
+              },
+              {
+                "type": "internal",
+                "page": "Montreal"
+              },
+              {
+                "type": "internal",
+                "page": "Quebec"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Communication consultant"
+          },
+          "alma_mater": {
+            "text": "University of Sherbrooke (BBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sherbrooke"
+              },
+              {
+                "text": "BBA",
+                "type": "internal",
+                "page": "Bachelor of Business Administration"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Dion among a dozen MPs with dual citizenships",
+          "url": "https://www.cbc.ca/news/canada/dion-among-a-dozen-mps-with-dual-citizenships-1.574134",
+          "website": "CBC News",
+          "access-date": "4 March 2022",
+          "date": "8 December 2006",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hilltimes.com/2018/07/25/rodriguez-tassi-staying-government-whips-least-next-weeks/151845",
+          "title": "Rodriguez, Tassi staying as government whips for now, changes expected soon",
+          "last": "Wright Allen",
+          "first": "Samantha",
+          "date": "July 25, 2018",
+          "work": "The Hill Times",
+          "access-date": "August 2, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Search For Contributions",
+          "url": "https://www.elections.ca/WPAPPS/WPF/EN/CCS/ContributionReport?returnStatus=1&reportOption=5&queryId=5eadfba96cd647b0a9dde486b8c1fa4e&sortDirection=asc&sortOrder=0%2C1%2C2&totalRecordFound=129&current200Page=1&total200Pages=1&reportExists=True&displaySorting=True",
+          "publisher": "Elections Canada",
+          "access-date": "2021-06-23",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez was born on June 21, 1967, in San Miguel de Tucumán, Argentina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "San Miguel de Tucumán"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentina"
+                }
+              ]
+            },
+            {
+              "text": "When he was eight, Rodriguez's family fled to Canada after their home was bombed during the Dirty War after his father was repeatedly jailed and tortured for his activism.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dirty War"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to entering politics, Rodriguez, who has a degree in business administration from the University of Sherbrooke, had worked for over twelve years in the fields of public affairs and management of international projects.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Sherbrooke"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Throughout his career, Rodriguez has dedicated much of his time to humanitarian causes."
+            },
+            {
+              "text": "His work particularly focused on helping developing countries and the eradication of poverty."
+            },
+            {
+              "text": "He was the Vice President of Oxfam Québec from 2000 to 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oxfam"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.lop.parl.gc.ca/ParlInfo/files/Parliamentarian.aspx?Item=5836b275-89f1-49ce-9b8c-7de46b261c3d&Language=E&Section=ALL",
+          "title": "RODRIGUEZ, The Hon. Pablo, P.C., B.A.A.",
+          "website": "Library of Parliament",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ctvnews.ca/canada/trudeau-s-emotional-visit-to-argentine-memorial-renews-focus-on-human-rights-1.3167338",
+          "title": "Trudeau's emotional visit to Argentine memorial renews focus on human rights",
+          "last": "Press",
+          "first": "Jordan",
+          "date": "November 18, 2016",
+          "work": "CTVNews",
+          "access-date": "April 24, 2017",
+          "agency": "Canadian Press",
+          "language": "en-CA",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://ca.linkedin.com/in/pabrodriguez",
+          "title": "Pablo Rodriguez",
+          "date": "July 18, 2018",
+          "website": "LinkedIn",
+          "access-date": "July 18, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "March 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Federal politics",
+      "depth": 0,
+      "templates": [
+        {
+          "date": "May 2019",
+          "template": "blp unsourced section"
+        }
+      ]
+    },
+    {
+      "title": "Opposition MP",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez was elected as a Liberal to the House of Commons of Canada for the Quebec riding of Honoré-Mercier in 2004, 2006 and 2008.",
+              "links": [
+                {
+                  "text": "Liberal",
+                  "type": "internal",
+                  "page": "Liberal Party of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Commons of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Quebec"
+                },
+                {
+                  "text": "Honoré-Mercier",
+                  "type": "internal",
+                  "page": "Honoré-Mercier (electoral district)"
+                },
+                {
+                  "text": "2004",
+                  "type": "internal",
+                  "page": "2004 Canadian federal election"
+                },
+                {
+                  "text": "2006",
+                  "type": "internal",
+                  "page": "2006 Canadian federal election"
+                },
+                {
+                  "text": "2008",
+                  "type": "internal",
+                  "page": "2008 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "For most of his first stint in Parliament, he was the only Liberal representing a riding in eastern Montreal, a longstanding stronghold for the Bloc Québecois.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bloc Québecois"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez was chair of the Standing Committee on Official Languages, the Official Opposition’s Critic for of the Francophonie and Official Languages, and Critic for Public Works and Government Services Canada."
+            },
+            {
+              "text": "He has served on many committees of the House of Commons, including the Committee of Canadian Heritage, Official Languages and the Public Accounts Committee."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On February 14, 2007, a bill Rodriguez put forward was passed by the Commons that would give the Conservative government 60 days to come up with a plan to respect Canada's engagements under the Kyoto Protocol.",
+              "links": [
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kyoto Protocol"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the Past President of the Quebec wing of the Liberal Party of Canada."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the Quebec Chair of Michael Ignatieff's candidacy in the 2006 Liberal Party of Canada leadership election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Michael Ignatieff"
+                },
+                {
+                  "text": "2006 Liberal Party of Canada leadership election",
+                  "type": "internal",
+                  "page": "2006 Liberal Party of Canada leadership election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2011 election he was defeated by the New Democratic Party's Paulina Ayala amid the NDP's surge in Quebec.",
+              "links": [
+                {
+                  "text": "2011 election",
+                  "type": "internal",
+                  "page": "2011 Canadian federal election"
+                },
+                {
+                  "text": "New Democratic Party",
+                  "type": "internal",
+                  "page": "New Democratic Party (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paulina Ayala"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2010",
+          "template": "clarify"
+        }
+      ],
+      "references": [
+        {
+          "date": "March 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "March 2022",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "In government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez sought a rematch with Ayala in the 2015 election.",
+              "links": [
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Canadian federal election"
+                }
+              ]
+            },
+            {
+              "text": "Amid a Liberal surge almost as large as the NDP's surge four years earlier, he defeated Ayala to return to Parliament as one of Prime Minister Justin Trudeau's MPs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Justin Trudeau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "42nd Canadian Parliament",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez served as Chief Government Whip for a year and a half from 30 January 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Government Whip"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez served in the 42nd Canadian Parliament as the Minister of Canadian Heritage from July 18, 2018 until dissolution of that government on November 20, 2019.",
+              "links": [
+                {
+                  "text": "42nd Canadian Parliament",
+                  "type": "internal",
+                  "page": "42nd Canadian Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Canadian Heritage"
+                }
+              ]
+            },
+            {
+              "text": "One of his signature initiatives at Heritage was the expansion of the Canada Periodical Fund from magazine-format monthlies to daily broadsheets.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canada Periodical Fund"
+                }
+              ]
+            },
+            {
+              "text": "This was announced in Bill Morneau's 21 November 2018 \"fiscal update\" as a $600-million slush fund over five years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bill Morneau"
+                }
+              ]
+            },
+            {
+              "text": "The measure was widely applauded in the press \"by an eclectic group of media outlets, including Postmedia, which owns the National Post, Torstar, which publishes the Toronto Star, SaltWire Network, and the CBC among others.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Postmedia"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Post"
+                },
+                {
+                  "type": "internal",
+                  "page": "Torstar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Toronto Star"
+                },
+                {
+                  "type": "internal",
+                  "page": "SaltWire Network"
+                },
+                {
+                  "text": "CBC",
+                  "type": "internal",
+                  "page": "Canadian Broadcasting Corporation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Highlights of Bill Morneau's 2018 fiscal update",
+          "url": "https://www.cbc.ca/news/politics/highlights-morneau-fall-economic-statement-1.4913231",
+          "publisher": "CBC",
+          "date": "21 November 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Zimonjic",
+          "first1": "Peter",
+          "title": "Federal government names organizations that will help spend $600M journalism fund",
+          "url": "https://www.cbc.ca/news/politics/journalism-support-fund-panel-1.5144282",
+          "publisher": "CBC",
+          "date": "22 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Thompson",
+          "first1": "Stuart",
+          "title": "'The news industry is in trouble': Canadian media outlets team up to demand tax and regulatory changes",
+          "url": "https://nationalpost.com/news/canada/the-news-industry-is-in-trouble-canadian-media-outlets-team-up-to-demand-tax-and-regulatory-changes",
+          "publisher": "National Post, a division of Postmedia Network Inc",
+          "date": "19 February 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "43rd Canadian Parliament",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodriguez was re-elected in the 2019 federal election."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From formation on 20 November 2019 until dissolution, Rodriguez served as Leader of the Government in the House of Commons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leader of the Government in the House of Commons"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "44th Canadian Parliament",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the 2021 election, Rodriguez was re-appointed as Minister of Canadian Heritage on 26 October 2021.",
+              "links": [
+                {
+                  "text": "2021 election",
+                  "type": "internal",
+                  "page": "2021 Canadian federal election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Canadian Heritage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Electoral record",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "canadian federal election, 2021/honoré-mercier"
+        },
+        {
+          "template": "canadian federal election, 2019/honoré-mercier"
+        },
+        {
+          "list": [
+            "CA",
+            "2015",
+            "Honoré-Mercier (electoral district)",
+            "Honoré-Mercier"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Pablo Rodriguez",
+            "29,211",
+            "56.55",
+            "+23.5",
+            "$53,622.10"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Paulina Ayala",
+            "8,478",
+            "16.41",
+            "-18.81",
+            "$12,795.65"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "BQ",
+            "Audrey Beauséjour",
+            "6,680",
+            "12.93",
+            "-3.07",
+            "$11,516.20"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Guy Croteau",
+            "6,226",
+            "12.05",
+            "-0.96",
+            "$3,697.33"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Angela Budilean",
+            "814",
+            "1.58",
+            "-0.03",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "FD",
+            "Dayana Dejean",
+            "168",
+            "0.33",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Yves Le Seigle",
+            "81",
+            "0.16",
+            "-0.19",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes/Expense limit",
+            "51,658",
+            "100.0",
+            "",
+            "$213,214.66"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "682",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "52,340",
+            "&ndash;",
+            "&ndash;"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Eligible voters",
+            "78,428"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "NDP",
+            "+17.11"
+          ],
+          "template": "canelec/gain"
+        },
+        {
+          "list": [
+            "Source: Elections Canada"
+          ],
+          "template": "canelec/source"
+        },
+        {
+          "list": [
+            "CA",
+            "2011",
+            "Honoré-Mercier (electoral district)",
+            "Honoré-Mercier"
+          ],
+          "percent": "yes",
+          "change": "yes",
+          "expenditures": "yes",
+          "template": "canadian election result/top"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Paulina Ayala",
+            "17,545",
+            "36.37",
+            "+26.26"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Liberal",
+            "Pablo Rodriguez",
+            "14,641",
+            "30.35",
+            "-13.32"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "BQ",
+            "Martin Laroche",
+            "8,935",
+            "18.52",
+            "-9.60"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Conservative",
+            "Gérard Labelle",
+            "5,992",
+            "12.42",
+            "-2.88"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Green",
+            "Gaëtan Bérard",
+            "770",
+            "1.60",
+            "-1.20"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Rhinoceros",
+            "Valery Chevrefils-Latulippe",
+            "181",
+            "0.38",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "CA",
+            "Marxist-Leninist",
+            "Jean-Paul Bédard",
+            "170",
+            "0.35",
+            "&ndash;"
+          ],
+          "template": "canelec"
+        },
+        {
+          "list": [
+            "Total valid votes",
+            "48,234",
+            "100.00"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Total rejected ballots",
+            "622",
+            "1.27",
+            "-0.06"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "Turnout",
+            "48,856",
+            "59.98",
+            "-2.18"
+          ],
+          "template": "canadian election result/total"
+        },
+        {
+          "list": [
+            "CA",
+            "NDP",
+            "Liberal",
+            "+19.79"
+          ],
+          "template": "canelec/gain"
+        },
+        {
+          "template": "canadian federal election, 2008/electoral district/honoré-mercier (electoral district)"
+        },
+        {
+          "template": "canadian federal election, 2006/electoral district/honoré-mercier (electoral district)"
+        },
+        {
+          "template": "canadian federal election, 2004/electoral district/honoré-mercier (electoral district)"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Criminal Charge",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On April 16, 2010, Rodriguez was charged under the Criminal Code of Canada, after he collided his BMW with a parked car in Montreal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Criminal Code of Canada"
+                },
+                {
+                  "type": "internal",
+                  "page": "BMW"
+                },
+                {
+                  "type": "internal",
+                  "page": "Montreal"
+                }
+              ]
+            },
+            {
+              "text": "Police attending the crash reported Rodriguez had bloodshot eyes and alcohol on his breath, and during attempts to administer a breathalyzer test, Rodriguez \"breathed very weakly and cut his breath repeatedly, all the while holding the plastic tip at the edge of his lips\".",
+              "links": [
+                {
+                  "text": "breathalyzer",
+                  "type": "internal",
+                  "page": "breathalyzer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to Rodriguez himself, \"Because I'd consumed a moderate amount of wine during the previous supper, the police officer asked me to proceed with a breathalyzer test, using a hand-held machine, which I did without hesitation\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite the criminal charge, Rodriguez remained in the Liberal caucus."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thestar.com/news/canada/2011/12/05/tory_mp_quits_caucus_after_driving_charge.html",
+          "title": "Tory MP quits caucus after driving charge",
+          "newspaper": "The Toronto Star",
+          "date": "5 December 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reddeeradvocate.com/national-news/liberal-mp-pablo-rodriguez-charged-after-breathalyzer-incident/",
+          "title": "Liberal MP Pablo Rodriguez charged after breathalyzer incident",
+          "date": "14 May 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.ctvnews.ca/liberal-mp-charged-after-breathalyzer-incident-1.512571",
+          "title": "Liberal MP charged after breathalyzer incident",
+          "date": "14 May 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theglobeandmail.com/news/politics/liberal-mp-charged-in-breathalyzer-incident/article1211230/",
+          "title": "Liberal MP charged in breathalyzer incident",
+          "newspaper": "The Globe and Mail",
+          "date": "14 May 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "2": "Pablo Rodriguez",
+          "id": "8374",
+          "template": "canadian parliament links"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "ministry": "29",
+          "template": "canadian federal ministry navigational box header"
+        },
+        {
+          "post1preceded": "Mélanie Joly",
+          "post1": "Minister of Canadian Heritage and Multiculturalism",
+          "post1years": "July 18, 2018 – November 20, 2019",
+          "post1followed": "Steven Guilbeault",
+          "template": "ministry box cabinet posts"
+        },
+        {
+          "template": "justin trudeau ministry"
+        },
+        {
+          "template": "cancabinet"
+        },
+        {
+          "template": "current members of the canadian house of commons"
+        },
+        {
+          "template": "ca-ministers of canadian heritage"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website of Pablo Rodriguez",
+            "links": [
+              {
+                "text": "Official website of Pablo Rodriguez",
+                "type": "external",
+                "site": "http://www.pablorodriguez.ca/"
+              }
+            ]
+          },
+          {
+            "text": "Bio & mandate from the Prime Minister",
+            "links": [
+              {
+                "text": "Bio & mandate from the Prime Minister",
+                "type": "external",
+                "site": "https://pm.gc.ca/en/cabinet/honourable-pablo-rodriguez"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Bio & mandate from the Prime Minister",
+            "links": [
+              {
+                "text": "Bio & mandate from the Prime Minister",
+                "type": "external",
+                "site": "https://pm.gc.ca/en/cabinet/honourable-pablo-rodriguez"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

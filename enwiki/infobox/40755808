@@ -1,9 +1,6 @@
 {
   "honorific-prefix": "The Honourable",
   "name": "Tim Houston",
-  "birth_name": "Timothy Jerome Houston",
-  "birth_date": "April 10, 1970",
-  "birth_place": "Halifax, Nova Scotia",
   "office1": "30th Premier of Nova Scotia",
   "term_start1": "August 31, 2021",
   "monarch1": "Elizabeth II",
@@ -22,9 +19,12 @@
   "constituency_am4": "Pictou East",
   "term_start4": "October 8, 2013",
   "predecessor4": "Clarrie MacKinnon",
+  "birth_name": "Timothy Jerome Houston",
+  "birth_date": "April 10, 1970",
+  "birth_place": "Halifax, Nova Scotia, Canada",
   "party": "Progressive Conservative",
   "alma_mater": "Saint Mary's University (BCom)",
   "spouse": "Carol Houston",
-  "occupation": "Accountant",
+  "occupation": "Politician",
   "website": "Official website"
 }

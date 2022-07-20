@@ -3562,6 +3562,9 @@
       ],
       "templates": [
         {
+          "template": "wikiquote"
+        },
+        {
           "template": "commons category"
         },
         {

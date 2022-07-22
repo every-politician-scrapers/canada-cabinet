@@ -212,10 +212,10 @@
             ]
           },
           "party": {
-            "text": "Independant",
+            "text": "Independent",
             "links": [
               {
-                "text": "Independant",
+                "text": "Independent",
                 "type": "internal",
                 "page": "consensus government"
               }

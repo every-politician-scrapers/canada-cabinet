@@ -192,15 +192,15 @@
       ],
       "templates": [
         {
-          "description": "Premier of Quebec",
+          "description": "32nd premier of Quebec",
           "template": "short description"
         },
         {
           "country": "CAN",
-          "size": "100%",
           "list": [
             "MNA"
           ],
+          "size": "100%",
           "template": "post-nominal"
         },
         {
@@ -216,6 +216,13 @@
         },
         {
           "template": "conservatism canada"
+        },
+        {
+          "country": "CAN",
+          "list": [
+            "MNA"
+          ],
+          "template": "post-nominal"
         },
         {
           "transcription": "fʁɑ̃swa ləɡo",
@@ -249,9 +256,12 @@
             "text": "Montreal, Quebec, Canada",
             "links": [
               {
-                "text": "Montreal, Quebec",
                 "type": "internal",
                 "page": "Montreal"
+              },
+              {
+                "type": "internal",
+                "page": "Quebec"
               }
             ]
           },

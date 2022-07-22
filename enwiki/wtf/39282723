@@ -656,6 +656,48 @@
               "text": "He assumed the office on June 3."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his tenure, Macklem confronted the COVID-19 pandemic's economic impact.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Canada"
+                },
+                {
+                  "text": "economic impact",
+                  "type": "internal",
+                  "page": "Economic impact of the COVID-19 pandemic in Canada"
+                }
+              ]
+            },
+            {
+              "text": "As a result of the federal government's deficit spending and supply chain disruptions from the pandemic, inflation surged during Macklem's term.",
+              "links": [
+                {
+                  "text": "deficit spending",
+                  "type": "internal",
+                  "page": "deficit spending"
+                },
+                {
+                  "text": "supply chain",
+                  "type": "internal",
+                  "page": "2021–2022 global supply chain crisis"
+                },
+                {
+                  "text": "inflation surged",
+                  "type": "internal",
+                  "page": "2021–2022 inflation surge"
+                }
+              ]
+            },
+            {
+              "text": "To combat inflation, the bank under Macklem raised interest rates from 0.25 percent at the beginning of 2022 to 2.5 percent as of July 2022."
+            }
+          ]
         }
       ],
       "references": [
@@ -670,6 +712,17 @@
           "access-date": "2020-06-12",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Lord",
+          "first1": "Craig",
+          "title": "Bank of Canada hikes key interest rate by full percentage point in surprise move",
+          "url": "https://globalnews.ca/news/8986132/bank-of-canada-interest-rate-july-2022/",
+          "website": "Global News",
+          "access-date": "21 July 2022",
+          "date": "13 July 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
